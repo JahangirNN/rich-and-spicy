@@ -13,3 +13,9 @@ $RECYCLE.BIN/
 
 # Temporary files
 *.tmp
+
+# Secrets and tokens
+.github_token
+*token*
+*.pat
+push_to_github.py
