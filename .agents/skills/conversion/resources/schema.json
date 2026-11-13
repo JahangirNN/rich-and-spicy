@@ -1,0 +1,131 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ProductCatalog",
+  "type": "object",
+  "required": ["category", "total_products", "brand", "manufacturer", "products"],
+  "properties": {
+    "category": { "type": "string" },
+    "total_products": { "type": "integer" },
+    "generated_at": { "type": "string" },
+    "brand": { "type": "string" },
+    "manufacturer": {
+      "type": "object",
+      "required": ["name", "address", "contact"],
+      "properties": {
+        "name": { "type": "string" },
+        "address": { "type": "string" },
+        "contact": { "type": "string" }
+      }
+    },
+    "products": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "brand",
+          "category",
+          "product_type",
+          "tags",
+          "regional_names",
+          "net_weight",
+          "dietary",
+          "images",
+          "recipe",
+          "manufacturer"
+        ],
+        "properties": {
+          "id": { "type": "string" },
+          "name": { "type": "string" },
+          "brand": { "type": "string" },
+          "category": { "type": "string" },
+          "product_type": { "type": "string" },
+          "tags": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "regional_names": {
+            "type": "object",
+            "properties": {
+              "gu": { "type": "string" }
+            }
+          },
+          "net_weight": {
+            "type": "object",
+            "required": ["value", "unit"],
+            "properties": {
+              "value": { "type": "number" },
+              "unit": { "type": "string" }
+            }
+          },
+          "pricing": {
+            "type": "object",
+            "properties": {
+              "mrp": { "type": ["number", "null"] },
+              "currency": { "type": "string" }
+            }
+          },
+          "packaging_type": { "type": "string" },
+          "dietary": {
+            "type": "object",
+            "properties": {
+              "is_vegetarian_mix": { "type": "boolean" },
+              "suggested_protein": {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            }
+          },
+          "images": {
+            "type": "object",
+            "required": ["primary", "filename"],
+            "properties": {
+              "primary": { "type": "string" },
+              "filename": { "type": "string" }
+            }
+          },
+          "recipe": {
+            "type": "object",
+            "required": [
+              "serves_portion",
+              "marination_time",
+              "cooking_methods",
+              "required_ingredients",
+              "instructions"
+            ],
+            "properties": {
+              "serves_portion": { "type": "string" },
+              "marination_time": { "type": "string" },
+              "cooking_methods": {
+                "type": "array",
+                "items": { "type": "string" }
+              },
+              "required_ingredients": {
+                "type": "array",
+                "items": { "type": "string" }
+              },
+              "instructions": {
+                "type": "object",
+                "required": ["en"],
+                "properties": {
+                  "en": { "type": "string" },
+                  "gu": { "type": "string" }
+                }
+              }
+            }
+          },
+          "manufacturer": {
+            "type": "object",
+            "required": ["name", "address", "contact"],
+            "properties": {
+              "name": { "type": "string" },
+              "address": { "type": "string" },
+              "contact": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

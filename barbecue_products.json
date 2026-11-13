@@ -1,0 +1,1131 @@
+{
+  "category": "Barbecue",
+  "total_products": 23,
+  "generated_at": "2026-11-13",
+  "brand": "Rich 'n' SP!CY",
+  "manufacturer": {
+    "name": "City Gruh Udhyog",
+    "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+    "contact": "9898155726"
+  },
+  "products": [
+    {
+      "id": "bbq-banjara-tikka-40g",
+      "name": "Rich 'n' Spicy Banjara Tikka Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": ["Barbecue", "Tikka", "Kabab", "Chicken", "Paneer"],
+      "regional_names": {
+        "gu": "બંજારા ટીક્કા"
+      },
+      "net_weight": {
+        "value": 40,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Paneer"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/BANJARA TIKKA.JPG",
+        "filename": "BANJARA TIKKA.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken / Paneer",
+        "marination_time": "1 hour",
+        "cooking_methods": ["Pan Fry", "Barbecue"],
+        "required_ingredients": [
+          "500g chicken tikka pieces / boneless paneer",
+          "3 tbsp curd",
+          "1 tbsp butter",
+          "40g Rich 'n' Spicy Banjara Tikka Masala",
+          "Little oil for cooking"
+        ],
+        "instructions": {
+          "en": "Marinate 500 gms chicken tikka with 3 tbs curd, 1 tbs butter and 40 gms Rich'n'Spicy Banjara chicken tikka masala for 1 hour. Pan fry or barbecue it with little oil.",
+          "gu": "૫૦૦ ગ્રામ બોનલેસ ચીકન ટીક્કા ને ૩ ટેબલ સ્પૂન દહીં, ૧ ટેબલ સ્પૂન માખણ, ૪૦ ગ્રામ રીચ એન સ્પાઇસી બંજારા ચીકન ટીક્કા સાથે ૧ કલાક રહેવા દો. પેન ફ્રાય અથવા શેકી લો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-bihari-tikka-kabab-60g",
+      "name": "Rich 'n' Spicy Bihari Tikka Kabab Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": ["Barbecue", "Tikka", "Kabab", "Chicken", "Mutton"],
+      "regional_names": {
+        "gu": "બીહારી ટીક્કા કબાબ"
+      },
+      "net_weight": {
+        "value": 60,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Mutton"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/BIHARI TIKKA.JPG",
+        "filename": "BIHARI TIKKA.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken / Mutton",
+        "marination_time": "1 to 4 hours",
+        "cooking_methods": ["Pan Fry", "Barbecue", "Oven Roast"],
+        "required_ingredients": [
+          "500g chicken tikka pieces",
+          "100g Amul / fresh cream",
+          "60g Rich 'n' Spicy Bihari Tikka Kabab Masala",
+          "Little oil for frying/barbecuing"
+        ],
+        "instructions": {
+          "en": "Marinate 500 gms Chicken tikka with Rich'n'Spicy Bihari tikka kabab masala and 100 gms amul cream for 1 hour. Pan fry or barbecue it with little oil.",
+          "gu": "૫૦૦ ગ્રામ ચીકન ટીક્કા માં રીચ એન સ્પાઇસી બીહારી ટીક્કા કબાબ મસાલો, ૧૦૦ ગ્રામ અમુલ ક્રીમ નાખી ૧ કલાક રેહવા દો. પેન ફ્રાય અથવા બૉર્બેક્યુ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-cheese-chicken-40g",
+      "name": "Rich 'n' Spicy Cheese Chicken Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Cheese", "Instant Mix", "Chicken", "Tikka"],
+      "regional_names": {
+        "gu": "ચીઝ ચિકન"
+      },
+      "net_weight": {
+        "value": 40,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Paneer"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/CHEESE CHICKEN.JPG",
+        "filename": "CHEESE CHICKEN.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken / Paneer",
+        "marination_time": "2-3 hours",
+        "cooking_methods": ["Pan Fry", "Barbecue"],
+        "required_ingredients": [
+          "500g chicken tikka pieces",
+          "2 tbsp butter",
+          "2 cheese cubes (grated)",
+          "40g Rich 'n' Spicy Cheese Chicken Instant Mix",
+          "Oil for frying"
+        ],
+        "instructions": {
+          "en": "Wash Chicken tikka pieces properly and pat dry it. Marinate tikka pieces with butter, grated cheese cubes, and Rich'n'Spicy Cheese Chicken instant mix for 2-3 hours. Pan fry or barbecue with little oil.",
+          "gu": "ચીકન ના ટુકડા ધોઈ ને કોરા કરો. માખણ, છીણેલું ચીઝ અને રીચ એન સ્પાઇસી ચીઝ ચિકન ઇન્સ્ટન્ટ મિક્સ સાથે ૨-૩ કલાક મેરીનેટ કરો. થોડા તેલ સાથે પેન ફ્રાય અથવા બાર્બેક્યુ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-chicken-tikka-paneer-tikka-50g",
+      "name": "Rich 'n' Spicy Chicken Tikka / Paneer Tikka (Gravy and Dry) Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Tikka", "Paneer", "Chicken", "Dry", "Gravy"],
+      "regional_names": {
+        "gu": "ચિકન ટીક્કા/પનીર ટીક્કા ડ્રાય/ગ્રેવી"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Paneer"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/CHICKEN TIKKA PANEER TIKKA.JPG",
+        "filename": "CHICKEN TIKKA PANEER TIKKA.JPG"
+      },
+      "recipe": {
+        "serves_portion": "750g Boneless Chicken / 500g Paneer",
+        "marination_time": "1 hour or more",
+        "cooking_methods": ["Barbecue", "Pan Fry", "Curry Gravy"],
+        "required_ingredients": [
+          "750g boneless chicken tikka pieces / 500g paneer cubes",
+          "100g curd",
+          "Orange red color (optional)",
+          "50g Rich 'n' Spicy Chicken Tikka / Paneer Tikka Instant Mix",
+          "Oil for basting"
+        ],
+        "instructions": {
+          "en": "In a bowl add Rich'n'Spicy Chicken tikka / paneer tikka instant mix, orange red color and curd. Mix well to form a smooth paste. Coat the chicken/paneer pieces with paste and marinate for 1 hour or more. Barbecue or pan fry with little oil.",
+          "gu": "એક બાઉલમાં રીચ એન સ્પાઇસી ચિકન ટીક્કા / પનીર ટીક્કા ઇન્સ્ટન્ટ મિક્સ, ઓરેન્જ રેડ કલર અને દહીં ઉમેરી પેસ્ટ બનાવો. ચિકન અથવા પનીર પર લગાવી ૧ કલાક મેરીનેટ કરો. તેલ સાથે બાર્બેક્યુ અથવા પેન ફ્રાય કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-foil-chicken-50g",
+      "name": "Rich 'n' Spicy Foil Chicken Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": ["Barbecue", "Foil Chicken", "Steamed", "Sizzler", "Chicken"],
+      "regional_names": {
+        "gu": "ફોઇલ ચીકન"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/FOIL CHICKEN.JPG",
+        "filename": "FOIL CHICKEN.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken Leg Pieces",
+        "marination_time": "1 hour",
+        "cooking_methods": ["Shallow Fry & Foil Steam"],
+        "required_ingredients": [
+          "500g chicken leg pieces",
+          "2 tbsp curd or lemon juice",
+          "Sliced long thin potato chips and carrots",
+          "50g Rich 'n' Spicy Foil Chicken Masala",
+          "Aluminum foil paper",
+          "Oil for shallow frying"
+        ],
+        "instructions": {
+          "en": "Wash 500 gms chicken leg piece and make deep cuts over the chicken. Mix Rich'n'Spicy foil chicken masala with 2 tbs curd/lemon (as per your choice) and apply it over leg pieces and allow it to marinate for 1 hour. Shallow fry the chicken with little oil. In a foil paper put the grilled chicken pieces and sliced long & thin potato chips & carrots and cover the entire mixture with foil paper & steam it for 15 minutes.",
+          "gu": "૫૦૦ ગ્રામ ચીકન લેગપીસ પર ઊંડા કાપા પાડો. રીચ એન સ્પાઇસી ફોઇલ ચીકન મસાલા મા ૨ ટેબલ સ્પૂન દહીં અથવા લીંબુ નો રસ નાખી મીશ્રણ બનાવી લેગપીસ પર લગાડી ૧ કલાક રહેવા દો.. પેન માં થોડું તેલ લઇ ફ્રાય કરો. ફોઇલ પેપર મા પાકેલી ચીકન લાંબી કાપેલી બટાકા ની ચીપ્સ અને ગાજર નાખી સ્ટીમ માં ૧૫ મીનીટ સુધી પકાવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-ginger-chicken-60g",
+      "name": "Rich 'n' Spicy Ginger Chicken Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": ["Barbecue", "Ginger Chicken", "Tikka", "Chicken"],
+      "regional_names": {
+        "gu": "જીંજર ચિકન"
+      },
+      "net_weight": {
+        "value": 60,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/ginger chicken.JPG",
+        "filename": "ginger chicken.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken Tikka",
+        "marination_time": "1 hour",
+        "cooking_methods": ["Pan Fry", "Barbecue"],
+        "required_ingredients": [
+          "500g chicken tikka pieces",
+          "100g curd",
+          "60g Rich 'n' Spicy Ginger Chicken Masala",
+          "Little oil for cooking"
+        ],
+        "instructions": {
+          "en": "Marinate 500 gms chicken tikka with Rich'n'Spicy Ginger tikka masala, 100 gms curd for 1 hour. Pan fry or barbecue it with little oil.",
+          "gu": "૫૦૦ ગ્રામ ચીકન માં રીચ એન સ્પાઇસી જીંજર ટીક્કા મસાલો, ૧૦૦ ગ્રામ દહીં નાખી ૧ કલાક રેહવા દો. પેન માં થોડુ તેલ લઇ ફ્રાઇ અથવા બૉર્બેક્યુ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-golden-tikka-40g",
+      "name": "Rich 'n' Spicy Golden Tikka Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Golden Tikka", "Tandoori", "Chicken", "Paneer"],
+      "regional_names": {
+        "gu": "ગોલ્ડન ટીક્કા"
+      },
+      "net_weight": {
+        "value": 40,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Paneer"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/golden tikka.JPG",
+        "filename": "golden tikka.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken / Paneer",
+        "marination_time": "1-2 hours",
+        "cooking_methods": ["Pan Fry", "Barbecue", "Grill"],
+        "required_ingredients": [
+          "500g chicken tikka pieces or paneer",
+          "40g Rich 'n' Spicy Golden Tikka Instant Mix",
+          "3-4 tbsp curd or fresh cream",
+          "Butter/oil for basting"
+        ],
+        "instructions": {
+          "en": "Marinate 500g chicken tikka or paneer with 40g Rich'n'Spicy Golden Tikka instant mix and 3-4 tbsp curd or cream for 1-2 hours. Skewer and pan fry or barbecue with butter or oil until golden.",
+          "gu": "૫૦૦ ગ્રામ ચીકન ટીક્કા અથવા પનીર ને ૪૦ ગ્રામ રીચ એન સ્પાઇસી ગોલ્ડન ટીક્કા ઇન્સ્ટન્ટ મિક્સ અને ૩-૪ ચમચી દહીં/ક્રીમ સાથે ૧-૨ કલાક મેરીનેટ કરો. સીખ પર લગાવી ગોલ્ડન થાય ત્યાં સુધી ફ્રાય અથવા બાર્બેક્યુ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-hariyali-chicken-tikka-40g",
+      "name": "Rich 'n' Spicy Hariyali Chicken Tikka Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Hariyali", "Green Tikka", "Chicken", "Paneer"],
+      "regional_names": {
+        "gu": "હરિયાળી ચિકન ટીક્કા"
+      },
+      "net_weight": {
+        "value": 40,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Paneer"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/hariyali chicken tikka.JPG",
+        "filename": "hariyali chicken tikka.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken Tikka Pieces",
+        "marination_time": "3-4 hours",
+        "cooking_methods": ["Pan Fry", "Barbecue", "Oven Roast"],
+        "required_ingredients": [
+          "500g chicken tikka pieces",
+          "4 tbsp curd",
+          "40g Rich 'n' Spicy Hariyali Chicken Tikka Instant Mix",
+          "Oil for frying"
+        ],
+        "instructions": {
+          "en": "Wash Chicken tikka pieces with water and pat dry it. In a bowl add Rich'n'Spicy Hariyali Chicken tikka instant mix along with curd to form a paste. Coat the chicken tikka pieces with paste and marinate it for 3-4 hours. Pan fry or barbecue the chicken with little oil. Or roast it with the help of microwave or an oven until tender.",
+          "gu": "ચીકન ટીક્કા ના ટુકડા ધોઈ ને કોરા કરો. રીચ એન સ્પાઇસી હરિયાળી ચિકન ટીક્કા ઇન્સ્ટન્ટ મિક્સ માં ૪ ચમચી દહીં ઉમેરી પેસ્ટ બનાવો. ચિકન પર પેસ્ટ લગાવી ૩-૪ કલાક મેરીનેટ કરો. તેલ સાથે પેન ફ્રાય, બાર્બેક્યુ અથવા ઓવન માં રોસ્ટ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-sauce-chicken-50g",
+      "name": "Rich 'n' Spicy Sauce Chicken Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": ["Barbecue", "Sauce Chicken", "Tangy", "Chicken Wings", "Ketchup Base"],
+      "regional_names": {
+        "gu": "સોસ ચીકન"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/IDDI8957.JPG",
+        "filename": "IDDI8957.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken Pieces",
+        "marination_time": "1 hour",
+        "cooking_methods": ["Pan Fry / Sauté"],
+        "required_ingredients": [
+          "500g chicken pieces / leg pieces",
+          "1 cup tomato ketchup",
+          "50g Rich 'n' Spicy Sauce Chicken Masala",
+          "Oil for cooking"
+        ],
+        "instructions": {
+          "en": "Churn the ingredients of both the pack of Rich'n'Spicy Sauce chicken masala to a fine paste in a mixer. Apply The paste to 500 gms chicken pieces and allow it to marinate for 1 hour. Heat oil in a pan and add the marinated mixture to it and cook till its tender. Add 1 cup tomato ketchup to it and fry.",
+          "gu": "રીચ એન સ્પાઇસી સોસ ચીકન મસાલા ના બંનેવ પેકેટ ની સામગ્રી ને મીક્સરમાં નાંખી પેસ્ટ બનાવી ૫૦૦ ગ્રામ ચીકન પર પેસ્ટ લગાડી ૧ કલાક રહેવા દો. પેન માં થોડુ તેલ ગરમ કરી મીશ્રણ ને ફ્રાય કરો. ચીકન પાકી જાય ત્યાર બાદ ૧ કપ કેચપ નાખી ફ્રાય કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-lemon-chicken-40g",
+      "name": "Rich 'n' Spicy Lemon Chicken Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Lemon Chicken", "Citrus", "Tangy", "Chicken"],
+      "regional_names": {
+        "gu": "લેમન ચિકન"
+      },
+      "net_weight": {
+        "value": 40,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Shield-Window Pouch",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Fish"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/LEMON CHICKEN.JPG",
+        "filename": "LEMON CHICKEN.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken Tikka Pieces",
+        "marination_time": "1-2 hours",
+        "cooking_methods": ["Pan Fry", "Barbecue"],
+        "required_ingredients": [
+          "500g chicken tikka pieces",
+          "1 cup curd",
+          "2 tbsp chilli ginger garlic paste",
+          "1 tbsp sliced julienne ginger",
+          "Juice of 2-3 lemons",
+          "Coriander leaves",
+          "40g Rich 'n' Spicy Lemon Chicken Instant Mix",
+          "Oil for frying"
+        ],
+        "instructions": {
+          "en": "Wash chicken tikka pieces with water and pat dry it. In a bowl add chilli, ginger, garlic paste, sliced long ginger, curd, Rich'n'Spicy lemon chicken instant mix. Mix well to form a fine paste. Coat chicken and marinate. Heat oil in a pan and add the marinated mixture along with lemon juice. Cook till the chicken is tender. You can also barbecue or pan fry the chicken.",
+          "gu": "ચીકન ના ટુકડા ધોઈ ને કોરા કરો. મરચા, આદુ, લસણ પેસ્ટ, આદુ ની કતરણ, દહીં અને રીચ એન સ્પાઇસી લેમન ચિકન ઇન્સ્ટન્ટ મિક્સ ઉમેરી પેસ્ટ બનાવો. તેલ માં મેરીનેટ કરેલું મિશ્રણ લીંબુ ના રસ સાથે રાંધો અથવા પેન ફ્રાય/બાર્બેક્યુ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-macchi-chicken-new-40g",
+      "name": "Rich 'n' Spicy Macchi Chicken (New) Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": ["Barbecue", "Fish", "Chicken", "Macchi", "Coastal"],
+      "regional_names": {
+        "gu": "મચ્છી ચીકન(ન્યુ)"
+      },
+      "net_weight": {
+        "value": 40,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Fish", "Chicken"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/macchi chicken new.JPG",
+        "filename": "macchi chicken new.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Fish or Chicken",
+        "marination_time": "1 hour",
+        "cooking_methods": ["Pan Fry", "Barbecue"],
+        "required_ingredients": [
+          "500g fish fillets or chicken pieces",
+          "Juice of 1 lime (for fish) OR 4 tbsp curd (for chicken)",
+          "40g Rich 'n' Spicy Macchi Chicken (New) Masala",
+          "Oil for frying"
+        ],
+        "instructions": {
+          "en": "Marinate 500 gms fish with Rich'n'Spicy Macchi chicken (new) masala with 1 lime juice for 1 hour. Pan fry it with little oil. For Chicken: Marinate 500 gms chicken with Rich'n'Spicy Macchi chicken (new) masala with 4 tbs curd for 1 hour. Pan fry or barbecue it with oil.",
+          "gu": "૫૦૦ ગ્રામ મચ્છી ને રીચ એન સ્પાઇસી મચ્છી ચીકન ન્યુ મસાલા અને ૧ લીંબુ નો રસ નાખી ૧ કલાક રેહવા દો. પેન માં થોડુ તેલ લઇ ફ્રાય કરો. ચીકન માટે : ૫૦૦ ગ્રામ ચીકન માં રીચ એન સ્પાઇસી મચ્છી ચીકન ન્યુ મસાલો, ૪ ચમચ દઇ નાખી ૧ કલાક રેહવા દો. પેન ફ્રાય અથવા શેકી લો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-macchi-chicken-dual-50g",
+      "name": "Rich 'n' Spicy Machhi-Chicken Instant Mix (Dual Compartment)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Fish", "Chicken", "Dual Compartment", "Coconut"],
+      "regional_names": {
+        "gu": "મચ્છી-ચીકન"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Dual-Compartment Window Pouch (Coconut + Masala)",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Fish", "Chicken"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/MACCHI CHICKEN.JPG",
+        "filename": "MACCHI CHICKEN.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Fish / Chicken",
+        "marination_time": "1-2 hours",
+        "cooking_methods": ["Pan Fry", "Barbecue"],
+        "required_ingredients": [
+          "500g fish or chicken pieces",
+          "1 lime juice or 4 tbsp curd",
+          "Rich 'n' Spicy Machhi-Chicken Dual Compartment Mix (50g)",
+          "Oil for frying"
+        ],
+        "instructions": {
+          "en": "Combine the coconut mix and aromatic spice powder from both compartments. Coat 500g fish with lime juice or chicken with curd. Marinate for 1-2 hours. Pan fry with oil until crisp and aromatic.",
+          "gu": "બંને ખાનામાં રહેલ કોપરા નો પાઉડર અને મસાલા નું મિશ્રણ કરો. મચ્છી માટે લીંબુ નો રસ અથવા ચિકન માટે દહીં સાથે મિક્સ કરી ૧-૨ કલાક મેરીનેટ કરો. તેલ માં ક્રિસ્પી થાય ત્યાં સુધી ફ્રાય કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-makhan-mari-tikka-40g",
+      "name": "Rich 'n' Spicy Makhan-Mari Tikka Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Makhan Mari", "Butter Pepper", "Black Pepper", "Chicken", "Paneer"],
+      "regional_names": {
+        "gu": "મખ્ખન-મરી ટીક્કા"
+      },
+      "net_weight": {
+        "value": 40,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Paneer"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/MAKHAN MARI.JPG",
+        "filename": "MAKHAN MARI.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken Tikka Pieces",
+        "marination_time": "1 hour",
+        "cooking_methods": ["Pan Fry", "Barbecue"],
+        "required_ingredients": [
+          "500g chicken tikka pieces / paneer",
+          "Juice of 1 whole lemon",
+          "2 tbsp butter",
+          "40g Rich 'n' Spicy Makhan Mari Tikka Instant Mix",
+          "Oil/butter for frying"
+        ],
+        "instructions": {
+          "en": "Wash 500 gms chicken tikka pieces with water and pat dry it. In a bowl add Rich'n'Spicy Makhan mari instant mix, 1 lemon juice, 2 tbs butter. Mix well to form a paste. Coat chicken pieces and marinate for 1 hour. Pan fry or barbecue with butter.",
+          "gu": "૫૦૦ ગ્રામ ચીકન ધોઈ ને કોરા કરો. એક બાઉલમાં રીચ એન સ્પાઇસી મખ્ખન મરી ઇન્સ્ટન્ટ મિક્સ, ૧ આખા લીંબુ નો રસ અને ૨ ચમચી માખણ મિક્સ કરી પેસ્ટ બનાવો. ચિકન પર લગાવી ૧ કલાક રાખો અને માખણ/તેલ માં પેન ફ્રાય અથવા બાર્બેક્યુ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-makhmali-tikka-50g",
+      "name": "Rich 'n' Spicy Makhmali Tikka Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": ["Barbecue", "Makhmali Tikka", "Shawarma", "Rolls", "Sliders", "Chicken"],
+      "regional_names": {
+        "gu": "મખમલી ટીક્કા"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Paneer"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/MAKHMALI TIKKA.JPG",
+        "filename": "MAKHMALI TIKKA.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken Tikka",
+        "marination_time": "1 hour",
+        "cooking_methods": ["Pan Fry", "Barbecue", "Gravy"],
+        "required_ingredients": [
+          "500g chicken tikka",
+          "Juice of 1 lime",
+          "50g curd",
+          "50g Rich 'n' Spicy Makhmali Tikka Masala",
+          "Oil for frying"
+        ],
+        "instructions": {
+          "en": "Marinate 500 gms chicken tikka with 1 lime juice, 50 gms Rich'n'Spicy Makhmali tikka masala, 50 gms Curd for 1 hour. Pan fry it with little oil. (For Gravy Make fine paste of 2 medium sized onions and tomatoes. WORKS WELL FOR SHAWRMA, SLIDER'S, OR ROLL'S)",
+          "gu": "૫૦૦ ગ્રામ ચીકન ટીક્કા માં ૧ લીંબુ નો રસ, ૫૦ ગ્રામ રીચ એન સ્પાઇસી મખમલી ટીક્કા મસાલો અને ૫૦ ગ્રામ દહીં નાખી ૧ કલાક રેહવા દો. પેન ફ્રાય અથવા શેકી લો. ગ્રેવી માટે ટામેટા કાંદા ની પ્યુરી કરવી મખમલી ટીક્કા નો મસાલો શોરમા, સ્લાઇડર, અથવા રોલ માટે ઉપયોગ કરવુ)"
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-malai-chicken-tikka-40g",
+      "name": "Rich 'n' Spicy Malai (Cream) Chicken Tikka Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Malai Tikka", "Cream Tikka", "Mild", "Chicken", "Paneer"],
+      "regional_names": {
+        "gu": "મલાઈ (ક્રીમ) ચિકન ટીક્કા"
+      },
+      "net_weight": {
+        "value": 40,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Paneer"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/MALAI TIKKA.JPG",
+        "filename": "MALAI TIKKA.JPG"
+      },
+      "recipe": {
+        "serves_portion": "750g Chicken Tikka Pieces",
+        "marination_time": "2-3 hours",
+        "cooking_methods": ["Pan Fry", "Barbecue", "Grill"],
+        "required_ingredients": [
+          "750g chicken tikka pieces",
+          "1 to 1.5 cups fresh/Amul cream",
+          "1 raw egg (optional)",
+          "40g Rich 'n' Spicy Malai Chicken Tikka Instant Mix",
+          "Oil or butter"
+        ],
+        "instructions": {
+          "en": "Wash chicken tikka pieces with water and pat dry it. In a bowl add cream, egg, Rich'n'Spicy Malai(cream) chicken tikka instant mix. Mix well to form a smooth paste. Coat chicken pieces and marinate for 2-3 hours. Barbecue or pan fry with butter/oil.",
+          "gu": "ચીકન ના ટુકડા ધોઈ ને કોરા કરો. બાઉલમાં ક્રીમ, ઈંડું (મરજિયાત) અને રીચ એન સ્પાઇસી મલાઈ ચિકન ટીક્કા મિક્સ ઉમેરી પેસ્ટ બનાવો. ૨-૩ કલાક મેરીનેટ કરી માખણ સાથે શેકી લો અથવા પેન ફ્રાય કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-methi-malai-tikka-60g",
+      "name": "Rich 'n' Spicy Methi Malai Tikka Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": ["Barbecue", "Methi Malai", "Fenugreek Cream", "Chicken", "Paneer"],
+      "regional_names": {
+        "gu": "મેથી મલાઇ ટીકકા"
+      },
+      "net_weight": {
+        "value": 60,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Paneer"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/methi malai tikka.JPG",
+        "filename": "methi malai tikka.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken Tikka",
+        "marination_time": "1 hour",
+        "cooking_methods": ["Pan Fry", "Barbecue"],
+        "required_ingredients": [
+          "500g chicken tikka",
+          "100-150g Amul / fresh cream",
+          "40g-60g Rich 'n' Spicy Methi Malai Tikka Masala",
+          "Little oil for frying"
+        ],
+        "instructions": {
+          "en": "Marinate 500 gms Chicken tikka with 40 gms Rich'n'Spicy Methi malai masala, 100-150 gms Amul cream for 1 hour. Pan fry or barbecue with little oil.",
+          "gu": "૫૦૦ ગ્રામ ચીકન ટીકકા માં ૪૦ ગ્રામ રીચ એન સ્પાઇસી મેથી મલાઇ ટીકકા મસાલા. ૧૦૦ થી ૧૫૦ ગ્રામ અમુલ ક્રીમ નાખી ૧ કલાક રેહવા દો. પેન ફ્રાય અથવા બૉર્બેક્યુ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-pahadi-chicken-tikka-40g",
+      "name": "Rich 'n' Spicy Pahadi Chicken Tikka Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Pahadi Tikka", "Herb Spice", "Chicken", "Paneer"],
+      "regional_names": {
+        "gu": "પહાડી ચિકન ટીક્કા"
+      },
+      "net_weight": {
+        "value": 40,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Paneer"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/PAHADI TIKKA.JPG",
+        "filename": "PAHADI TIKKA.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken Leg / Tikka Pieces",
+        "marination_time": "2-3 hours",
+        "cooking_methods": ["Barbecue", "Pan Fry", "Oven Roast"],
+        "required_ingredients": [
+          "500g chicken leg or tikka pieces",
+          "4 tbsp curd",
+          "40g Rich 'n' Spicy Pahadi Chicken Tikka Instant Mix",
+          "Little oil for basting"
+        ],
+        "instructions": {
+          "en": "Wash chicken leg pieces/tikka pieces with water and pat dry it. In a bowl add Rich'n'Spicy Pahadi chicken tikka instant mix along with curd. Mix well to form a smooth paste. Coat the chicken leg pieces/tikka pieces with paste and marinate it for 2-3 hours. Barbecue or pan fry the chicken with little oil. Or roast it with the help of microwave or an oven until tender.",
+          "gu": "ચીકન ના ટુકડા ધોઈ ને કોરા કરો. એક બાઉલમાં રીચ એન સ્પાઇસી પહાડી ચિકન ટીક્કા ઇન્સ્ટન્ટ મિક્સ અને ૪ ચમચી દહીં મેળવી સ્મૂથ પેસ્ટ બનાવો. ચિકન પર લગાવી ૨-૩ કલાક મેરીનેટ કરો. તેલ સાથે બાર્બેક્યુ, પેન ફ્રાય અથવા ઓવન માં રોસ્ટ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-pathani-chicken-50g",
+      "name": "Rich 'n' Spicy Pathani Chicken Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Pathani Chicken", "Frontier Spices", "Chicken", "Mutton"],
+      "regional_names": {
+        "gu": "પઠાણી ચિકન"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Mutton"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/PATHANI CHICKEN.JPG",
+        "filename": "PATHANI CHICKEN.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken Leg / Tikka Pieces",
+        "marination_time": "3-4 hours",
+        "cooking_methods": ["Barbecue", "Pan Fry", "Roast with Butter"],
+        "required_ingredients": [
+          "500g chicken leg pieces or tikka",
+          "50g curd",
+          "50g Rich 'n' Spicy Pathani Chicken Instant Mix",
+          "Butter/oil for cooking"
+        ],
+        "instructions": {
+          "en": "Wash chicken leg pieces with water and pat dry it (you can also use tikka pieces). Cut deep slashes on chicken leg pieces. In a bowl add Rich'n'Spicy Pathani Chicken instant mix along with 50 gms curd. Mix well to form a smooth paste. Coat the chicken leg pieces with the paste and marinate it for 3-4 hours. Barbecue or pan fry the chicken with little oil. Or roast it with little butter.",
+          "gu": "ચીકન લેગપીસ પર ઊંડા કાપા પાડો. બાઉલમાં રીચ એન સ્પાઇસી પઠાણી ચિકન ઇન્સ્ટન્ટ મિક્સ અને ૫૦ ગ્રામ દહીં ઉમેરી પેસ્ટ બનાવો. પેસ્ટ લગાવી ૩-૪ કલાક મેરીનેટ કરો. થોડા તેલ સાથે બાર્બેક્યુ, પેન ફ્રાય અથવા માખણ સાથે શેકો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-peri-peri-chicken-40g",
+      "name": "Rich 'n' Spicy Peri Peri Chicken Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Peri Peri", "Spicy", "Grilled Chicken", "Chicken", "Wings"],
+      "regional_names": {
+        "gu": "પેરી પેરી ચીકન"
+      },
+      "net_weight": {
+        "value": 40,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Paneer"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/Peri peri.JPG",
+        "filename": "Peri peri.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g to 1kg Chicken Pieces",
+        "marination_time": "2-3 hours",
+        "cooking_methods": ["Barbecue", "Pan Fry", "Grill"],
+        "required_ingredients": [
+          "500g to 1kg chicken leg pieces / wings",
+          "2 tbsp oil",
+          "Lemon wedges",
+          "40g Rich 'n' Spicy Peri Peri Chicken Instant Mix"
+        ],
+        "instructions": {
+          "en": "Wash chicken leg pieces and pat dry it. Cut deep slashes on it with the help of a knife. Marinate the chicken leg pieces with Rich'n'Spicy Peri peri chicken instant mix and oil for 2-3 hours. Pan fry or barbecue the chicken with little oil. Serve with fresh lemon wedges.",
+          "gu": "ચીકન ના પીસ પર કાપા પાડો. રીચ એન સ્પાઇસી પેરી પેરી ચિકન ઇન્સ્ટન્ટ મિક્સ અને ૨ ચમચી તેલ સાથે ૨-૩ કલાક મેરીનેટ કરો. થોડા તેલ સાથે પેન ફ્રાય અથવા બાર્બેક્યુ કરો. લીંબુ ના ટુકડા સાથે પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-reshmi-kabab-40g",
+      "name": "Rich 'n' Spicy Reshmi Kabab Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Reshmi Kabab", "Silky", "Mughlai", "Chicken"],
+      "regional_names": {
+        "gu": "રેશ્મી કબાબ"
+      },
+      "net_weight": {
+        "value": 40,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Paneer"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/RESHMI KABAB.JPG",
+        "filename": "RESHMI KABAB.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken Tikka Pieces",
+        "marination_time": "3-4 hours",
+        "cooking_methods": ["Barbecue", "Pan Fry", "Skewer Grill"],
+        "required_ingredients": [
+          "500g chicken tikka pieces",
+          "2 tbsp processed / fresh cream",
+          "2 tbsp curd",
+          "40g Rich 'n' Spicy Reshmi Kabab Instant Mix",
+          "Oil or butter"
+        ],
+        "instructions": {
+          "en": "Wash Chicken tikka pieces with water and pat dry it. In a bowl add Rich'n'Spicy Reshmi Kabab instant mix along with curd and cream. Mix well to form a paste. Coat the chicken tikka pieces with paste and marinate it for 3-4 hours. Thread onto skewers and pan fry or barbecue with little oil.",
+          "gu": "ચીકન ના ટુકડા ધોઈ ને કોરા કરો. બાઉલમાં રીચ એન સ્પાઇસી રેશ્મી કબાબ ઇન્સ્ટન્ટ મિક્સ સાથે ૨ ચમચી દહીં અને ૨ ચમચી ક્રીમ ઉમેરી પેસ્ટ બનાવો. ૩-૪ કલાક મેરીનેટ કરી સીખ પર લગાવી બાર્બેક્યુ અથવા પેન ફ્રાય કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-sp-chicken-tikka-50g",
+      "name": "Rich 'n' Spicy Special Chicken Tikka Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Special Tikka", "Spicy", "Signature", "Chicken"],
+      "regional_names": {
+        "gu": "સ્પે. ચીકન ટીક્કા"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Paneer"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/SP.TIKKA.JPG",
+        "filename": "SP.TIKKA.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken Tikka",
+        "marination_time": "3-4 hours",
+        "cooking_methods": ["Barbecue", "Pan Fry", "Skewer Grill"],
+        "required_ingredients": [
+          "500g chicken tikka",
+          "100g Amul / fresh cream",
+          "50g Rich 'n' Spicy Sp. Chicken Tikka Instant Mix",
+          "Oil for brushing"
+        ],
+        "instructions": {
+          "en": "Wash chicken tikka pieces with water and pat dry it. In a bowl add Rich'n'Spicy Sp. Chicken tikka instant mix & amul cream. Mix well and make a fine paste. Coat chicken pieces with the paste and marinate it for about 3-4 hours. Thread onto skewers, and then brush with oil and barbecue or pan fry.",
+          "gu": "ચીકન ના ટુકડા ધોઈ ને કોરા કરો. બાઉલમાં રીચ એન સ્પાઇસી સ્પેશિયલ ચિકન ટીક્કા ઇન્સ્ટન્ટ મિક્સ અને ૧૦૦ ગ્રામ અમુલ ક્રીમ મેળવી પેસ્ટ બનાવો. ૩-૪ કલાક મેરીનેટ કરી સીખ પર લગાવી તેલ લગાડી શેકો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-tandoori-chicken-50g",
+      "name": "Rich 'n' Spicy Tandoori Chicken Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Tandoori Chicken", "Classic", "Tandoor", "Chicken"],
+      "regional_names": {
+        "gu": "તંદુરી ચિકન"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/TANDOORI CHICKEN.JPG",
+        "filename": "TANDOORI CHICKEN.JPG"
+      },
+      "recipe": {
+        "serves_portion": "750g Chicken Leg Pieces (4-6)",
+        "marination_time": "2-3 hours",
+        "cooking_methods": ["Barbecue", "Pan Fry", "Tandoor Grill"],
+        "required_ingredients": [
+          "750g chicken leg pieces (4-6 pieces)",
+          "100g hung curd",
+          "Orange red color (optional)",
+          "50g Rich 'n' Spicy Tandoori Chicken Instant Mix",
+          "Little oil for basting"
+        ],
+        "instructions": {
+          "en": "Wash chicken leg pieces with water and pat dry it. Cut deep slashes on chicken leg pieces. In a bowl add Rich'n'Spicy tandoori chicken instant mix, orange red color and curd. Mix well to form a smooth paste like consistency. Coat well and marinate for 2-3 hours. Pan Fry or barbecue the chicken leg pieces with little oil.",
+          "gu": "ચીકન લેગ પીસ પર ઊંડા કાપા પાડો. બાઉલમાં રીચ એન સ્પાઇસી તંદુરી ચિકન ઇન્સ્ટન્ટ મિક્સ, ઓરેન્જ રેડ કલર અને ૧૦૦ ગ્રામ ઘટ્ટ દહીં મેળવી સ્મૂથ પેસ્ટ બનાવો. લેગપીસ પર પેસ્ટ લગાવી ૨-૩ કલાક મેરીનેટ કરો. તેલ લગાડી પેન ફ્રાય અથવા બાર્બેક્યુ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "bbq-zafrani-tikka-40g",
+      "name": "Rich 'n' Spicy Zafrani Tikka Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Barbecue",
+      "product_type": "Instant Mix",
+      "tags": ["Barbecue", "Zafrani", "Saffron Tikka", "Royal", "Chicken", "Paneer"],
+      "regional_names": {
+        "gu": "ઝાફરાની ટીક્કા"
+      },
+      "net_weight": {
+        "value": 40,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": ["Chicken", "Paneer"]
+      },
+      "images": {
+        "primary": "product images/BARBECUE/ZAFRANI TIKKA.JPG",
+        "filename": "ZAFRANI TIKKA.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken Tikka Pieces",
+        "marination_time": "2-3 hours",
+        "cooking_methods": ["Pan Fry", "Barbecue", "Oven Roast"],
+        "required_ingredients": [
+          "500g chicken tikka pieces",
+          "4-5 tbsp processed / fresh cream",
+          "40g Rich 'n' Spicy Zafrani Tikka Instant Mix",
+          "Little oil for basting"
+        ],
+        "instructions": {
+          "en": "Wash chicken tikka pieces with water and pat dry it. In a bowl add Rich'n'Spicy Zafrani tikka instant mix along with cream. Mix well to form a paste. Coat the chicken pieces with paste and marinate it for 2-3 hours. Pan fry or barbecue the chicken with little oil. Or roast it with the help of microwave or an oven until tender.",
+          "gu": "ચીકન ના ટુકડા ધોઈ ને કોરા કરો. બાઉલમાં રીચ એન સ્પાઇસી ઝાફરાની ટીક્કા ઇન્સ્ટન્ટ મિક્સ અને ૪-૫ ચમચી ક્રીમ મિક્સ કરી પેસ્ટ બનાવો. ચિકન પર લગાવી ૨-૩ કલાક મેરીનેટ કરો. તેલ સાથે પેન ફ્રાય, બાર્બેક્યુ અથવા ઓવન માં શેકો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    }
+  ]
+}

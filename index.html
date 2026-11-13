@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rich 'n' SP!CY - Product Catalog & Verifier</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Gujarati:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #c2410c;
+      --primary-dark: #9a3412;
+      --primary-light: #ffedd5;
+      --accent: #dc2626;
+      --veg-green: #15803d;
+      --bg: #f8fafc;
+      --surface: #ffffff;
+      --border: #e2e8f0;
+      --text: #0f172a;
+      --text-muted: #64748b;
+      --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.08), 0 2px 4px -2px rgb(0 0 0 / 0.06);
+      --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      padding-bottom: 4rem;
+    }
+
+    header {
+      background: linear-gradient(135deg, #7c2d12 0%, #991b1b 60%, #b91c1c 100%);
+      color: white;
+      padding: 2.5rem 1.5rem 2rem;
+      border-bottom: 4px solid #ea580c;
+    }
+
+    .container {
+      max-width: 1320px;
+      margin: 0 auto;
+      padding: 0 1rem;
+    }
+
+    .brand-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .brand-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: rgba(255, 255, 255, 0.15);
+      backdrop-filter: blur(8px);
+      padding: 0.35rem 0.85rem;
+      border-radius: 9999px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      border: 1px solid rgba(255, 255, 255, 0.25);
+    }
+
+    h1 {
+      font-size: 2.25rem;
+      font-weight: 800;
+      letter-spacing: -0.025em;
+      margin: 0.5rem 0 0.25rem;
+    }
+
+    .subtitle {
+      color: #fed7aa;
+      font-size: 1.05rem;
+      max-width: 700px;
+    }
+
+    /* Controls Section */
+    .controls-panel {
+      background: var(--surface);
+      border-radius: 1rem;
+      padding: 1.25rem;
+      margin: -1.5rem auto 2rem;
+      box-shadow: var(--shadow-lg);
+      border: 1px solid var(--border);
+    }
+
+    .nav-tabs {
+      display: flex;
+      gap: 0.5rem;
+      overflow-x: auto;
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .nav-tab {
+      padding: 0.6rem 1.1rem;
+      border-radius: 0.5rem;
+      border: 1px solid transparent;
+      background: #f1f5f9;
+      color: var(--text-muted);
+      font-weight: 600;
+      font-size: 0.9rem;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s;
+    }
+
+    .nav-tab.active {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary-dark);
+    }
+
+    .nav-tab.disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+      background: #f8fafc;
+      border-style: dashed;
+      border-color: #cbd5e1;
+    }
+
+    .filter-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .search-box {
+      flex: 1 1 320px;
+      position: relative;
+    }
+
+    .search-box input {
+      width: 100%;
+      padding: 0.75rem 1rem 0.75rem 2.5rem;
+      border-radius: 0.5rem;
+      border: 1px solid var(--border);
+      font-size: 0.95rem;
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .search-box input:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(194, 65, 12, 0.15);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 0.85rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+    }
+
+    .pill-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+    }
+
+    .pill {
+      padding: 0.45rem 0.85rem;
+      border-radius: 9999px;
+      border: 1px solid var(--border);
+      background: white;
+      font-size: 0.825rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .pill:hover {
+      background: #f1f5f9;
+    }
+
+    .pill.active {
+      background: #0f172a;
+      color: white;
+      border-color: #0f172a;
+    }
+
+    /* Product Grid */
+    .catalog-summary {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.25rem;
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .product-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .product-card {
+      background: var(--surface);
+      border-radius: 1rem;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .product-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-lg);
+    }
+
+    .image-wrap {
+      position: relative;
+      height: 280px;
+      background: #f1f5f9;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      cursor: pointer;
+    }
+
+    .image-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+      transition: transform 0.3s ease;
+    }
+
+    .image-wrap:hover img {
+      transform: scale(1.04);
+    }
+
+    .zoom-hint {
+      position: absolute;
+      bottom: 0.75rem;
+      right: 0.75rem;
+      background: rgba(15, 23, 42, 0.75);
+      color: white;
+      backdrop-filter: blur(4px);
+      padding: 0.3rem 0.6rem;
+      border-radius: 0.375rem;
+      font-size: 0.75rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+
+    .card-top-badges {
+      position: absolute;
+      top: 0.75rem;
+      left: 0.75rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+    }
+
+    .badge-weight {
+      background: #0f172a;
+      color: white;
+      padding: 0.25rem 0.6rem;
+      border-radius: 0.375rem;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.03em;
+    }
+
+    .badge-veg {
+      background: white;
+      color: var(--veg-green);
+      border: 1px solid #bbf7d0;
+      padding: 0.2rem 0.5rem;
+      border-radius: 0.375rem;
+      font-size: 0.7rem;
+      font-weight: 700;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+
+    .veg-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--veg-green);
+      display: inline-block;
+    }
+
+    .card-body {
+      padding: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+    }
+
+    .card-title-en {
+      font-size: 1.15rem;
+      font-weight: 700;
+      line-height: 1.35;
+      margin-bottom: 0.25rem;
+      color: var(--text);
+    }
+
+    .card-title-gu {
+      font-family: 'Noto Sans Gujarati', sans-serif;
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: var(--primary-dark);
+      margin-bottom: 0.75rem;
+    }
+
+    .meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-bottom: 0.85rem;
+    }
+
+    .tag-chip {
+      background: #f1f5f9;
+      color: #475569;
+      padding: 0.2rem 0.5rem;
+      border-radius: 0.375rem;
+      font-size: 0.75rem;
+      font-weight: 500;
+    }
+
+    .prep-summary {
+      background: #fff7ed;
+      border-left: 3px solid var(--primary);
+      padding: 0.6rem 0.75rem;
+      border-radius: 0 0.375rem 0.375rem 0;
+      font-size: 0.825rem;
+      color: #9a3412;
+      margin-bottom: 1rem;
+      line-height: 1.4;
+    }
+
+    .card-actions {
+      margin-top: auto;
+      display: flex;
+      gap: 0.5rem;
+    }
+
+    .btn {
+      flex: 1;
+      padding: 0.65rem 0.85rem;
+      border-radius: 0.5rem;
+      font-weight: 600;
+      font-size: 0.85rem;
+      text-align: center;
+      cursor: pointer;
+      border: 1px solid transparent;
+      transition: all 0.15s ease;
+    }
+
+    .btn-primary {
+      background: var(--primary);
+      color: white;
+    }
+    .btn-primary:hover {
+      background: var(--primary-dark);
+    }
+
+    .btn-secondary {
+      background: #f1f5f9;
+      color: #334155;
+      border-color: #cbd5e1;
+    }
+    .btn-secondary:hover {
+      background: #e2e8f0;
+    }
+
+    /* Modal Styles */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(15, 23, 42, 0.75);
+      backdrop-filter: blur(4px);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+      padding: 1rem;
+    }
+
+    .modal-overlay.open {
+      display: flex;
+    }
+
+    .modal-content {
+      background: var(--surface);
+      border-radius: 1rem;
+      max-width: 760px;
+      width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+      position: relative;
+      animation: modalIn 0.2s ease-out;
+    }
+
+    @keyframes modalIn {
+      from { opacity: 0; transform: scale(0.97); }
+      to { opacity: 1; transform: scale(1); }
+    }
+
+    .modal-header {
+      padding: 1.25rem 1.5rem;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      position: sticky;
+      top: 0;
+      background: var(--surface);
+      z-index: 10;
+    }
+
+    .modal-close {
+      background: #f1f5f9;
+      border: none;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      font-size: 1.2rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--text-muted);
+    }
+    .modal-close:hover { background: #e2e8f0; color: var(--text); }
+
+    .modal-body {
+      padding: 1.5rem;
+    }
+
+    .recipe-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+
+    .recipe-section-title {
+      font-size: 0.95rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--primary);
+      margin-bottom: 0.6rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .ingredient-list {
+      list-style: none;
+      background: #f8fafc;
+      padding: 1rem;
+      border-radius: 0.5rem;
+      border: 1px solid var(--border);
+    }
+
+    .ingredient-list li {
+      padding: 0.35rem 0;
+      font-size: 0.9rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      border-bottom: 1px dashed #e2e8f0;
+    }
+    .ingredient-list li:last-child { border-bottom: none; }
+
+    .instruction-box {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 0.5rem;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      line-height: 1.6;
+      font-size: 0.925rem;
+    }
+
+    .instruction-box.gu {
+      font-family: 'Noto Sans Gujarati', sans-serif;
+      font-size: 1rem;
+      background: #fffaf5;
+      border-color: #fed7aa;
+    }
+
+    pre.json-view {
+      background: #0f172a;
+      color: #38bdf8;
+      padding: 1rem;
+      border-radius: 0.5rem;
+      font-size: 0.8rem;
+      max-height: 320px;
+      overflow: auto;
+      font-family: Consolas, monospace;
+    }
+
+    /* Lightbox Modal */
+    .lightbox-modal {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.92);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 2000;
+      padding: 1rem;
+    }
+    .lightbox-modal.open { display: flex; }
+    .lightbox-modal img {
+      max-width: 90vw;
+      max-height: 90vh;
+      object-fit: contain;
+      border-radius: 0.5rem;
+      box-shadow: 0 20px 25px -5px rgba(0,0,0,0.5);
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 3rem;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <div class="brand-row">
+        <div class="brand-badge">E-Commerce Staging & Verification Hub</div>
+        <div style="font-size: 0.85rem; opacity: 0.9;">City Gruh Udhyog • Surat, India</div>
+      </div>
+      <h1>Rich 'n' SP!CY Product Catalog</h1>
+      <p class="subtitle">Interactive data viewer for verified e-commerce packaging, bilingual recipes, and dietary specifications.</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="controls-panel">
+      <!-- Category Tabs -->
+      <div class="nav-tabs">
+        <button class="nav-tab active" data-category="Barbecue">🔥 Barbecue (<span id="bbq-count">23</span>)</button>
+        <button class="nav-tab disabled" title="Pending extraction">🍚 Biryani (Pending)</button>
+        <button class="nav-tab disabled" title="Pending extraction">🍲 Gravy (Pending)</button>
+        <button class="nav-tab disabled" title="Pending extraction">🍤 Deep Fry (Pending)</button>
+        <button class="nav-tab disabled" title="Pending extraction">🌶️ Kitchen Special (Pending)</button>
+        <button class="nav-tab disabled" title="Pending extraction">📦 Others (Pending)</button>
+      </div>
+
+      <!-- Filters & Search -->
+      <div class="filter-bar">
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="searchInput" placeholder="Search dish name, Gujarati text, or ingredients...">
+        </div>
+
+        <div class="pill-group" id="filterPills">
+          <button class="pill active" data-filter="all">All</button>
+          <button class="pill" data-filter="Chicken">🍗 Chicken</button>
+          <button class="pill" data-filter="Paneer">🧀 Paneer</button>
+          <button class="pill" data-filter="Fish">🐟 Fish</button>
+          <button class="pill" data-filter="Instant Mix">⚡ Instant Mix</button>
+          <button class="pill" data-filter="Dry Marinade">🥣 Marinade Mix</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Catalog Summary -->
+    <div class="catalog-summary">
+      <div>Showing <span id="visible-count" style="font-weight: 700; color: var(--text);">23</span> verified products</div>
+      <div style="font-size: 0.8rem;">Status: <span style="color: var(--veg-green); font-weight: 600;">● Data Extracted & Validated</span></div>
+    </div>
+
+    <!-- Product Cards Grid -->
+    <div class="product-grid" id="productGrid">
+      <!-- Injected by JavaScript -->
+    </div>
+  </main>
+
+  <!-- Recipe & Details Modal -->
+  <div class="modal-overlay" id="detailModal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div>
+          <h2 id="modalTitleEn" style="font-size: 1.35rem; font-weight: 700;"></h2>
+          <div id="modalTitleGu" style="font-family: 'Noto Sans Gujarati', sans-serif; font-size: 1.5rem; color: var(--primary); font-weight: 700;"></div>
+        </div>
+        <button class="modal-close" id="modalCloseBtn">✕</button>
+      </div>
+      <div class="modal-body" id="modalBody">
+        <!-- Injected dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Fullscreen Image Lightbox -->
+  <div class="lightbox-modal" id="lightboxModal">
+    <img id="lightboxImg" src="" alt="High resolution product packaging">
+  </div>
+
+  <footer>
+    <div class="container">
+      Rich 'n' SP!CY Product Catalog Viewer • Auto-generated from verified packaging archives
+    </div>
+  </footer>
+
+  <!-- Embedded Catalog Script for offline / file:// and GitHub Pages compatibility -->
+  <script src="catalog-data.js"></script>
+  <script>
+    let products = [];
+    let currentFilter = 'all';
+    let searchQuery = '';
+
+    // Initialize application
+    async function initCatalog() {
+      if (window.CATALOG_DATA && window.CATALOG_DATA.products) {
+        products = window.CATALOG_DATA.products;
+      } else {
+        try {
+          const res = await fetch('barbecue_products.json');
+          const data = await res.json();
+          products = data.products;
+        } catch (e) {
+          console.error('Failed to load JSON data:', e);
+        }
+      }
+
+      document.getElementById('bbq-count').innerText = products.length;
+      renderProducts();
+      setupEvents();
+    }
+
+    function renderProducts() {
+      const grid = document.getElementById('productGrid');
+      const filtered = products.filter(p => {
+        // Tag/protein filter
+        let matchesFilter = true;
+        if (currentFilter !== 'all') {
+          const protein = p.dietary?.suggested_protein || [];
+          const type = p.product_type || '';
+          matchesFilter = protein.includes(currentFilter) || type.includes(currentFilter);
+        }
+
+        // Search query
+        let matchesSearch = true;
+        if (searchQuery.trim() !== '') {
+          const q = searchQuery.toLowerCase().trim();
+          const nameEn = (p.name || '').toLowerCase();
+          const nameGu = (p.regional_names?.gu || '').toLowerCase();
+          const ingrs = (p.recipe?.required_ingredients || []).join(' ').toLowerCase();
+          matchesSearch = nameEn.includes(q) || nameGu.includes(q) || ingrs.includes(q);
+        }
+
+        return matchesFilter && matchesSearch;
+      });
+
+      document.getElementById('visible-count').innerText = filtered.length;
+
+      if (filtered.length === 0) {
+        grid.innerHTML = `
+          <div style="grid-column: 1/-1; text-align: center; padding: 3rem 1rem; background: white; border-radius: 1rem; border: 1px dashed var(--border);">
+            <div style="font-size: 2rem; margin-bottom: 0.5rem;">🔍</div>
+            <h3 style="font-weight: 600; color: var(--text);">No matching products found</h3>
+            <p style="color: var(--text-muted); font-size: 0.9rem;">Try adjusting your search query or filter tags.</p>
+          </div>
+        `;
+        return;
+      }
+
+      grid.innerHTML = filtered.map(p => {
+        const imgSrc = encodeURI(p.images.primary);
+        const weight = p.net_weight ? `${p.net_weight.value}${p.net_weight.unit}` : 'Standard';
+        const guName = p.regional_names?.gu || '';
+        const serves = p.recipe?.serves_portion || '500g';
+        const marinate = p.recipe?.marination_time || '1 hour';
+
+        return `
+          <div class="product-card">
+            <div class="image-wrap" onclick="openLightbox('${imgSrc}')">
+              <img src="${imgSrc}" alt="${p.name}" loading="lazy">
+              <div class="card-top-badges">
+                <span class="badge-weight">${weight}</span>
+                <span class="badge-veg"><span class="veg-dot"></span> 100% Veg Mix</span>
+              </div>
+              <div class="zoom-hint">🔍 Click to zoom</div>
+            </div>
+
+            <div class="card-body">
+              <h3 class="card-title-en">${p.name}</h3>
+              <div class="card-title-gu">${guName}</div>
+
+              <div class="meta-row">
+                <span class="tag-chip">${p.product_type}</span>
+                ${(p.dietary?.suggested_protein || []).map(prot => `<span class="tag-chip">${prot}</span>`).join('')}
+              </div>
+
+              <div class="prep-summary">
+                <strong>Target:</strong> ${serves} • <strong>Marination:</strong> ${marinate}
+              </div>
+
+              <div class="card-actions">
+                <button class="btn btn-primary" onclick="showRecipe('${p.id}')">View Recipe & Copy</button>
+                <button class="btn btn-secondary" onclick="showJson('${p.id}')">{ } JSON</button>
+              </div>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function setupEvents() {
+      // Search
+      const searchInput = document.getElementById('searchInput');
+      searchInput.addEventListener('input', (e) => {
+        searchQuery = e.target.value;
+        renderProducts();
+      });
+
+      // Filter pills
+      document.querySelectorAll('#filterPills .pill').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('#filterPills .pill').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          currentFilter = btn.getAttribute('data-filter');
+          renderProducts();
+        });
+      });
+
+      // Modal close handlers
+      document.getElementById('modalCloseBtn').addEventListener('click', closeModal);
+      document.getElementById('detailModal').addEventListener('click', (e) => {
+        if (e.target.id === 'detailModal') closeModal();
+      });
+      document.getElementById('lightboxModal').addEventListener('click', () => {
+        document.getElementById('lightboxModal').classList.remove('open');
+      });
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+          closeModal();
+          document.getElementById('lightboxModal').classList.remove('open');
+        }
+      });
+    }
+
+    function closeModal() {
+      document.getElementById('detailModal').classList.remove('open');
+    }
+
+    function openLightbox(url) {
+      const modal = document.getElementById('lightboxModal');
+      document.getElementById('lightboxImg').src = url;
+      modal.classList.add('open');
+    }
+
+    function showRecipe(productId) {
+      const p = products.find(x => x.id === productId);
+      if (!p) return;
+
+      document.getElementById('modalTitleEn').innerText = p.name;
+      document.getElementById('modalTitleGu').innerText = p.regional_names?.gu || '';
+
+      const ingredientsHtml = (p.recipe?.required_ingredients || [])
+        .map(ing => `<li><span style="color: var(--primary);">✓</span> ${ing}</li>`).join('');
+
+      const cookingTags = (p.recipe?.cooking_methods || [])
+        .map(m => `<span class="tag-chip" style="background:#ffedd5; color:#9a3412;">${m}</span>`).join('');
+
+      document.getElementById('modalBody').innerHTML = `
+        <div class="recipe-grid">
+          <div>
+            <div class="recipe-section-title">Cooking Methods & Yield</div>
+            <div style="display: flex; gap: 0.5rem; margin-bottom: 0.75rem;">
+              ${cookingTags}
+            </div>
+            <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">
+              Portion size: <strong>${p.recipe?.serves_portion}</strong> • Marination: <strong>${p.recipe?.marination_time}</strong>
+            </p>
+          </div>
+
+          <div>
+            <div class="recipe-section-title">Required Ingredients Checklist</div>
+            <ul class="ingredient-list">
+              ${ingredientsHtml}
+            </ul>
+          </div>
+
+          <div>
+            <div class="recipe-section-title">Preparation Instructions (English)</div>
+            <div class="instruction-box">
+              ${p.recipe?.instructions?.en || 'No instructions provided.'}
+            </div>
+
+            <div class="recipe-section-title">તૈયારી કરવાની રીત (Gujarati)</div>
+            <div class="instruction-box gu">
+              ${p.recipe?.instructions?.gu || 'કોઈ સૂચનાઓ ઉપલબ્ધ નથી.'}
+            </div>
+          </div>
+
+          <div style="border-top: 1px solid var(--border); padding-top: 1rem; font-size: 0.8rem; color: var(--text-muted);">
+            <div><strong>Manufacturer:</strong> ${p.manufacturer?.name} - ${p.manufacturer?.address}</div>
+            <div><strong>Contact:</strong> ${p.manufacturer?.contact}</div>
+          </div>
+        </div>
+      `;
+
+      document.getElementById('detailModal').classList.add('open');
+    }
+
+    function showJson(productId) {
+      const p = products.find(x => x.id === productId);
+      if (!p) return;
+
+      document.getElementById('modalTitleEn').innerText = p.name;
+      document.getElementById('modalTitleGu').innerText = 'Raw JSON Schema Data';
+
+      document.getElementById('modalBody').innerHTML = `
+        <div style="margin-bottom: 0.75rem; display: flex; justify-content: space-between; align-items: center;">
+          <span style="font-size: 0.85rem; color: var(--text-muted);">Standardized E-Commerce Object</span>
+          <button class="btn btn-secondary" style="padding: 0.35rem 0.75rem; font-size: 0.8rem;" onclick="navigator.clipboard.writeText(JSON.stringify(window.currentModalObj, null, 2)); alert('Copied to clipboard!');">📋 Copy JSON</button>
+        </div>
+        <pre class="json-view">${JSON.stringify(p, null, 2)}</pre>
+      `;
+
+      window.currentModalObj = p;
+      document.getElementById('detailModal').classList.add('open');
+    }
+
+    // Run
+    initCatalog();
+  </script>
+</body>
+</html>
