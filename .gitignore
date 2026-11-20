@@ -19,3 +19,4 @@ $RECYCLE.BIN/
 *token*
 *.pat
 push_to_github.py
+setup_github.py
