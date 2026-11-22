@@ -9425,13 +9425,14 @@ window.CATALOG_DATA = {
       "name": "Tendercook Meat Tenderizer Powder",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Meat Tenderizer Powder",
       "tags": [
         "Others",
         "Pantry",
         "Meat Tenderizer",
         "Barbecue",
-        "Dry Marinade"
+        "Dry Marinade",
+        "Flours & Staples"
       ],
       "regional_names": {
         "gu": "ટેન્ડરકૂક મીટ ટેન્ડરાઈઝર"
@@ -9481,20 +9482,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Flours & Staples"
     },
     {
       "id": "others-black-soya-sauce-200g",
       "name": "Rich 'n' Spicy Black Soya Sauce",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Table Sauce / Condiment",
       "tags": [
         "Others",
         "Sauces",
         "Soya Sauce",
         "Indo-Chinese",
-        "Pantry"
+        "Pantry",
+        "Sauces & Vinegar"
       ],
       "regional_names": {
         "gu": "બ્લેક સોયા સોસ"
@@ -9544,20 +9547,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Sauces & Vinegar"
     },
     {
       "id": "others-cheese-popcorn-powder-50g",
       "name": "Rich 'n' Spicy Cheese Popcorn Seasoning Powder",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Cheese Seasoning Sprinkler",
       "tags": [
         "Others",
         "Seasoning",
         "Cheese Powder",
         "Popcorn",
-        "Snacks"
+        "Snacks",
+        "Seasonings & Powders"
       ],
       "regional_names": {
         "gu": "ચીઝ પોપકોર્ન પાવડર"
@@ -9607,20 +9612,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Seasonings & Powders"
     },
     {
       "id": "others-chilli-flakes-50g",
       "name": "Rich 'n' Spicy Red Chilli Flakes",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Culinary Herb / Flakes",
       "tags": [
         "Others",
         "Seasoning",
         "Chilli Flakes",
         "Pizza",
-        "Pasta"
+        "Pasta",
+        "Seasonings & Powders"
       ],
       "regional_names": {
         "gu": "ચીલી ફ્લેક્સ"
@@ -9670,20 +9677,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Seasonings & Powders"
     },
     {
       "id": "others-ef-kolahs-black-vinegar-500g",
       "name": "E.F. Kolah's Brewed Black Vinegar",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Brewed Black Vinegar",
       "tags": [
         "Others",
         "Parsi Cuisine",
         "Navsari Vinegar",
         "Cane Vinegar",
-        "Pantry"
+        "Pantry",
+        "Sauces & Vinegar"
       ],
       "regional_names": {
         "gu": "ઈ.એફ. કોલાહ બ્લેક વિનેગર"
@@ -9733,20 +9742,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Sauces & Vinegar"
     },
     {
       "id": "others-fried-onions-birista-100g",
       "name": "Rich 'n' Spicy Golden Fried Onions (Birista)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Fried Onions (Birista)",
       "tags": [
         "Others",
         "Birista",
         "Fried Onions",
         "Biryani Garnish",
-        "Pantry"
+        "Pantry",
+        "Flours & Staples"
       ],
       "regional_names": {
         "gu": "તળેલી ડુંગળી / બિરિસ્તા"
@@ -9796,20 +9807,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Flours & Staples"
     },
     {
       "id": "others-gaay-chaap-besan-500g",
       "name": "Gaay Chaap Premium Besan (Gram Flour)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Gram Flour (Besan)",
       "tags": [
         "Others",
         "Besan",
         "Gram Flour",
         "Farsan",
-        "Pantry Staple"
+        "Pantry Staple",
+        "Flours & Staples"
       ],
       "regional_names": {
         "gu": "ગાય છાપ ચણાનો લોટ"
@@ -9859,20 +9872,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Flours & Staples"
     },
     {
       "id": "others-garlic-powder-50g",
       "name": "Rich 'n' Spicy Dehydrated Garlic Powder",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Dehydrated Vegetable Powder",
       "tags": [
         "Others",
         "Seasoning",
         "Garlic Powder",
         "Dehydrated",
-        "Pantry"
+        "Pantry",
+        "Seasonings & Powders"
       ],
       "regional_names": {
         "gu": "લસણ પાવડર"
@@ -9922,20 +9937,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Seasonings & Powders"
     },
     {
       "id": "others-green-chilli-sauce-200g",
       "name": "Rich 'n' Spicy Green Chilli Sauce",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Table Sauce / Condiment",
       "tags": [
         "Others",
         "Sauces",
         "Green Chilli Sauce",
         "Indo-Chinese",
-        "Street Food"
+        "Street Food",
+        "Sauces & Vinegar"
       ],
       "regional_names": {
         "gu": "ગ્રીન ચીલી સોસ"
@@ -9985,20 +10002,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Sauces & Vinegar"
     },
     {
       "id": "others-kewra-water-600g",
       "name": "Pure Kewra Water 600ml",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Aromatic Floral Water",
       "tags": [
         "Others",
         "Aromatics",
         "Kewra Water",
         "Biryani Essence",
-        "Mughlai"
+        "Mughlai",
+        "Rose & Kewra Water"
       ],
       "regional_names": {
         "gu": "કેવડા જળ ૬૦૦ મિલી"
@@ -10048,20 +10067,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Rose & Kewra Water"
     },
     {
       "id": "others-kewra-water-200g",
       "name": "Pure Kewra Water 200ml",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Aromatic Floral Water",
       "tags": [
         "Others",
         "Aromatics",
         "Kewra Water",
         "Biryani Essence",
-        "Pantry"
+        "Pantry",
+        "Rose & Kewra Water"
       ],
       "regional_names": {
         "gu": "કેવડા જળ ૨૦૦ મિલી"
@@ -10111,20 +10132,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Rose & Kewra Water"
     },
     {
       "id": "others-keybrand-rose-water-200g",
       "name": "Key Brand Pure Rose Water 200ml",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Aromatic Floral Water",
       "tags": [
         "Others",
         "Aromatics",
         "Rose Water",
         "Key Brand",
-        "Desserts"
+        "Desserts",
+        "Rose & Kewra Water"
       ],
       "regional_names": {
         "gu": "ગુલાબ જળ ૨૦૦ મિલી"
@@ -10174,20 +10197,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Rose & Kewra Water"
     },
     {
       "id": "others-onion-powder-50g",
       "name": "Rich 'n' Spicy Dehydrated Onion Powder",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Dehydrated Vegetable Powder",
       "tags": [
         "Others",
         "Seasoning",
         "Onion Powder",
         "Dehydrated",
-        "Pantry"
+        "Pantry",
+        "Seasonings & Powders"
       ],
       "regional_names": {
         "gu": "ડુંગળી પાવડર"
@@ -10237,20 +10262,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Seasonings & Powders"
     },
     {
       "id": "others-oregano-seasoning-30g",
       "name": "Rich 'n' Spicy Oregano Herb Seasoning",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Culinary Herb / Flakes",
       "tags": [
         "Others",
         "Seasoning",
         "Oregano",
         "Italian Herb",
-        "Pizza"
+        "Pizza",
+        "Seasonings & Powders"
       ],
       "regional_names": {
         "gu": "ઓરેગાનો"
@@ -10300,20 +10327,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Seasonings & Powders"
     },
     {
       "id": "others-red-chilli-sauce-200g",
       "name": "Rich 'n' Spicy Red Chilli Sauce",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Table Sauce / Condiment",
       "tags": [
         "Others",
         "Sauces",
         "Red Chilli Sauce",
         "Indo-Chinese",
-        "Condiment"
+        "Condiment",
+        "Sauces & Vinegar"
       ],
       "regional_names": {
         "gu": "રેડ ચીલી સોસ"
@@ -10363,20 +10392,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Sauces & Vinegar"
     },
     {
       "id": "others-rose-water-600g",
       "name": "Pure Rose Water 600ml",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Aromatic Floral Water",
       "tags": [
         "Others",
         "Aromatics",
         "Rose Water",
         "Culinary Water",
-        "Desserts"
+        "Desserts",
+        "Rose & Kewra Water"
       ],
       "regional_names": {
         "gu": "ગુલાબ જળ ૬૦૦ મિલી"
@@ -10426,20 +10457,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Rose & Kewra Water"
     },
     {
       "id": "others-sabudana-sago-500g",
       "name": "Rich 'n' Spicy Premium Sabudana (Tapioca Sago)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Tapioca Sago (Sabudana)",
       "tags": [
         "Others",
         "Sabudana",
         "Sago",
         "Fasting",
-        "Farali Staple"
+        "Farali Staple",
+        "Flours & Staples"
       ],
       "regional_names": {
         "gu": "સાબુદાણા"
@@ -10489,20 +10522,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Flours & Staples"
     },
     {
       "id": "others-tomato-powder-50g",
       "name": "Rich 'n' Spicy Dehydrated Tomato Powder",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Dehydrated Vegetable Powder",
       "tags": [
         "Others",
         "Seasoning",
         "Tomato Powder",
         "Dehydrated",
-        "Tangy"
+        "Tangy",
+        "Seasonings & Powders"
       ],
       "regional_names": {
         "gu": "ટામેટા પાવડર"
@@ -10552,20 +10587,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Seasonings & Powders"
     },
     {
       "id": "others-uttam-maida-500g",
       "name": "Uttam Premium Maida (All Purpose Flour)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "All-Purpose Flour (Maida)",
       "tags": [
         "Others",
         "Flour",
         "Maida",
         "Baking",
-        "Samosa Dough"
+        "Samosa Dough",
+        "Flours & Staples"
       ],
       "regional_names": {
         "gu": "ઉત્તમ મેંદો"
@@ -10615,20 +10652,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Flours & Staples"
     },
     {
       "id": "others-uttam-rava-sooji-500g",
       "name": "Uttam Premium Rava (Sooji / Semolina)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Semolina (Sooji / Rava)",
       "tags": [
         "Others",
         "Rava",
         "Sooji",
         "Semolina",
-        "Halwa / Upma"
+        "Halwa / Upma",
+        "Flours & Staples"
       ],
       "regional_names": {
         "gu": "ઉત્તમ સોજી / રવો"
@@ -10678,20 +10717,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Flours & Staples"
     },
     {
       "id": "others-white-cheddar-cheese-powder-50g",
       "name": "White Cheddar Cheese Seasoning Powder",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Cheese Seasoning Sprinkler",
       "tags": [
         "Others",
         "Cheese Powder",
         "White Cheddar",
         "Seasoning",
-        "Snacks"
+        "Snacks",
+        "Seasonings & Powders"
       ],
       "regional_names": {
         "gu": "વ્હાઈટ ચેડર ચીઝ પાવડર"
@@ -10741,20 +10782,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Seasonings & Powders"
     },
     {
       "id": "others-anuja-lemon-yellow-10g",
       "name": "Anuja Lemon Yellow Food Colour",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Synthetic Food Colour",
       "tags": [
         "Others",
         "Food Color",
         "Lemon Yellow",
         "Mithai",
-        "Baking"
+        "Baking",
+        "Food Colours"
       ],
       "regional_names": {
         "gu": "અનુજા લેમન યલો કલર"
@@ -10804,20 +10847,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Food Colours"
     },
     {
       "id": "others-anuja-orange-red-10g",
       "name": "Anuja Orange Red Food Colour",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Synthetic Food Colour",
       "tags": [
         "Others",
         "Food Color",
         "Orange Red",
         "Tandoori",
-        "Biryani"
+        "Biryani",
+        "Food Colours"
       ],
       "regional_names": {
         "gu": "અનુજા ઓરેન્જ રેડ કલર"
@@ -10867,20 +10912,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Food Colours"
     },
     {
       "id": "others-anuja-raspberry-red-10g",
       "name": "Anuja Raspberry Red Food Colour",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Synthetic Food Colour",
       "tags": [
         "Others",
         "Food Color",
         "Raspberry Red",
         "Syrups",
-        "Beverages"
+        "Beverages",
+        "Food Colours"
       ],
       "regional_names": {
         "gu": "અનુજા રાસબેરી રેડ કલર"
@@ -10930,20 +10977,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Food Colours"
     },
     {
       "id": "others-anuja-green-10g",
       "name": "Anuja Green Food Colour",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Synthetic Food Colour",
       "tags": [
         "Others",
         "Food Color",
         "Green",
         "Pista Kulfi",
-        "Paan"
+        "Paan",
+        "Food Colours"
       ],
       "regional_names": {
         "gu": "અનુજા ગ્રીન કલર"
@@ -10993,20 +11042,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Food Colours"
     },
     {
       "id": "others-apple-green-10g",
       "name": "Apple Green Food Colour",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Synthetic Food Colour",
       "tags": [
         "Others",
         "Food Color",
         "Apple Green",
         "Desserts",
-        "Bakery"
+        "Bakery",
+        "Food Colours"
       ],
       "regional_names": {
         "gu": "એપલ ગ્રીન કલર"
@@ -11056,20 +11107,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Food Colours"
     },
     {
       "id": "others-bush-orange-red-10g",
       "name": "Bush Orange Red Food Colour",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Synthetic Food Colour",
       "tags": [
         "Others",
         "Food Color",
         "Bush Brand",
         "Tandoori",
-        "Restaurant Color"
+        "Restaurant Color",
+        "Food Colours"
       ],
       "regional_names": {
         "gu": "બુશ ઓરેન્જ રેડ પાવડર"
@@ -11119,20 +11172,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Food Colours"
     },
     {
       "id": "others-bush-kesari-powder-10g",
       "name": "Bush Kesari Food Colour Powder",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Synthetic Food Colour",
       "tags": [
         "Others",
         "Food Color",
         "Kesari",
         "Saffron Yellow",
-        "Halwa"
+        "Halwa",
+        "Food Colours"
       ],
       "regional_names": {
         "gu": "બુશ કેસરી પાવડર"
@@ -11182,19 +11237,21 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Food Colours"
     },
     {
       "id": "others-lemon-yellow-color-10g",
       "name": "Premium Lemon Yellow Food Colour",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Synthetic Food Colour",
       "tags": [
         "Others",
         "Food Color",
         "Lemon Yellow",
-        "Confectionery"
+        "Confectionery",
+        "Food Colours"
       ],
       "regional_names": {
         "gu": "લેમન યલો કલર"
@@ -11244,14 +11301,15 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Food Colours"
     },
     {
       "id": "others-almonds-badam-100g",
       "name": "Rich 'n' Spicy Premium Almonds (Badam)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Premium Almonds (Badam)",
       "tags": [
         "Others",
         "Dry Fruits",
@@ -11307,14 +11365,15 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Dry Fruits"
     },
     {
       "id": "others-anjeer-figs-100g",
       "name": "Rich 'n' Spicy Dried Figs (Anjeer)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Dried Figs (Anjeer)",
       "tags": [
         "Others",
         "Dry Fruits",
@@ -11370,14 +11429,15 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Dry Fruits"
     },
     {
       "id": "others-black-raisins-kali-draksh-100g",
       "name": "Rich 'n' Spicy Black Raisins (Kali Draksh)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Black Raisins (Kali Draksh)",
       "tags": [
         "Others",
         "Dry Fruits",
@@ -11433,14 +11493,15 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Dry Fruits"
     },
     {
       "id": "others-broken-cashewnuts-kaju-tukda-100g",
       "name": "Rich 'n' Spicy Broken Cashewnuts (Kaju Tukda)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Broken Cashews (Kaju Tukda)",
       "tags": [
         "Others",
         "Dry Fruits",
@@ -11496,14 +11557,15 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Dry Fruits"
     },
     {
       "id": "others-whole-cashewnuts-akha-kaju-100g",
       "name": "Rich 'n' Spicy Whole Cashewnuts (Akha Kaju)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Whole Cashews (Akha Kaju)",
       "tags": [
         "Others",
         "Dry Fruits",
@@ -11559,14 +11621,15 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Dry Fruits"
     },
     {
       "id": "others-charoli-chironji-50g",
       "name": "Rich 'n' Spicy Charoli (Chironji Nuts)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Chironji Nuts (Charoli)",
       "tags": [
         "Others",
         "Dry Fruits",
@@ -11622,14 +11685,15 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Dry Fruits"
     },
     {
       "id": "others-jardalu-apricots-100g",
       "name": "Rich 'n' Spicy Dried Apricots (Jardalu)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Dried Apricots (Jardalu)",
       "tags": [
         "Others",
         "Dry Fruits",
@@ -11685,14 +11749,15 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Dry Fruits"
     },
     {
       "id": "others-kharek-dry-dates-200g",
       "name": "Rich 'n' Spicy Dry Dates (Kharek)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Dry Dates (Kharek)",
       "tags": [
         "Others",
         "Dry Fruits",
@@ -11748,14 +11813,15 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Dry Fruits"
     },
     {
       "id": "others-pista-pistachios-100g",
       "name": "Rich 'n' Spicy Premium Pistachios (Pista)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Pistachios (Pista)",
       "tags": [
         "Others",
         "Dry Fruits",
@@ -11811,14 +11877,15 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Dry Fruits"
     },
     {
       "id": "others-raisins-kismis-100g",
       "name": "Rich 'n' Spicy Golden Raisins (Kismis)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Golden Raisins (Kismis)",
       "tags": [
         "Others",
         "Dry Fruits",
@@ -11874,20 +11941,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Dry Fruits"
     },
     {
       "id": "others-hajoori-kesar-kom-big-20g",
       "name": "Hajoori Kesar Kom Essence (Large)",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Culinary Flavouring Essence",
       "tags": [
         "Others",
         "Essence",
         "Kesar",
         "Hajoori",
-        "Saffron Aroma"
+        "Saffron Aroma",
+        "Essences"
       ],
       "regional_names": {
         "gu": "હજુરી કેસર કોમ એસેન્સ"
@@ -11937,20 +12006,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Essences"
     },
     {
       "id": "others-hajoori-kesar-essence-20g",
       "name": "Hajoori Premium Kesar Essence",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Culinary Flavouring Essence",
       "tags": [
         "Others",
         "Essence",
         "Kesar",
         "Hajoori",
-        "Flavours"
+        "Flavours",
+        "Essences"
       ],
       "regional_names": {
         "gu": "હજુરી કેસર એસેન્સ"
@@ -12000,20 +12071,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Essences"
     },
     {
       "id": "others-mixed-fruit-essence-20g",
       "name": "Rich 'n' Spicy Mixed Fruit Culinary Essence",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Culinary Flavouring Essence",
       "tags": [
         "Others",
         "Essence",
         "Mixed Fruit",
         "Baking",
-        "Mocktails"
+        "Mocktails",
+        "Essences"
       ],
       "regional_names": {
         "gu": "મિક્સ્ડ ફ્રુટ એસેન્સ"
@@ -12063,20 +12136,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Essences"
     },
     {
       "id": "others-pineapple-essence-20g",
       "name": "Rich 'n' Spicy Pineapple Culinary Essence",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Culinary Flavouring Essence",
       "tags": [
         "Others",
         "Essence",
         "Pineapple",
         "Halwa",
-        "Baking"
+        "Baking",
+        "Essences"
       ],
       "regional_names": {
         "gu": "પાઈનેપલ એસેન્સ"
@@ -12126,20 +12201,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Essences"
     },
     {
       "id": "others-shahi-biryani-essence-20g",
       "name": "Rich 'n' Spicy Shahi Biryani Aromatic Essence",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Culinary Flavouring Essence",
       "tags": [
         "Others",
         "Essence",
         "Biryani Essence",
         "Mughlai",
-        "Dum Cooking"
+        "Dum Cooking",
+        "Essences"
       ],
       "regional_names": {
         "gu": "શાહી બિરયાની એસેન્સ"
@@ -12189,20 +12266,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Essences"
     },
     {
       "id": "others-vanilla-essence-20g",
       "name": "Rich 'n' Spicy Pure Vanilla Essence",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Culinary Flavouring Essence",
       "tags": [
         "Others",
         "Essence",
         "Vanilla",
         "Baking",
-        "Custard"
+        "Custard",
+        "Essences"
       ],
       "regional_names": {
         "gu": "વેનીલા એસેન્સ"
@@ -12252,20 +12331,22 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Essences"
     },
     {
       "id": "others-white-rose-essence-20g",
       "name": "Rich 'n' Spicy White Rose Culinary Essence",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Culinary Flavouring Essence",
       "tags": [
         "Others",
         "Essence",
         "White Rose",
         "Aromatics",
-        "Mithai"
+        "Mithai",
+        "Essences"
       ],
       "regional_names": {
         "gu": "વ્હાઈટ રોઝ એસેન્સ"
@@ -12315,14 +12396,15 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Essences"
     },
     {
       "id": "others-fusilli-pasta-500g",
       "name": "Rich 'n' Spicy Durum Wheat Fusilli Pasta",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Durum Wheat Semolina Pasta",
       "tags": [
         "Others",
         "Pasta",
@@ -12378,14 +12460,15 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Pasta"
     },
     {
       "id": "others-penne-pasta-500g",
       "name": "Rich 'n' Spicy Durum Wheat Penne Rigate Pasta",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Durum Wheat Semolina Pasta",
       "tags": [
         "Others",
         "Pasta",
@@ -12441,14 +12524,15 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Pasta"
     },
     {
       "id": "others-pipe-rigate-pasta-500g",
       "name": "Rich 'n' Spicy Durum Wheat Pipe Rigate Pasta",
       "brand": "Rich 'n' SP!CY",
       "category": "Others",
-      "product_type": "Dry Marinade / Spice Mix",
+      "product_type": "Durum Wheat Semolina Pasta",
       "tags": [
         "Others",
         "Pasta",
@@ -12504,7 +12588,8 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
-      }
+      },
+      "subcategory": "Pasta"
     },
     {
       "id": "pastes-koyla-paste-200g",

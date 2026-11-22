@@ -127,6 +127,76 @@
       border-color: #cbd5e1;
     }
 
+    /* Others Subcategory Navigation */
+    .subnav-wrapper {
+      background: #f1f5f9;
+      border: 1px solid #e2e8f0;
+      border-radius: 0.75rem;
+      padding: 0.85rem 1rem;
+      margin-bottom: 1.25rem;
+      animation: subnavFade 0.2s ease-in-out;
+    }
+
+    @keyframes subnavFade {
+      from { opacity: 0; transform: translateY(-4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .subnav-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.6rem;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+    }
+
+    .subnav-label {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: #334155;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .subnav-hint {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .subnav-tabs {
+      display: flex;
+      gap: 0.45rem;
+      overflow-x: auto;
+      padding-bottom: 0.25rem;
+    }
+
+    .subnav-tab {
+      padding: 0.4rem 0.85rem;
+      border-radius: 0.4rem;
+      border: 1px solid #cbd5e1;
+      background: white;
+      color: #475569;
+      font-weight: 600;
+      font-size: 0.825rem;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.15s ease-in-out;
+    }
+
+    .subnav-tab:hover {
+      background: #e2e8f0;
+      color: #1e293b;
+    }
+
+    .subnav-tab.active {
+      background: #4f46e5;
+      color: white;
+      border-color: #4338ca;
+      box-shadow: 0 1px 3px rgba(79, 70, 229, 0.3);
+    }
+
     .filter-bar {
       display: flex;
       flex-wrap: wrap;
@@ -577,6 +647,25 @@
         <button class="nav-tab" data-category="Others">📦 Others (<span id="others-count">49</span>)</button>
       </div>
 
+      <!-- Subcategory Navigation for Others -->
+      <div class="subnav-wrapper" id="othersSubnav" style="display: none;">
+        <div class="subnav-header">
+          <span class="subnav-label">📦 Others Subcategories:</span>
+          <span class="subnav-hint">Select a group below to filter</span>
+        </div>
+        <div class="subnav-tabs" id="othersSubTabs">
+          <button class="subnav-tab active" data-subcategory="all">✨ All Others (<span id="sub-all-count">49</span>)</button>
+          <button class="subnav-tab" data-subcategory="Dry Fruits">🥜 Dry Fruits (<span id="sub-dryfruits-count">10</span>)</button>
+          <button class="subnav-tab" data-subcategory="Food Colours">🎨 Food Colours (<span id="sub-colors-count">8</span>)</button>
+          <button class="subnav-tab" data-subcategory="Essences">💧 Essences (<span id="sub-essence-count">7</span>)</button>
+          <button class="subnav-tab" data-subcategory="Rose & Kewra Water">🌸 Rose & Kewra Water (<span id="sub-waters-count">4</span>)</button>
+          <button class="subnav-tab" data-subcategory="Seasonings & Powders">🧂 Seasonings & Powders (<span id="sub-seasoning-count">7</span>)</button>
+          <button class="subnav-tab" data-subcategory="Flours & Staples">🌾 Flours & Staples (<span id="sub-flours-count">6</span>)</button>
+          <button class="subnav-tab" data-subcategory="Sauces & Vinegar">🥢 Sauces & Vinegar (<span id="sub-sauces-count">4</span>)</button>
+          <button class="subnav-tab" data-subcategory="Pasta">🍝 Pasta (<span id="sub-pasta-count">3</span>)</button>
+        </div>
+      </div>
+
       <!-- Filters & Search -->
       <div class="filter-bar">
         <div class="search-box">
@@ -599,7 +688,7 @@
 
     <!-- Catalog Summary -->
     <div class="catalog-summary">
-      <div>Showing <span id="visible-count" style="font-weight: 700; color: var(--text);">216</span> verified products</div>
+      <div id="catalogSummaryText">Showing <span id="visible-count" style="font-weight: 700; color: var(--text);">216</span> verified products</div>
       <div style="font-size: 0.8rem;">Status: <span style="color: var(--veg-green); font-weight: 600;">● Data Extracted & Validated</span></div>
     </div>
 
@@ -641,6 +730,7 @@
   <script>
     let allProducts = [];
     let currentCategory = 'all';
+    let currentSubcategory = 'all';
     let currentFilter = 'all';
     let searchQuery = '';
 
@@ -698,6 +788,17 @@
       setEl('wholespices-count', allProducts.filter(p => p.category === 'Whole Spices').length);
       setEl('others-count', allProducts.filter(p => p.category === 'Others').length);
 
+      // Others subcategory counters
+      setEl('sub-all-count', allProducts.filter(p => p.category === 'Others').length);
+      setEl('sub-dryfruits-count', allProducts.filter(p => p.subcategory === 'Dry Fruits').length);
+      setEl('sub-colors-count', allProducts.filter(p => p.subcategory === 'Food Colours').length);
+      setEl('sub-essence-count', allProducts.filter(p => p.subcategory === 'Essences').length);
+      setEl('sub-waters-count', allProducts.filter(p => p.subcategory === 'Rose & Kewra Water').length);
+      setEl('sub-seasoning-count', allProducts.filter(p => p.subcategory === 'Seasonings & Powders').length);
+      setEl('sub-flours-count', allProducts.filter(p => p.subcategory === 'Flours & Staples').length);
+      setEl('sub-sauces-count', allProducts.filter(p => p.subcategory === 'Sauces & Vinegar').length);
+      setEl('sub-pasta-count', allProducts.filter(p => p.subcategory === 'Pasta').length);
+
       renderProducts();
       setupEvents();
     }
@@ -708,6 +809,11 @@
         // Category filter
         if (currentCategory !== 'all' && p.category !== currentCategory) {
           return false;
+        }
+
+        // Subcategory filter (active when Others category is selected)
+        if (currentCategory === 'Others' && currentSubcategory !== 'all') {
+          if (p.subcategory !== currentSubcategory) return false;
         }
 
         // Tag/protein/category filter
@@ -739,9 +845,11 @@
           const nameEn = (p.name || '').toLowerCase();
           const nameGu = (p.regional_names?.gu || '').toLowerCase();
           const pid = (p.id || '').toLowerCase();
+          const sub = (p.subcategory || '').toLowerCase();
           const ingrs = (p.recipe?.required_ingredients || []).join(' ').toLowerCase();
           const tags = (p.tags || []).join(' ').toLowerCase();
           const pcat = (p.category || '').toLowerCase();
+          const ptype = (p.product_type || '').toLowerCase();
           const instEn = (p.recipe?.instructions?.en || '').toLowerCase();
           const instGu = (p.recipe?.instructions?.gu || '').toLowerCase();
           const methods = (p.recipe?.cooking_methods || []).join(' ').toLowerCase();
@@ -749,6 +857,8 @@
           const match = nameEn.includes(q) ||
                         nameGu.includes(q) ||
                         pid.includes(q) ||
+                        sub.includes(q) ||
+                        ptype.includes(q) ||
                         ingrs.includes(q) ||
                         tags.includes(q) ||
                         pcat.includes(q) ||
@@ -761,7 +871,15 @@
         return true;
       });
 
-      document.getElementById('visible-count').innerText = filtered.length;
+      // Update Summary Text
+      let summaryText = `Showing <span id="visible-count" style="font-weight: 700; color: var(--text);">${filtered.length}</span> verified products`;
+      if (currentCategory === 'Others' && currentSubcategory !== 'all') {
+        summaryText = `Showing <span id="visible-count" style="font-weight: 700; color: var(--text);">${filtered.length}</span> verified products in <strong>Others &gt; ${currentSubcategory}</strong>`;
+      } else if (currentCategory !== 'all') {
+        summaryText = `Showing <span id="visible-count" style="font-weight: 700; color: var(--text);">${filtered.length}</span> verified products in <strong>${currentCategory}</strong>`;
+      }
+      const summaryEl = document.getElementById('catalogSummaryText');
+      if (summaryEl) summaryEl.innerHTML = summaryText;
 
       if (filtered.length === 0) {
         grid.innerHTML = `
@@ -815,6 +933,7 @@
 
               <div class="meta-row">
                 <span class="tag-chip" style="background:#f8fafc; color:${categoryColor}; font-weight:700; border:1px solid #e2e8f0;">${p.category}</span>
+                ${p.subcategory ? `<span class="tag-chip" style="background:#eef2ff; color:#4338ca; font-weight:700; border:1px solid #c7d2fe;">${p.subcategory}</span>` : ''}
                 <span class="tag-chip">${p.product_type}</span>
                 ${(p.dietary?.suggested_protein || []).map(prot => `<span class="tag-chip">${prot}</span>`).join('')}
               </div>
@@ -840,6 +959,28 @@
           document.querySelectorAll('#categoryTabs .nav-tab').forEach(t => t.classList.remove('active'));
           tab.classList.add('active');
           currentCategory = tab.getAttribute('data-category');
+
+          const othersSubnav = document.getElementById('othersSubnav');
+          if (currentCategory === 'Others') {
+            othersSubnav.style.display = 'block';
+          } else {
+            othersSubnav.style.display = 'none';
+            currentSubcategory = 'all';
+            document.querySelectorAll('#othersSubTabs .subnav-tab').forEach(st => st.classList.remove('active'));
+            const defaultSubTab = document.querySelector('#othersSubTabs .subnav-tab[data-subcategory="all"]');
+            if (defaultSubTab) defaultSubTab.classList.add('active');
+          }
+
+          renderProducts();
+        });
+      });
+
+      // Others Subcategory Tabs
+      document.querySelectorAll('#othersSubTabs .subnav-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+          document.querySelectorAll('#othersSubTabs .subnav-tab').forEach(t => t.classList.remove('active'));
+          tab.classList.add('active');
+          currentSubcategory = tab.getAttribute('data-subcategory');
           renderProducts();
         });
       });
@@ -953,6 +1094,7 @@
             <div class="recipe-section-title">Category & Cooking Yield</div>
             <div style="display: flex; gap: 0.5rem; margin-bottom: 0.75rem; flex-wrap: wrap;">
               <span class="tag-chip" style="background:#fee2e2; color:#991b1b; font-weight:700;">${p.category}</span>
+              ${p.subcategory ? `<span class="tag-chip" style="background:#eef2ff; color:#4338ca; font-weight:700;">${p.subcategory}</span>` : ''}
               ${cookingTags}
             </div>
             <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">
