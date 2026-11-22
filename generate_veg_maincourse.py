@@ -783,7 +783,7 @@ veg_main_course_catalog = {
             "product_type": "Dry Marinade / Spice Mix",
             "tags": ["Veg Main Course", "Paneer Angare", "Smoked Curry", "Dhungar", "Dry Marinade"],
             "regional_names": {
-                "gu": "વેજ.પનીર પનીર અંગારે"
+                "gu": "વેજ./પનીર અંગારે"
             },
             "net_weight": {
                 "value": 30,

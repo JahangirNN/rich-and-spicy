@@ -254,7 +254,7 @@ starters_catalog = {
             "brand": "Rich 'n' SP!CY",
             "category": "Starters",
             "product_type": "Instant Mix",
-            "tags": ["Starters", "Mutton", "Chicken", "Kabab", "Mamna", "Instant Mix"],
+            "tags": ["Starters", "Mutton", "Chicken", "Seekh", "Sheekh", "Kabab", "Mamna", "Instant Mix"],
             "regional_names": {
                 "gu": "શીક/કબાબ/મામના"
             },

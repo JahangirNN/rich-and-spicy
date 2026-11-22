@@ -598,7 +598,7 @@
 
     <!-- Catalog Summary -->
     <div class="catalog-summary">
-      <div>Showing <span id="visible-count" style="font-weight: 700; color: var(--text);">23</span> verified products</div>
+      <div>Showing <span id="visible-count" style="font-weight: 700; color: var(--text);">199</span> verified products</div>
       <div style="font-size: 0.8rem;">Status: <span style="color: var(--veg-green); font-weight: 600;">● Data Extracted & Validated</span></div>
     </div>
 
@@ -707,14 +707,26 @@
           return false;
         }
 
-        // Tag/protein filter
+        // Tag/protein/category filter
         if (currentFilter !== 'all') {
-          const protein = p.dietary?.suggested_protein || [];
-          const type = p.product_type || '';
-          const tags = p.tags || [];
-          const match = protein.includes(currentFilter) ||
-                        type.includes(currentFilter) ||
-                        tags.includes(currentFilter);
+          const filterLower = currentFilter.toLowerCase();
+          const protein = (p.dietary?.suggested_protein || []).map(x => x.toLowerCase());
+          const type = (p.product_type || '').toLowerCase();
+          const tags = (p.tags || []).map(x => x.toLowerCase());
+          const pcat = (p.category || '').toLowerCase();
+
+          let match = false;
+          if (filterLower === 'spices') {
+            match = pcat.includes('spice') || pcat === 'kitchen special' || tags.includes('whole spices') || tags.includes('kitchen special');
+          } else if (filterLower === 'dry marinade') {
+            match = type.includes('dry marinade');
+          } else if (filterLower === 'instant mix') {
+            match = type.includes('instant mix');
+          } else {
+            match = protein.some(pr => pr.includes(filterLower)) ||
+                    tags.some(t => t.includes(filterLower)) ||
+                    pcat.includes(filterLower);
+          }
           if (!match) return false;
         }
 
@@ -723,10 +735,23 @@
           const q = searchQuery.toLowerCase().trim();
           const nameEn = (p.name || '').toLowerCase();
           const nameGu = (p.regional_names?.gu || '').toLowerCase();
+          const pid = (p.id || '').toLowerCase();
           const ingrs = (p.recipe?.required_ingredients || []).join(' ').toLowerCase();
           const tags = (p.tags || []).join(' ').toLowerCase();
           const pcat = (p.category || '').toLowerCase();
-          const match = nameEn.includes(q) || nameGu.includes(q) || ingrs.includes(q) || tags.includes(q) || pcat.includes(q);
+          const instEn = (p.recipe?.instructions?.en || '').toLowerCase();
+          const instGu = (p.recipe?.instructions?.gu || '').toLowerCase();
+          const methods = (p.recipe?.cooking_methods || []).join(' ').toLowerCase();
+
+          const match = nameEn.includes(q) ||
+                        nameGu.includes(q) ||
+                        pid.includes(q) ||
+                        ingrs.includes(q) ||
+                        tags.includes(q) ||
+                        pcat.includes(q) ||
+                        instEn.includes(q) ||
+                        instGu.includes(q) ||
+                        methods.includes(q);
           if (!match) return false;
         }
 
@@ -752,6 +777,9 @@
         const guName = p.regional_names?.gu || '';
         const serves = p.recipe?.serves_portion || '500g';
         const marinate = p.recipe?.marination_time || '1 hour';
+        const marinateSummary = (marinate && marinate.toLowerCase() !== 'none' && marinate.toLowerCase() !== 'n/a')
+          ? `<strong>Target:</strong> ${serves} • <strong>Marination:</strong> ${marinate}`
+          : `<strong>Usage:</strong> ${serves}`;
         const categoryColor = {
           'Barbecue': '#c2410c',
           'Biryani': '#0284c7',
@@ -768,7 +796,7 @@
 
         return `
           <div class="product-card">
-            <div class="image-wrap" onclick="openLightbox('${imgSrc}')">
+            <div class="image-wrap" onclick="openLightbox(this.querySelector('img').src)">
               <img src="${imgSrc}" alt="${p.name}" loading="lazy">
               <div class="card-top-badges">
                 <span class="badge-weight">${weight}</span>
@@ -788,7 +816,7 @@
               </div>
 
               <div class="prep-summary">
-                <strong>Target:</strong> ${serves} • <strong>Marination:</strong> ${marinate}
+                ${marinateSummary}
               </div>
 
               <div class="card-actions">
@@ -855,6 +883,44 @@
       modal.classList.add('open');
     }
 
+    function copyRecipeText(productId) {
+      const p = allProducts.find(x => x.id === productId);
+      if (!p) return;
+      const ingrs = (p.recipe?.required_ingredients || []).map(i => `• ${i}`).join('\n');
+      const text = `${p.name} (${p.regional_names?.gu || ''})\n` +
+        `Category: ${p.category} | Weight: ${p.net_weight?.value}${p.net_weight?.unit || 'g'}\n` +
+        `Portion: ${p.recipe?.serves_portion || 'Standard'}\n\n` +
+        `REQUIRED INGREDIENTS:\n${ingrs}\n\n` +
+        `DIRECTIONS (ENGLISH):\n${p.recipe?.instructions?.en || ''}\n\n` +
+        `તૈયારી કરવાની રીત (GUJARATI):\n${p.recipe?.instructions?.gu || ''}\n\n` +
+        `Manufacturer: ${p.manufacturer?.name} (${p.manufacturer?.contact})`;
+
+      const doAlert = () => alert('Recipe copied to clipboard!');
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(doAlert).catch(() => {
+          fallbackCopy(text);
+        });
+      } else {
+        fallbackCopy(text);
+      }
+    }
+
+    function fallbackCopy(text) {
+      const ta = document.createElement('textarea');
+      ta.value = text;
+      ta.style.position = 'fixed';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.select();
+      try {
+        document.execCommand('copy');
+        alert('Copied to clipboard!');
+      } catch (e) {
+        prompt('Copy text below:', text);
+      }
+      document.body.removeChild(ta);
+    }
+
     function showRecipe(productId) {
       const p = allProducts.find(x => x.id === productId);
       if (!p) return;
@@ -868,8 +934,17 @@
       const cookingTags = (p.recipe?.cooking_methods || [])
         .map(m => `<span class="tag-chip" style="background:#ffedd5; color:#9a3412;">${m}</span>`).join('');
 
+      const portionMarinateHtml = (p.recipe?.marination_time && p.recipe?.marination_time.toLowerCase() !== 'none' && p.recipe?.marination_time.toLowerCase() !== 'n/a')
+        ? `Portion size: <strong>${p.recipe?.serves_portion}</strong> • Marination: <strong>${p.recipe?.marination_time}</strong>`
+        : `Usage / Portion size: <strong>${p.recipe?.serves_portion}</strong>`;
+
       document.getElementById('modalBody').innerHTML = `
         <div class="recipe-grid">
+          <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.5rem; background: #fff7ed; padding: 0.75rem 1rem; border-radius: 0.5rem; border: 1px solid #fed7aa;">
+            <span style="font-size: 0.85rem; font-weight: 600; color: #9a3412;">Verified E-Commerce Recipe & Packaging Specs</span>
+            <button class="btn btn-primary" style="padding: 0.4rem 0.9rem; font-size: 0.825rem; flex: none;" onclick="copyRecipeText('${p.id}')">📋 Copy Recipe Text</button>
+          </div>
+
           <div>
             <div class="recipe-section-title">Category & Cooking Yield</div>
             <div style="display: flex; gap: 0.5rem; margin-bottom: 0.75rem; flex-wrap: wrap;">
@@ -877,7 +952,7 @@
               ${cookingTags}
             </div>
             <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">
-              Portion size: <strong>${p.recipe?.serves_portion}</strong> • Marination: <strong>${p.recipe?.marination_time}</strong>
+              ${portionMarinateHtml}
             </p>
           </div>
 
@@ -910,6 +985,16 @@
       document.getElementById('detailModal').classList.add('open');
     }
 
+    function copyJsonText() {
+      if (!window.currentModalObj) return;
+      const str = JSON.stringify(window.currentModalObj, null, 2);
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(str).then(() => alert('Copied JSON to clipboard!')).catch(() => fallbackCopy(str));
+      } else {
+        fallbackCopy(str);
+      }
+    }
+
     function showJson(productId) {
       const p = allProducts.find(x => x.id === productId);
       if (!p) return;
@@ -920,7 +1005,7 @@
       document.getElementById('modalBody').innerHTML = `
         <div style="margin-bottom: 0.75rem; display: flex; justify-content: space-between; align-items: center;">
           <span style="font-size: 0.85rem; color: var(--text-muted);">Standardized E-Commerce Object</span>
-          <button class="btn btn-secondary" style="padding: 0.35rem 0.75rem; font-size: 0.8rem;" onclick="navigator.clipboard.writeText(JSON.stringify(window.currentModalObj, null, 2)); alert('Copied to clipboard!');">📋 Copy JSON</button>
+          <button class="btn btn-secondary" style="padding: 0.35rem 0.75rem; font-size: 0.8rem;" onclick="copyJsonText()">📋 Copy JSON</button>
         </div>
         <pre class="json-view">${JSON.stringify(p, null, 2)}</pre>
       `;

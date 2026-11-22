@@ -4431,6 +4431,8 @@ window.CATALOG_DATA = {
         "Starters",
         "Mutton",
         "Chicken",
+        "Seekh",
+        "Sheekh",
         "Kabab",
         "Mamna",
         "Instant Mix"
@@ -6219,7 +6221,7 @@ window.CATALOG_DATA = {
         "Dry Marinade"
       ],
       "regional_names": {
-        "gu": "વેજ.પનીર પનીર અંગારે"
+        "gu": "વેજ./પનીર અંગારે"
       },
       "net_weight": {
         "value": 30,
