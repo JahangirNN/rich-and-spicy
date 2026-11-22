@@ -562,7 +562,8 @@
     <div class="controls-panel">
       <!-- Category Tabs -->
       <div class="nav-tabs" id="categoryTabs">
-        <button class="nav-tab active" data-category="all">✨ All (<span id="all-count">199</span>)</button>
+        <button class="nav-tab active" data-category="all">✨ All (<span id="all-count">216</span>)</button>
+        <button class="nav-tab" data-category="Pastes & Sauces">🥫 Pastes & Sauces (<span id="pastes-count">17</span>)</button>
         <button class="nav-tab" data-category="Barbecue">🔥 Barbecue (<span id="bbq-count">23</span>)</button>
         <button class="nav-tab" data-category="Biryani">🍚 Biryani (<span id="biryani-count">5</span>)</button>
         <button class="nav-tab" data-category="Gravy">🍲 Gravy (<span id="gravy-count">28</span>)</button>
@@ -598,7 +599,7 @@
 
     <!-- Catalog Summary -->
     <div class="catalog-summary">
-      <div>Showing <span id="visible-count" style="font-weight: 700; color: var(--text);">199</span> verified products</div>
+      <div>Showing <span id="visible-count" style="font-weight: 700; color: var(--text);">216</span> verified products</div>
       <div style="font-size: 0.8rem;">Status: <span style="color: var(--veg-green); font-weight: 600;">● Data Extracted & Validated</span></div>
     </div>
 
@@ -660,7 +661,8 @@
             'veg_main_course_products.json',
             'kitchen_special_products.json',
             'whole_spices_products.json',
-            'others_products.json'
+            'others_products.json',
+            'pastes_products.json'
           ];
           const prods = [];
           for (const f of files) {
@@ -683,6 +685,7 @@
       };
 
       setEl('all-count', allProducts.length);
+      setEl('pastes-count', allProducts.filter(p => p.category === 'Pastes & Sauces').length);
       setEl('bbq-count', allProducts.filter(p => p.category === 'Barbecue').length);
       setEl('biryani-count', allProducts.filter(p => p.category === 'Biryani').length);
       setEl('gravy-count', allProducts.filter(p => p.category === 'Gravy').length);
@@ -791,7 +794,8 @@
           'Veg Main Course': '#16a34a',
           'Kitchen Special': '#ea580c',
           'Whole Spices': '#d97706',
-          'Others': '#4f46e5'
+          'Others': '#4f46e5',
+          'Pastes & Sauces': '#0891b2'
         }[p.category] || '#475569';
 
         return `

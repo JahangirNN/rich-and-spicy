@@ -12,7 +12,8 @@ files = [
     'veg_main_course_products.json',
     'kitchen_special_products.json',
     'whole_spices_products.json',
-    'others_products.json'
+    'others_products.json',
+    'pastes_products.json'
 ]
 
 all_products = []

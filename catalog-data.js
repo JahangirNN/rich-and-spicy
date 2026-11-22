@@ -1,7 +1,7 @@
 window.CATALOG_DATA = {
   "brand": "Rich 'n' SP!CY",
   "category": "All",
-  "total_products": 199,
+  "total_products": 216,
   "generated_at": "2026-11-21",
   "categories": {
     "Barbecue": 23,
@@ -14,7 +14,8 @@ window.CATALOG_DATA = {
     "Veg Main Course": 19,
     "Kitchen Special": 17,
     "Whole Spices": 33,
-    "Others": 49
+    "Others": 49,
+    "Pastes & Sauces": 17
   },
   "manufacturer": {
     "name": "City Gruh Udhyog",
@@ -12503,6 +12504,1085 @@ window.CATALOG_DATA = {
         "name": "City Gruh Udhyog",
         "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
         "contact": "9898155726"
+      }
+    },
+    {
+      "id": "pastes-koyla-paste-200g",
+      "name": "Rich 'n' Spicy Koyla Paste (Mixes For Gravies)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Ready Gravy Paste / Marinade",
+      "tags": [
+        "Pastes",
+        "Koyla",
+        "Smoky",
+        "Gravy Base",
+        "Chicken",
+        "Mutton",
+        "Paneer"
+      ],
+      "regional_names": {
+        "gu": "કોયલા પેસ્ટ",
+        "hi": "कोयला पेस्ट"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Glass Jar with White Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Chicken",
+          "Mutton",
+          "Paneer"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "500g - 1kg Meat or Paneer",
+        "marination_time": "30 mins or direct simmering",
+        "cooking_methods": [
+          "Simmer Gravy",
+          "Pan Cook",
+          "Dhabha Style Curry"
+        ],
+        "required_ingredients": [
+          "500g Chicken, Mutton, or Paneer cubes",
+          "2-3 tbsp Rich 'n' Spicy Koyla Paste",
+          "2 tbsp oil or ghee",
+          "1/2 cup whisked curd or cream",
+          "Water as needed for gravy consistency"
+        ],
+        "instructions": {
+          "en": "Heat oil or ghee in a pan. Sauté chicken/meat or paneer until lightly browned. Add Rich 'n' Spicy Koyla Paste along with curd or cream. Sauté on medium flame until oil separates and rich charcoal-smoky aroma infuses. Add water to adjust gravy thickness and simmer until meat is tender.",
+          "gu": "પેનમાં તેલ અથવા ઘી ગરમ કરો. ચીકન અથવા પનીર ઉમેરી થોડું સાંતળો. રીચ એન સ્પાઇસી કોયલા પેસ્ટ અને દહીં ઉમેરો. ધીમા તાપે તેલ છૂટું પડે ત્યાં સુધી સાંતળો. જરૂર મુજબ પાણી ઉમેરી ગ્રેવી ઘટ્ટ થાય ત્યાં સુધી પકાવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/koyla-paste-200g.png",
+        "filename": "koyla-paste-200g.png"
+      }
+    },
+    {
+      "id": "pastes-bombay-biryani-paste-200g",
+      "name": "Rich 'n' Spicy Bombay Biryani Paste",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Ready Gravy Paste / Biryani Base",
+      "tags": [
+        "Pastes",
+        "Biryani",
+        "Bombay Biryani",
+        "Rice",
+        "Mutton",
+        "Chicken"
+      ],
+      "regional_names": {
+        "gu": "બોમ્બે બિરયાની પેસ્ટ",
+        "hi": "बोम्बे बिरयानी"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Glass Jar with White Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Chicken",
+          "Mutton",
+          "Veg/Paneer"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "750g - 1kg Biryani",
+        "marination_time": "1 hour",
+        "cooking_methods": [
+          "Dum Cooking",
+          "Layered Rice"
+        ],
+        "required_ingredients": [
+          "750g Chicken or Mutton pieces",
+          "500g Basmati Rice (70% cooked)",
+          "3-4 tbsp Rich 'n' Spicy Bombay Biryani Paste",
+          "Fried onions (birista), mint, coriander leaves",
+          "2 tbsp ghee"
+        ],
+        "instructions": {
+          "en": "Marinate meat with Rich 'n' Spicy Bombay Biryani Paste and yogurt for 1 hour. Cook meat in ghee until tender and aromatic. Layer partially boiled basmati rice over the spiced meat, top with fried onions, fresh mint, coriander, and saffron milk. Cover tightly and cook on dum for 15-20 minutes.",
+          "gu": "ચીકન અથવા મટન ને રીચ એન સ્પાઇસી બોમ્બે બિરયાની પેસ્ટ અને દહીં સાથે ૧ કલાક મેરીનેટ કરો. ઘી માં માંસ પાકી જાય ત્યાં સુધી રાંધો. ઉપર અડધા બાફેલા બાસમતી ચોખા, તળેલી ડુંગળી અને ફુદીનો પાથરી દમ પર ૧૫-૨૦ મિનિટ પકાવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/bombay-biryani-paste-200g.png",
+        "filename": "bombay-biryani-paste-200g.png"
+      }
+    },
+    {
+      "id": "pastes-kheema-masoor-pulav-200g",
+      "name": "Rich 'n' Spicy Kheema/Masoor Pulav Paste",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Ready Gravy Paste / Pulav Base",
+      "tags": [
+        "Pastes",
+        "Kheema",
+        "Masoor Pulav",
+        "Rice",
+        "Mutton",
+        "Comfort Food"
+      ],
+      "regional_names": {
+        "gu": "ખીમા/મસુર પુલાવ",
+        "hi": "खीमा/मसूर पुलाव"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Glass Jar with White Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Mutton Kheema",
+          "Brown Lentils (Masoor)"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "500g Kheema / 4-5 Servings",
+        "marination_time": "None",
+        "cooking_methods": [
+          "One-Pot Rice",
+          "Pressure Cooker / Pot"
+        ],
+        "required_ingredients": [
+          "500g Minced Mutton/Chicken (Kheema) or boiled whole Masoor",
+          "400g Basmati Rice",
+          "3 tbsp Rich 'n' Spicy Kheema/Masoor Pulav Paste",
+          "2 sliced onions, 2 tbsp oil/ghee",
+          "Water as needed"
+        ],
+        "instructions": {
+          "en": "In a heavy pot, heat oil/ghee and brown the sliced onions. Add minced meat (or boiled masoor dal) and sauté for 5 minutes. Stir in Rich 'n' Spicy Kheema/Masoor Pulav Paste. Add soaked basmati rice, appropriate water, and bring to a boil. Cover and simmer on low flame until rice and kheema are tender and fluffy.",
+          "gu": "વાસણમાં તેલ/ઘી ગરમ કરી ડુંગળી સાંતળો. ખીમો અથવા બાફેલા આખા મસૂર ઉમેરી ૫ મિનિટ સાંતળો. રીચ એન સ્પાઇસી ખીમા/મસુર પુલાવ પેસ્ટ ઉમેરો. પલાળેલા બાસમતી ચોખા અને પાણી ઉમેરી ધીમા તાપે ભાત ચડી જાય ત્યાં સુધી પકાવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/kheema-masoor-pulav-paste-200g.png",
+        "filename": "kheema-masoor-pulav-paste-200g.png"
+      }
+    },
+    {
+      "id": "pastes-patiala-paste-200g",
+      "name": "Rich 'n' Spicy Patiala Paste (Mixes For Gravies)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Ready Gravy Paste / Royal Curry Base",
+      "tags": [
+        "Pastes",
+        "Patiala",
+        "Punjabi",
+        "Rich Gravy",
+        "Chicken",
+        "Paneer"
+      ],
+      "regional_names": {
+        "gu": "પટિયાલા પેસ્ટ",
+        "hi": "पटीयाला पेस्ट"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Glass Jar with White Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Chicken",
+          "Paneer",
+          "Mutton"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken / Paneer",
+        "marination_time": "20 mins",
+        "cooking_methods": [
+          "Punjabi Style Gravy",
+          "Simmer"
+        ],
+        "required_ingredients": [
+          "500g boneless chicken or paneer",
+          "2-3 tbsp Rich 'n' Spicy Patiala Paste",
+          "1/2 cup tomato puree, 1/4 cup fresh cream",
+          "1 egg omelet roll (optional Punjabi Patiala garnish)",
+          "2 tbsp butter or oil"
+        ],
+        "instructions": {
+          "en": "Sauté chicken or paneer in butter until cooked through. In another pan, warm Rich 'n' Spicy Patiala Paste with tomato puree and cream to create a rich, luxurious gravy. Combine with the cooked chicken/paneer. Serve hot garnished with julienned ginger, cream, or traditional rolled egg omelet.",
+          "gu": "માખણમાં ચિકન અથવા પનીર સાંતળી લો. બીજી કડાઈમાં રીચ એન સ્પાઇસી પટિયાલા પેસ્ટ, ટામેટા પ્યુરી અને ક્રીમ ઉમેરી શાહી ગ્રેવી તૈયાર કરો. પકવેલા ચિકન/પનીર સાથે મિક્સ કરી રોટલી અથવા નાન સાથે સર્વ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/patiala-paste-200g.png",
+        "filename": "patiala-paste-200g.png"
+      }
+    },
+    {
+      "id": "pastes-butter-chicken-paste-200g",
+      "name": "Rich 'n' Spicy Butter Chicken Paste",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Ready Gravy Paste / Makhani Base",
+      "tags": [
+        "Pastes",
+        "Butter Chicken",
+        "Makhani",
+        "Creamy",
+        "Chicken",
+        "Paneer"
+      ],
+      "regional_names": {
+        "gu": "બટર ચીકન પેસ્ટ",
+        "hi": "बटर चीकन"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Glass Jar with White Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Grilled Chicken Tikka",
+          "Paneer"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken Tikka / Paneer",
+        "marination_time": "None (Ready Gravy Base)",
+        "cooking_methods": [
+          "Makhani Simmer",
+          "Restaurant Style"
+        ],
+        "required_ingredients": [
+          "500g grilled chicken tikka or paneer cubes",
+          "3 tbsp Rich 'n' Spicy Butter Chicken Paste",
+          "50g Amul butter",
+          "1/2 cup fresh cream",
+          "1 cup tomato puree",
+          "Kasuri methi"
+        ],
+        "instructions": {
+          "en": "Melt butter in a pan, add tomato puree and 3 tablespoons of Rich 'n' Spicy Butter Chicken Paste. Simmer for 5-7 minutes until velvety and aromatic. Add grilled chicken tikka pieces and fresh cream. Cook for 3-4 minutes on low flame. Finish with crushed kasuri methi and extra butter.",
+          "gu": "પેનમાં માખણ ગરમ કરી ટમેટા ની પ્યુરી અને ૩ ચમચી રીચ એન સ્પાઇસી બટર ચીકન પેસ્ટ ઉમેરો. ૫-૭ મિનિટ ધીમા તાપે સાંતળો. ગ્રીલ કરેલા ચિકન ટીક્કા અને ક્રીમ ઉમેરી ૨-૩ મિનિટ પકાવો. કસૂરી મેથી ભભરાવી પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/butter-chicken-paste-200g.png",
+        "filename": "butter-chicken-paste-200g.png"
+      }
+    },
+    {
+      "id": "pastes-hyderabadi-paste-200g",
+      "name": "Rich 'n' Spicy Hyderabadi Paste (Mixes For Gravies)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Ready Gravy Paste / Nizami Base",
+      "tags": [
+        "Pastes",
+        "Hyderabadi",
+        "Nizami",
+        "Green Herb Gravy",
+        "Chicken",
+        "Mutton"
+      ],
+      "regional_names": {
+        "gu": "હૈદરાબાદી પેસ્ટ",
+        "hi": "हैदराबादी पेस्ट"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Glass Jar with White Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Chicken",
+          "Mutton",
+          "Egg",
+          "Paneer"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "500g Meat or Paneer",
+        "marination_time": "30 mins",
+        "cooking_methods": [
+          "Green Herb Curry",
+          "Simmer"
+        ],
+        "required_ingredients": [
+          "500g Chicken or Mutton pieces",
+          "3 tbsp Rich 'n' Spicy Hyderabadi Paste",
+          "1/2 cup curd, 2 tbsp ghee/oil",
+          "Fresh coriander and mint leaves",
+          "Water as needed"
+        ],
+        "instructions": {
+          "en": "Heat ghee in a pan. Sauté chicken with Rich 'n' Spicy Hyderabadi Paste and curd for 5-7 minutes. Add water, cover with lid, and simmer on gentle heat until meat is tender and gravy turns deeply fragrant and rich green-brown.",
+          "gu": "ઘી ગરમ કરી ચીકન, રીચ એન સ્પાઇસી હૈદરાબાદી પેસ્ટ અને દહીં ઉમેરી ૫-૭ મિનિટ સાંતળો. જરૂર મુજબ પાણી ઉમેરી ઢાંકીને ધીમા તાપે માંસ નરમ થાય ત્યાં સુધી પકાવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/hyderabadi-paste-200g.png",
+        "filename": "hyderabadi-paste-200g.png"
+      }
+    },
+    {
+      "id": "pastes-surti-biryani-paste-200g",
+      "name": "Rich 'n' Spicy Surti Biryani Paste",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Ready Gravy Paste / Regional Biryani Base",
+      "tags": [
+        "Pastes",
+        "Biryani",
+        "Surti Biryani",
+        "Surat Specialty",
+        "Mutton",
+        "Chicken"
+      ],
+      "regional_names": {
+        "gu": "સુરતી બિરયાની પેસ્ટ",
+        "hi": "सुरती बिरयानी"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Glass Jar with White Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Mutton",
+          "Chicken"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "750g - 1kg Surti Biryani",
+        "marination_time": "1 hour",
+        "cooking_methods": [
+          "Surati Dum Style",
+          "Fragrant Rice"
+        ],
+        "required_ingredients": [
+          "750g Mutton or Chicken",
+          "3 tbsp Rich 'n' Spicy Surti Biryani Paste",
+          "500g soaked long grain rice",
+          "Boiled potatoes, fried onions, pure ghee"
+        ],
+        "instructions": {
+          "en": "Traditional Surat-style biryani paste rich in whole spices and fried onion aromatics. Marinate meat with paste, braise with potatoes until tender, layer with aromatic parboiled rice and ghee, and cook on sealed dum for 20 minutes.",
+          "gu": "પરંપરાગત સુરતી શૈલીની મસાલેદાર પેસ્ટ. માંસ ને પેસ્ટ સાથે મેરીનેટ કરી બટાકા સાથે સાંતળી લો. ઉપર બાસમતી ચોખા પાથરી દેશી ઘી નાખી સીલબંધ વાસણમાં ૨૦ મિનિટ દમ આપો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/surti-biryani-paste-200g.png",
+        "filename": "surti-biryani-paste-200g.png"
+      }
+    },
+    {
+      "id": "pastes-pathani-paste-200g",
+      "name": "Rich 'n' Spicy Pathani Paste (Mixes For Gravies)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Ready Gravy Paste / Frontier Curry Base",
+      "tags": [
+        "Pastes",
+        "Pathani",
+        "Robust",
+        "Peshawari Frontier",
+        "Mutton",
+        "Chicken"
+      ],
+      "regional_names": {
+        "gu": "પઠાણી પેસ્ટ",
+        "hi": "पठानी पेस्ट"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Glass Jar with White Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Chicken Leg Pieces",
+          "Mutton Chops"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "500g - 750g Meat",
+        "marination_time": "1 hour",
+        "cooking_methods": [
+          "Slow Braise",
+          "Pan Roast"
+        ],
+        "required_ingredients": [
+          "500g Chicken leg pieces or Mutton chops",
+          "3 tbsp Rich 'n' Spicy Pathani Paste",
+          "3 tbsp whisked curd, 2 tbsp butter or oil",
+          "Crushed black pepper and slit green chillies"
+        ],
+        "instructions": {
+          "en": "Coat meat with Rich 'n' Spicy Pathani Paste and curd. Heat butter in a pan and sear meat on high flame to seal juices, then lower heat, cover, and slow-cook until meat falls off the bone with a rich spiced gravy coat.",
+          "gu": "ચીકન અથવા મટન ને રીચ એન સ્પાઇસી પઠાણી પેસ્ટ અને દહીં સાથે મેરીનેટ કરો. માખણમાં માંસ સાંતળી ધીમા તાપે ઢાંકીને માંસ નરમ અને મસાલેદાર થાય ત્યાં સુધી પકાવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/pathani-paste-200g.png",
+        "filename": "pathani-paste-200g.png"
+      }
+    },
+    {
+      "id": "pastes-shahi-biryani-paste-200g",
+      "name": "Rich 'n' Spicy Shahi Biryani Paste",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Ready Gravy Paste / Royal Biryani Base",
+      "tags": [
+        "Pastes",
+        "Biryani",
+        "Shahi Biryani",
+        "Mughlai",
+        "Saffron Flavor",
+        "Mutton"
+      ],
+      "regional_names": {
+        "gu": "શાહી બિરયાની પેસ્ટ",
+        "hi": "शाही बिरयानी"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Glass Jar with White Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Mutton",
+          "Chicken",
+          "Paneer"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "750g - 1kg Royal Biryani",
+        "marination_time": "1-2 hours",
+        "cooking_methods": [
+          "Royal Dum Biryani"
+        ],
+        "required_ingredients": [
+          "750g Mutton or Chicken pieces",
+          "3 tbsp Rich 'n' Spicy Shahi Biryani Paste",
+          "1/2 cup cream and curd mix",
+          "Fried cashews, raisins, saffron strands infused in warm milk",
+          "500g aged basmati rice"
+        ],
+        "instructions": {
+          "en": "Marinate meat with Shahi Biryani Paste, curd, and cream. Cook till tender. Layer with fragrant cooked rice, fried dry fruits, saffron milk, and rose water. Cook on sealed dum for a grand Mughlai royal banquet aroma.",
+          "gu": "માંસ ને શાહી બિરયાની પેસ્ટ, દહીં અને ક્રીમ સાથે મેરીનેટ કરો. રાંધ્યા બાદ ઉપર બાસમતી ચોખા, તળેલા કાજુ-કિસમિસ અને કેસરવાળું દૂધ નાખી દમ પર પકાવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/shahi-biryani-paste-200g.png",
+        "filename": "shahi-biryani-paste-200g.png"
+      }
+    },
+    {
+      "id": "pastes-peshawari-paste-200g",
+      "name": "Rich 'n' Spicy Peshawari Paste (Mixes For Gravies)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Ready Gravy Paste / Rustic Curry Base",
+      "tags": [
+        "Pastes",
+        "Peshawari",
+        "Karahi",
+        "Tomato Pepper Base",
+        "Chicken",
+        "Mutton"
+      ],
+      "regional_names": {
+        "gu": "પેશાવરી પેસ્ટ",
+        "hi": "पेशावरी"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Glass Jar with White Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Chicken Karahi",
+          "Mutton Karahi",
+          "Paneer"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken / Mutton",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Wok Sauté / Karahi Style",
+          "High Flame"
+        ],
+        "required_ingredients": [
+          "500g bone-in chicken or tender mutton",
+          "3 tbsp Rich 'n' Spicy Peshawari Paste",
+          "3 diced ripe tomatoes, ginger juliennes",
+          "2 tbsp ghee, fresh crushed coriander and black pepper"
+        ],
+        "instructions": {
+          "en": "In a heavy iron wok (karahi), heat ghee and flash-fry chicken until white. Add diced tomatoes and Rich 'n' Spicy Peshawari Paste. Sauté vigorously on high flame until tomatoes melt into a thick clinging masala. Garnish with heaps of ginger juliennes.",
+          "gu": "કડાઈમાં ઘી ગરમ કરી ચીકન સાંતળો. ટામેટા અને રીચ એન સ્પાઇસી પેશાવરી પેસ્ટ ઉમેરો. ઊંચા તાપે ટામેટા ગળી જાય અને મસાલો ચોંટે ત્યાં સુધી સાંતળો. આદુ ની કતરણ થી સજાવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/peshawari-paste-200g.png",
+        "filename": "peshawari-paste-200g.png"
+      }
+    },
+    {
+      "id": "pastes-dum-gravy-paste-200g",
+      "name": "Rich 'n' Spicy Dum Gravy Paste",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Ready Gravy Paste / Slow Cook Base",
+      "tags": [
+        "Pastes",
+        "Dum Gravy",
+        "Slow Cooked",
+        "Thick Curry",
+        "Mutton",
+        "Chicken"
+      ],
+      "regional_names": {
+        "gu": "દમ ગ્રેવી પેસ્ટ",
+        "hi": "दम ग्रेवी"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Glass Jar with White Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Mutton",
+          "Chicken",
+          "Kofta",
+          "Mushroom"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "500g Meat / Kofta",
+        "marination_time": "30 mins",
+        "cooking_methods": [
+          "Dum Braising",
+          "Slow Simmer"
+        ],
+        "required_ingredients": [
+          "500g Mutton or Chicken pieces",
+          "3 tbsp Rich 'n' Spicy Dum Gravy Paste",
+          "1/2 cup curd, 2 tbsp oil/ghee",
+          "Fried onions, water as needed"
+        ],
+        "instructions": {
+          "en": "Mix meat with Dum Gravy Paste and yogurt. Heat ghee in a heavy vessel, add the mixture, and braise for 5 minutes. Seal pot lid with dough or foil and simmer on very low flame (dum) for 35-45 minutes until meat is butter-tender in an unctuous sauce.",
+          "gu": "માંસ ને દમ ગ્રેવી પેસ્ટ અને દહીં સાથે મિક્સ કરો. ઘી ગરમ કરી ૫ મિનિટ સાંતળો. વાસણ ને સીલ કરી ધીમા તાપે ૩૫-૪૫ મિનિટ દમ આપો જેથી માંસ માખણ જેવું નરમ બની જાય."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/dum-gravy-paste-200g.png",
+        "filename": "dum-gravy-paste-200g.png"
+      }
+    },
+    {
+      "id": "pastes-bhuna-paste-200g",
+      "name": "Rich 'n' Spicy Bhuna Paste (Mixes For Gravies)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Ready Gravy Paste / Roasted Masala Base",
+      "tags": [
+        "Pastes",
+        "Bhuna",
+        "Roasted Onion",
+        "Semi-Dry Curry",
+        "Mutton",
+        "Chicken"
+      ],
+      "regional_names": {
+        "gu": "ભુના પેસ્ટ",
+        "hi": "भुना पेस्ट"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Glass Jar with White Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Mutton Gosht",
+          "Chicken",
+          "Paneer"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "500g Meat / Paneer",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Bhuna Sauté",
+          "Dry Braise"
+        ],
+        "required_ingredients": [
+          "500g boneless mutton or chicken pieces",
+          "3 tbsp Rich 'n' Spicy Bhuna Paste",
+          "2 sliced onions, 2 tbsp mustard oil or ghee",
+          "Splash of water"
+        ],
+        "instructions": {
+          "en": "Brown sliced onions in mustard oil or ghee. Add meat and sauté till lightly browned. Spoon in Rich 'n' Spicy Bhuna Paste. Roast (bhunao) continuously on medium heat, adding splashes of warm water, until the masala darkens and glazes every morsel of meat with intense flavour.",
+          "gu": "ડુંગળી ને તેલ/ઘી માં ગુલાબી થાય ત્યાં સુધી સાંતળો. માંસ ઉમેરી સાંતળો. ૩ ચમચી રીચ એન સ્પાઇસી ભુના પેસ્ટ ઉમેરી મસાલો ઘટ્ટ અને ઘેરો થાય ત્યાં સુધી ધીમે ધીમે શેકો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/bhuna-paste-200g.png",
+        "filename": "bhuna-paste-200g.png"
+      }
+    },
+    {
+      "id": "pastes-korean-sauce-250g",
+      "name": "Rich 'n' Spicy Korean Sauce",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Specialty Cooking Sauce / Glaze",
+      "tags": [
+        "Sauces",
+        "Korean Sauce",
+        "Spicy Glaze",
+        "Wings",
+        "Fried Chicken",
+        "Stir Fry"
+      ],
+      "regional_names": {
+        "gu": "કોરિયન સોસ",
+        "hi": "कोरियन सॉस"
+      },
+      "net_weight": {
+        "value": 250,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": 120,
+        "currency": "INR"
+      },
+      "packaging_type": "Tall Glass Jar with Black Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Crispy Chicken Wings",
+          "Fried Paneer",
+          "Tofu",
+          "Noodles"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "500g - 750g Wings / Appetizer",
+        "marination_time": "Glaze after frying or 15 mins marinade",
+        "cooking_methods": [
+          "Wok Toss",
+          "Glaze Coating",
+          "Dip"
+        ],
+        "required_ingredients": [
+          "500g crispy fried chicken wings or paneer bites",
+          "3-4 tbsp Rich 'n' Spicy Korean Sauce",
+          "1 tsp sesame oil, toasted sesame seeds, chopped spring onions"
+        ],
+        "instructions": {
+          "en": "In a wok, warm Rich 'n' Spicy Korean Sauce with a drizzle of sesame oil for 30 seconds until glossy and bubbly. Toss in hot crispy fried chicken wings or paneer bites until evenly coated. Garnish with toasted white sesame seeds and scallions.",
+          "gu": "કડાઈમાં રીચ એન સ્પાઇસી કોરિયન સોસ અને થોડું તલનું તેલ ગરમ કરો. ગરમ તળેલા ક્રિસ્પી ચિકન વિંગ્સ અથવા પનીર ઉમેરી સારી રીતે ટોસ કરો. શેકેલા તલ અને લીલી ડુંગળી થી સજાવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/korean-sauce-250g.png",
+        "filename": "korean-sauce-250g.png"
+      }
+    },
+    {
+      "id": "pastes-schezwan-sauce-250g",
+      "name": "Rich 'n' Spicy Schezwan Sauce",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Specialty Cooking Sauce / Dip",
+      "tags": [
+        "Sauces",
+        "Schezwan",
+        "Indo-Chinese",
+        "Garlic Chilli",
+        "Noodles",
+        "Fried Rice"
+      ],
+      "regional_names": {
+        "gu": "શેઝવાન સોસ",
+        "hi": "शेजवान सॉस"
+      },
+      "net_weight": {
+        "value": 250,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Tall Glass Jar with Black Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Chicken 65",
+          "Lollipops",
+          "Fried Rice",
+          "Noodles",
+          "Spring Rolls"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "Multi-serving Dip & Cooking Sauce",
+        "marination_time": "None (Ready to Eat / Cook)",
+        "cooking_methods": [
+          "Wok Stir Fry",
+          "Table Dip"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Schezwan Sauce (as needed)",
+          "Fried chicken lollipops, noodles, or fried rice",
+          "Chopped garlic and scallions"
+        ],
+        "instructions": {
+          "en": "Ready-to-use bold Indo-Chinese Schezwan sauce loaded with fiery red chillies and pungent garlic. Serve directly as an appetizing dip with Chicken 65, Samosas, and Lollipops, or stir 2-3 tablespoons into hot wok for Schezwan Fried Rice and Hakka Noodles.",
+          "gu": "લાલ મરચાં અને લસણના તીખા સ્વાદ વાળો તૈયાર શેઝવાન સોસ. ચિકન ૬૫, લોલીપોપ અથવા સમોસા સાથે ડીપ તરીકે પીરસો, અથવા ફ્રાઈડ રાઇસ અને નૂડલ્સ માં ૨-૩ ચમચી ઉમેરી વઘારો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/schezwan-sauce-250g.png",
+        "filename": "schezwan-sauce-250g.png"
+      }
+    },
+    {
+      "id": "pastes-rose-garden-250g",
+      "name": "Rich 'n' Spicy Rose Garden Sauce",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Specialty Cooking Sauce / Marinade",
+      "tags": [
+        "Sauces",
+        "Rose Garden",
+        "Specialty Sauce",
+        "Fusion Marinade",
+        "Tikka"
+      ],
+      "regional_names": {
+        "gu": "રોઝ ગાર્ડન સોસ",
+        "hi": "रोज़ गार्डन"
+      },
+      "net_weight": {
+        "value": 250,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Tall Glass Jar with Black Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Chicken Tikka",
+          "Paneer Tikka",
+          "Seafood"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "500g Chicken / Paneer",
+        "marination_time": "1 hour",
+        "cooking_methods": [
+          "Grill",
+          "Pan Sauté",
+          "Oven Roast"
+        ],
+        "required_ingredients": [
+          "500g boneless chicken or paneer skewers",
+          "3 tbsp Rich 'n' Spicy Rose Garden Sauce",
+          "1 tbsp butter, fresh lemon wedges"
+        ],
+        "instructions": {
+          "en": "Signature aromatic fusion sauce balancing delicate floral notes with savory marinade spices. Coat chicken tikka or paneer cubes generously and let rest for 1 hour. Pan-sear or grill over hot coals, basting with butter until succulent and lightly charred.",
+          "gu": "સુગંધિત અને મસાલેદાર ફ્યુઝન સોસ. ચિકન ટીક્કા અથવા પનીર પર સારી રીતે લગાવી ૧ કલાક રહેવા દો. માખણ લગાડી તવા પર અથવા કોલસા પર શેકી લો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/rose-garden-sauce-250g.png",
+        "filename": "rose-garden-sauce-250g.png"
+      }
+    },
+    {
+      "id": "pastes-red-cook-paste-200g",
+      "name": "Rich 'n' Spicy Red Cook Paste",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Ready Gravy Paste / Red Braising Base",
+      "tags": [
+        "Pastes",
+        "Red Cook",
+        "Deep Red Gravy",
+        "Spicy Curry",
+        "Chicken",
+        "Mutton"
+      ],
+      "regional_names": {
+        "gu": "રેડ કુક પેસ્ટ",
+        "hi": "रेड कुक"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Glass Jar with White Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Chicken Leg Pieces",
+          "Mutton",
+          "Boiled Eggs"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "500g - 750g Meat / Eggs",
+        "marination_time": "20 mins",
+        "cooking_methods": [
+          "Red Curry Braise",
+          "Pan Sauté"
+        ],
+        "required_ingredients": [
+          "500g Chicken pieces, tender Mutton, or hard-boiled eggs",
+          "3 tbsp Rich 'n' Spicy Red Cook Paste",
+          "2 tbsp oil, 1 sliced onion, water as needed"
+        ],
+        "instructions": {
+          "en": "Heat oil in a pan, lightly sauté sliced onion, and add meat or eggs. Stir in 3 tablespoons of Rich 'n' Spicy Red Cook Paste. Cook on medium heat until spices release aroma, add 1 cup warm water, and simmer until gravy is thick, vibrant red, and rich in taste.",
+          "gu": "પેનમાં તેલ ગરમ કરી ડુંગળી સાંતળો. માંસ અથવા બાફેલા ઈંડા ઉમેરી ૩ ચમચી રીચ એન સ્પાઇસી રેડ કુક પેસ્ટ ઉમેરો. સુગંધ આવે ત્યાં સુધી સાંતળી ૧ કપ પાણી ઉમેરી લાલ ઘટ્ટ ગ્રેવી થાય ત્યાં સુધી પકાવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/red-cook-paste-200g.png",
+        "filename": "red-cook-paste-200g.png"
+      }
+    },
+    {
+      "id": "pastes-tandoori-paste-bbq-250g",
+      "name": "Rich 'n' Spicy Tandoori Paste BBQ",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Pastes & Sauces",
+      "product_type": "Ready Marinade Paste / BBQ Base",
+      "tags": [
+        "Pastes",
+        "Tandoori BBQ",
+        "Smoky Marinade",
+        "Tandoor",
+        "Chicken",
+        "Paneer"
+      ],
+      "regional_names": {
+        "gu": "તંદુરી પેસ્ટ બાર્બેક્યુ",
+        "hi": "तंदूरी पेस्ट"
+      },
+      "net_weight": {
+        "value": 250,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Tall Glass Jar with Black Lid",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Whole Chicken / Leg Quarters",
+          "Paneer Tikka",
+          "Chops"
+        ]
+      },
+      "recipe": {
+        "serves_portion": "750g - 1kg Tandoori Chicken",
+        "marination_time": "1 to 3 hours",
+        "cooking_methods": [
+          "Barbecue Charcoal Grill",
+          "Oven Roast",
+          "Pan Sear"
+        ],
+        "required_ingredients": [
+          "750g-1kg Chicken (slashed leg quarters or tikka)",
+          "3-4 tbsp Rich 'n' Spicy Tandoori Paste BBQ",
+          "1/2 cup hung curd, 1 tbsp lemon juice",
+          "Melted butter for basting"
+        ],
+        "instructions": {
+          "en": "Mix Rich 'n' Spicy Tandoori Paste BBQ with hung curd and lemon juice. Slather generously into chicken gashes and let marinate for at least 1-3 hours. Roast in a preheated oven or over live charcoal grill, basting with melted butter until charred and juicy.",
+          "gu": "રીચ એન સ્પાઇસી તંદુરી પેસ્ટ બીબીક્યુ ને ઘટ્ટ દહીં અને લીંબુ ના રસ સાથે મિક્સ કરો. ચીકન ના કાપા પર લગાવી ૧-૩ કલાક મેરીનેટ કરો. ઓવન માં અથવા કોલસા ની સિગરી પર માખણ લગાડી શેકી લો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      },
+      "images": {
+        "primary": "product images/pastes/tandoori-paste-bbq-250g.png",
+        "filename": "tandoori-paste-bbq-250g.png"
       }
     }
   ]
