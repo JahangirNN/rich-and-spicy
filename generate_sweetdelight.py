@@ -1,0 +1,113 @@
+# generate_sweetdelight.py
+import json
+import os
+
+MANUFACTURER_DEFAULT = {
+    "name": "City Gruh Udhyog",
+    "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+    "contact": "9898155726"
+}
+
+sweetdelight_catalog = {
+    "category": "Sweet Delight",
+    "total_products": 2,
+    "generated_at": "2026-11-21",
+    "brand": "Rich 'n' SP!CY",
+    "manufacturer": MANUFACTURER_DEFAULT,
+    "products": [
+        {
+            "id": "sweet-basundi-kheer-dudhpak-100g",
+            "name": "Rich 'n' Spicy Basundi / Kheer / Dudhpak Instant Mix",
+            "brand": "Rich 'n' SP!CY",
+            "category": "Sweet Delight",
+            "product_type": "Instant Mix",
+            "tags": ["Sweet Delight", "Dessert", "Basundi", "Kheer", "Dudhpak", "Instant Mix"],
+            "regional_names": {
+                "gu": "બાસુદી/ખીર/દુધપાક ઈન્સ્ટન્ટ મીક્સ"
+            },
+            "net_weight": {
+                "value": 100,
+                "unit": "g"
+            },
+            "pricing": {
+                "mrp": None,
+                "currency": "INR"
+            },
+            "packaging_type": "Transparent Pouch with Sticker Label",
+            "dietary": {
+                "is_vegetarian_mix": True,
+                "suggested_protein": ["Dairy / Milk"]
+            },
+            "images": {
+                "primary": "product images/sweet delight/basundi kheer.JPG",
+                "filename": "basundi kheer.JPG"
+            },
+            "recipe": {
+                "serves_portion": "500ml Milk (4 Servings)",
+                "marination_time": "None",
+                "cooking_methods": ["Boil", "Simmer"],
+                "required_ingredients": [
+                    "500ml full cream milk",
+                    "100g Rich 'n' Spicy Basundi / Kheer / Dudhpak Instant Mix",
+                    "Slivered almonds and pistachios (for garnish)",
+                    "Saffron strands (optional)"
+                ],
+                "instructions": {
+                    "en": "In a heavy-bottomed pan, add 100g of Rich 'n' Spicy Basundi / Kheer / Dudhpak Instant Mix into 500ml of cold or lukewarm milk. Stir continuously on medium flame for about 10 minutes until the mixture thickens into a rich, creamy consistency. Allow to cool down, then chill in the refrigerator. For an authentic touch, serve chilled in small earthen clay pots (matka kullad) garnished with slivered dry fruits.",
+                    "gu": "અડધા લીટર દૂધમાં ૧૦૦ ગ્રામ બાસુંદી / ખીર / દૂધપાક ઈન્સ્ટન્ટ મિક્સ નાખી ગરમ કરો અને ચમચાથી સતત હલાવતા રહો. મિશ્રણ ઘટ્ટ થાય ત્યાં સુધી (લગભગ ૧૦ મિનિટ મધ્યમ આંચે) પકાવો. ત્યારબાદ ઠંડુ કરી સર્વ કરો. વધુ સ્વાદિષ્ટ બનાવવા માટીના નાના કોડિયામાં ઠંડુ કરી ડ્રાયફ્રૂટ્સથી સજાવી પીરસો."
+                }
+            },
+            "manufacturer": MANUFACTURER_DEFAULT
+        },
+        {
+            "id": "sweet-cold-coco-instant-mix-100g",
+            "name": "Rich 'n' Spicy Instant Cold Coco Mix",
+            "brand": "Rich 'n' SP!CY",
+            "category": "Sweet Delight",
+            "product_type": "Instant Mix",
+            "tags": ["Sweet Delight", "Beverage", "Dessert", "Cold Coco", "Chocolate", "Instant Mix"],
+            "regional_names": {
+                "gu": "કોલ્ડ કોકો"
+            },
+            "net_weight": {
+                "value": 100,
+                "unit": "g"
+            },
+            "pricing": {
+                "mrp": None,
+                "currency": "INR"
+            },
+            "packaging_type": "Printed Instant Mix Pouch with Window",
+            "dietary": {
+                "is_vegetarian_mix": True,
+                "suggested_protein": ["Dairy / Milk"]
+            },
+            "images": {
+                "primary": "product images/sweet delight/cold coco.JPG",
+                "filename": "cold coco.JPG"
+            },
+            "recipe": {
+                "serves_portion": "500ml Milk (3-4 Servings)",
+                "marination_time": "None",
+                "cooking_methods": ["Boil", "Chill"],
+                "required_ingredients": [
+                    "500ml full cream milk",
+                    "100g Rich 'n' Spicy Cold Coco Instant Mix",
+                    "Ice cubes",
+                    "Dark chocolate shavings or chocolate chips",
+                    "Vanilla or chocolate ice cream scoop (optional)"
+                ],
+                "instructions": {
+                    "en": "Mix 100g of Rich 'n' Spicy Cold Coco Mix with 500ml full cream milk in a saucepan. Whisk thoroughly to ensure no lumps remain. Cook on low-medium flame while stirring continuously for 3-5 minutes until thick, silky, and glossy. Remove from heat and allow to cool completely at room temperature, then chill in the refrigerator for 2 hours. Pour into glasses over ice cubes, topped with chocolate curls and ice cream.",
+                    "gu": "૫૦૦ મિલી દૂધમાં ૧૦૦ ગ્રામ રીચ એન સ્પાઈસી કોલ્ડ કોકો મિક્સ નાખી ગઠ્ઠા ન રહે તે રીતે વ્હિસ્ક કરો. ધીમીથી મધ્યમ આંચે ૩-૫ મિનિટ સુધી સતત હલાવી ઘટ્ટ ચોકલેટી મિશ્રણ તૈયાર કરો. ઠંડુ થયા પછી ફ્રિજમાં ૨-૩ કલાક રાખી ચિલ્ડ કરો. ગ્લાસમાં બરફના ટુકડા, ચોકલેટ શેવિંગ્સ અને આઈસ્ક્રીમના સ્કૂપ સાથે ગાર્નિશ કરી ઠંડુ પીરસો."
+                }
+            },
+            "manufacturer": MANUFACTURER_DEFAULT
+        }
+    ]
+}
+
+with open("sweet_delight_products.json", "w", encoding="utf-8") as f:
+    json.dump(sweetdelight_catalog, f, indent=2, ensure_ascii=False)
+
+print(f"Generated sweet_delight_products.json with {len(sweetdelight_catalog['products'])} products.")

@@ -4,12 +4,21 @@ import os
 import sys
 
 catalogs = [
+    ("barbecue_products.json", "Barbecue", 23),
     ("biryani_products.json", "Biryani", 5),
     ("deep_fry_products.json", "Deep Fry", 8),
-    ("gravy_products.json", "Gravy", 28)
+    ("gravy_products.json", "Gravy", 28),
+    ("starters_products.json", "Starters", 8),
+    ("sweet_delight_products.json", "Sweet Delight", 2),
+    ("veg_starters_products.json", "Veg Starters", 7),
+    ("veg_main_course_products.json", "Veg Main Course", 19),
+    ("kitchen_special_products.json", "Kitchen Special", 17),
+    ("whole_spices_products.json", "Whole Spices", 33),
+    ("others_products.json", "Others", 49)
 ]
 
 all_passed = True
+total_tested = 0
 
 for filename, expected_cat, expected_count in catalogs:
     print(f"\n==========================================")
@@ -42,7 +51,7 @@ for filename, expected_cat, expected_count in catalogs:
         assert p.get("name"), f"Product {pid} missing name"
         assert p.get("brand") == "Rich 'n' SP!CY", f"Product {pid} brand mismatch"
         assert p.get("category") == expected_cat, f"Product {pid} category mismatch"
-        assert p.get("product_type") in ["Instant Mix", "Dry Marinade / Spice Mix"], f"Product {pid} invalid product_type"
+        assert p.get("product_type") in ["Instant Mix", "Dry Marinade / Spice Mix"], f"Product {pid} invalid product_type: {p.get('product_type')}"
         assert isinstance(p.get("tags"), list) and len(p.get("tags")) > 0, f"Product {pid} invalid tags"
 
         # Regional
@@ -66,7 +75,7 @@ for filename, expected_cat, expected_count in catalogs:
         primary_path = img.get("primary", "")
         filename_val = img.get("filename", "")
         assert os.path.exists(primary_path), f"Product {pid} image file missing at {primary_path}"
-        assert os.path.basename(primary_path) == filename_val, f"Product {pid} filename mismatch"
+        assert os.path.basename(primary_path) == filename_val, f"Product {pid} filename mismatch: {os.path.basename(primary_path)} != {filename_val}"
 
         # Recipe
         recipe = p.get("recipe", {})
@@ -83,7 +92,8 @@ for filename, expected_cat, expected_count in catalogs:
         mfg = p.get("manufacturer", {})
         assert mfg.get("name") == "City Gruh Udhyog"
 
+    total_tested += len(data["products"])
     print(f"SUCCESS: {filename} passed all schema and consistency checks! ({len(data['products'])} items)")
 
 print("\n==========================================")
-print("ALL CATALOGS VALIDATED SUCCESSFULLY!")
+print(f"ALL 11 CATALOGS ({total_tested} PRODUCTS) VALIDATED SUCCESSFULLY!")

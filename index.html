@@ -562,13 +562,18 @@
     <div class="controls-panel">
       <!-- Category Tabs -->
       <div class="nav-tabs" id="categoryTabs">
-        <button class="nav-tab active" data-category="all">✨ All (<span id="all-count">64</span>)</button>
+        <button class="nav-tab active" data-category="all">✨ All (<span id="all-count">199</span>)</button>
         <button class="nav-tab" data-category="Barbecue">🔥 Barbecue (<span id="bbq-count">23</span>)</button>
         <button class="nav-tab" data-category="Biryani">🍚 Biryani (<span id="biryani-count">5</span>)</button>
         <button class="nav-tab" data-category="Gravy">🍲 Gravy (<span id="gravy-count">28</span>)</button>
         <button class="nav-tab" data-category="Deep Fry">🍤 Deep Fry (<span id="deepfry-count">8</span>)</button>
-        <button class="nav-tab disabled" title="Pending extraction">🌶️ Kitchen Special (Pending)</button>
-        <button class="nav-tab disabled" title="Pending extraction">📦 Others (Pending)</button>
+        <button class="nav-tab" data-category="Starters">🍢 Starters (<span id="starters-count">8</span>)</button>
+        <button class="nav-tab" data-category="Sweet Delight">🍨 Sweet Delight (<span id="sweetdelight-count">2</span>)</button>
+        <button class="nav-tab" data-category="Veg Starters">🥗 Veg Starters (<span id="vegstarters-count">7</span>)</button>
+        <button class="nav-tab" data-category="Veg Main Course">🍛 Veg Main Course (<span id="vegmain-count">19</span>)</button>
+        <button class="nav-tab" data-category="Kitchen Special">🌶️ Kitchen Special (<span id="ks-count">17</span>)</button>
+        <button class="nav-tab" data-category="Whole Spices">🌿 Whole Spices (<span id="wholespices-count">33</span>)</button>
+        <button class="nav-tab" data-category="Others">📦 Others (<span id="others-count">49</span>)</button>
       </div>
 
       <!-- Filters & Search -->
@@ -581,10 +586,12 @@
         <div class="pill-group" id="filterPills">
           <button class="pill active" data-filter="all">All</button>
           <button class="pill" data-filter="Chicken">🍗 Chicken</button>
+          <button class="pill" data-filter="Mutton">🥩 Mutton</button>
           <button class="pill" data-filter="Paneer">🧀 Paneer</button>
           <button class="pill" data-filter="Fish">🐟 Fish</button>
           <button class="pill" data-filter="Instant Mix">⚡ Instant Mix</button>
           <button class="pill" data-filter="Dry Marinade">🥣 Marinade Mix</button>
+          <button class="pill" data-filter="Spices">🌿 Spices</button>
         </div>
       </div>
     </div>
@@ -642,7 +649,19 @@
         allProducts = window.CATALOG_DATA.products;
       } else {
         try {
-          const files = ['barbecue_products.json', 'biryani_products.json', 'deep_fry_products.json', 'gravy_products.json'];
+          const files = [
+            'barbecue_products.json',
+            'biryani_products.json',
+            'deep_fry_products.json',
+            'gravy_products.json',
+            'starters_products.json',
+            'sweet_delight_products.json',
+            'veg_starters_products.json',
+            'veg_main_course_products.json',
+            'kitchen_special_products.json',
+            'whole_spices_products.json',
+            'others_products.json'
+          ];
           const prods = [];
           for (const f of files) {
             try {
@@ -658,21 +677,23 @@
       }
 
       // Update counters
-      const bbqCount = allProducts.filter(p => p.category === 'Barbecue').length;
-      const biryaniCount = allProducts.filter(p => p.category === 'Biryani').length;
-      const gravyCount = allProducts.filter(p => p.category === 'Gravy').length;
-      const deepfryCount = allProducts.filter(p => p.category === 'Deep Fry').length;
-
       const setEl = (id, val) => {
         const el = document.getElementById(id);
         if (el) el.innerText = val;
       };
 
       setEl('all-count', allProducts.length);
-      setEl('bbq-count', bbqCount);
-      setEl('biryani-count', biryaniCount);
-      setEl('gravy-count', gravyCount);
-      setEl('deepfry-count', deepfryCount);
+      setEl('bbq-count', allProducts.filter(p => p.category === 'Barbecue').length);
+      setEl('biryani-count', allProducts.filter(p => p.category === 'Biryani').length);
+      setEl('gravy-count', allProducts.filter(p => p.category === 'Gravy').length);
+      setEl('deepfry-count', allProducts.filter(p => p.category === 'Deep Fry').length);
+      setEl('starters-count', allProducts.filter(p => p.category === 'Starters').length);
+      setEl('sweetdelight-count', allProducts.filter(p => p.category === 'Sweet Delight').length);
+      setEl('vegstarters-count', allProducts.filter(p => p.category === 'Veg Starters').length);
+      setEl('vegmain-count', allProducts.filter(p => p.category === 'Veg Main Course').length);
+      setEl('ks-count', allProducts.filter(p => p.category === 'Kitchen Special').length);
+      setEl('wholespices-count', allProducts.filter(p => p.category === 'Whole Spices').length);
+      setEl('others-count', allProducts.filter(p => p.category === 'Others').length);
 
       renderProducts();
       setupEvents();
@@ -735,7 +756,14 @@
           'Barbecue': '#c2410c',
           'Biryani': '#0284c7',
           'Gravy': '#b45309',
-          'Deep Fry': '#7c3aed'
+          'Deep Fry': '#7c3aed',
+          'Starters': '#e11d48',
+          'Sweet Delight': '#db2777',
+          'Veg Starters': '#059669',
+          'Veg Main Course': '#16a34a',
+          'Kitchen Special': '#ea580c',
+          'Whole Spices': '#d97706',
+          'Others': '#4f46e5'
         }[p.category] || '#475569';
 
         return `

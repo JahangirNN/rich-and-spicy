@@ -1,0 +1,1226 @@
+{
+  "category": "Veg Main Course",
+  "total_products": 19,
+  "generated_at": "2026-11-21",
+  "brand": "Rich 'n' SP!CY",
+  "manufacturer": {
+    "name": "City Gruh Udhyog",
+    "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+    "contact": "9898155726"
+  },
+  "products": [
+    {
+      "id": "veg-bhaji-pav-50g",
+      "name": "Rich 'n' Spicy Bhaji Pav Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Pav Bhaji",
+        "Street Food",
+        "Dry Marinade",
+        "Vegetarian"
+      ],
+      "regional_names": {
+        "gu": "ભાજીપાઉં"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Vegetables",
+          "Paneer"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/bhaji paav.JPG",
+        "filename": "bhaji paav.JPG"
+      },
+      "recipe": {
+        "serves_portion": "4-6 Servings",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Saute",
+          "Mash & Simmer",
+          "Tawa Fry"
+        ],
+        "required_ingredients": [
+          "100g butter",
+          "4 finely chopped onions",
+          "1 tbsp cumin seeds",
+          "5-6 tbsp (50g) Rich 'n' Spicy Bhaji Pav Masala",
+          "4 tbsp chili, ginger, garlic paste",
+          "150-200g capsicum",
+          "Boiled potatoes, boiled peas, boiled cauliflower",
+          "Chopped tomatoes",
+          "Fresh coriander & buttered pav"
+        ],
+        "instructions": {
+          "en": "In 100g butter, add 1 tbsp cumin seeds and 4 chopped onions, fry till brown. Add 50g Rich 'n' Spicy Bhaji Pav Masala and roast on low flame. Add ginger-garlic paste, chopped capsicum, boiled mashed potatoes, boiled green peas and cauliflower. Mash well. Add chopped tomatoes, 1 cup water, salt, cover and simmer for 15-20 minutes. Finish on tawa with extra butter and fresh coriander. Serve hot with buttered pav and lemon wedges.",
+          "gu": "૧૦૦ ગ્રામ માખણમાં જીરૂ અને ૪ કાંદા સાંતળી બ્રાઉન કરો. તેમાં ૫૦ ગ્રામ રીચ એન સ્પાઈસી ભાજીપાઉં મસાલો શેકો. આદુ લસણની પેસ્ટ, કેપ્સીકમ, બાફેલા બટાકા, વટાણા અને ફ્લાવર નાખી બરાબર છૂંદો. ટામેટાં, ૧ કપ પાણી અને મીઠું ઉમેરી ૧૫-૨૦ મિનિટ ધીમી આંચે પકાવો. તવા પર માખણ અને કોથમીર નાખી બટરી ભાજી ગરમ પાઉં સાથે પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-chole-channa-50g",
+      "name": "Rich 'n' Spicy Chole Channa Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Chole",
+        "Chana",
+        "Punjabi",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "છોલે-ચના"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": 15,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Chickpeas"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/chole channa.JPG",
+        "filename": "chole channa.JPG"
+      },
+      "recipe": {
+        "serves_portion": "250g Kabuli Chana (4 Servings)",
+        "marination_time": "Soak Overnight (8 hours)",
+        "cooking_methods": [
+          "Pressure Cook / Boil",
+          "Simmer"
+        ],
+        "required_ingredients": [
+          "250g Kabuli Chana (soaked overnight)",
+          "3 medium onions",
+          "4 tbsp oil",
+          "1 tbsp crushed ginger & green chillies",
+          "3 tbsp Rich 'n' Spicy Chole Chana Masala",
+          "2 fresh tomatoes",
+          "Salt as per taste",
+          "Fresh coriander"
+        ],
+        "instructions": {
+          "en": "Boil soaked chickpeas with salt. Heat 4 tbsp oil in a pan and fry chopped onions till light pink. Add ginger-chili paste, 3 tbsp Rich 'n' Spicy Chole Chana Masala, salt, and little water; fry for 2-3 minutes. Set aside 50g boiled chickpeas and blend with tomatoes into a puree. Add boiled chana and tomato puree to the pan, add water and simmer for 5-7 minutes till gravy is thick and aromatic. Serve hot with bhature or puris.",
+          "gu": "૨૫૦ ગ્રામ કાબુલી ચણા આખી રાત પલાળી મીઠું નાખી બાફી લો. તેલમાં કાંદા ગુલાબી સાંતળો. તેમાં આદુ મરચાંની પેસ્ટ, ૩ ચમચી રીચ એન સ્પાઈસી છોલે-ચના મસાલો અને પાણી નાખી ૨-૩ મિનિટ સાંતળો. ૫૦ ગ્રામ બાફેલા ચણા અને ટામેટાંને મિક્સરમાં પીસી પેસ્ટ ઉમેરો. બાકીના ચણા અને પાણી નાખી ૫-૭ મિનિટ ઉકાળો. ગરમા ગરમ ભટુરા કે પુરી સાથે પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-dal-fry-50g",
+      "name": "Rich 'n' Spicy Dal Fry Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Instant Mix",
+      "tags": [
+        "Veg Main Course",
+        "Dal Fry",
+        "Tadka",
+        "Instant Mix",
+        "Lentils"
+      ],
+      "regional_names": {
+        "gu": "દાલ ફ્રાય"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Lentils"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/dal fry.JPG",
+        "filename": "dal fry.JPG"
+      },
+      "recipe": {
+        "serves_portion": "150g Toor Dal (4-5 Servings)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Boil",
+          "Tempering / Tadka"
+        ],
+        "required_ingredients": [
+          "150g toor dal",
+          "2 tomatoes chopped",
+          "1 onion chopped",
+          "2 tbsp ghee or butter",
+          "1 tsp cumin seeds",
+          "1 tbsp ginger-garlic paste",
+          "50g Rich 'n' Spicy Dal Fry Instant Mix",
+          "Fresh coriander and green chillies"
+        ],
+        "instructions": {
+          "en": "Boil toor dal with water and a pinch of turmeric until soft, then whisk smooth. Heat ghee in a pan, add cumin seeds, chopped onions, and saute till golden. Add ginger-garlic paste, chopped tomatoes, and Rich 'n' Spicy Dal Fry Instant Mix. Cook until tomatoes soften and ghee releases. Pour cooked dal into the tempering, adjust water, and simmer for 5-8 minutes. Garnish with coriander and butter. Serve with jeera rice or roti.",
+          "gu": "તુવેર દાળને બાફીને મેશ કરી લો. કડાઈમાં ઘી ગરમ કરી જીરૂ અને ડુંગળી સાંતળો. તેમાં આદુ લસણની પેસ્ટ, ટામેટાં અને રીચ એન સ્પાઈસી દાલ ફ્રાય ઇન્સ્ટન્ટ મિક્સ ઉમેરી ઘી છૂટું પડે ત્યાં સુધી પકાવો. બાફેલી દાળ ઉમેરી ૫-૮ મિનિટ ઉકાળો. માખણ અને કોથમીરથી સજાવી જીરા રાઈસ સાથે પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-fried-rice-30g",
+      "name": "Rich 'n' Spicy Fried Rice Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Fried Rice",
+        "Indo-Chinese",
+        "Rice",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "ફ્રાઇડ રાઇસ"
+      },
+      "net_weight": {
+        "value": 30,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Paneer",
+          "Vegetables",
+          "Tofu"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/fried rice.JPG",
+        "filename": "fried rice.JPG"
+      },
+      "recipe": {
+        "serves_portion": "3 Cups Boiled Rice (3-4 Servings)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Wok Toss / Stir Fry"
+        ],
+        "required_ingredients": [
+          "3 cups cold boiled basmati rice",
+          "Chopped spring onions, bell peppers, carrots, cabbage",
+          "2 tbsp cooking oil",
+          "Soya sauce as per taste",
+          "30g Rich 'n' Spicy Fried Rice Masala",
+          "Coriander leaves (DON'T ADD SALT FOR RICE)"
+        ],
+        "instructions": {
+          "en": "Heat oil in a wok or pan. Saute finely chopped spring onions, bell peppers, and carrots for 2-3 minutes on high flame. Add soya sauce as per taste and 30g Rich 'n' Spicy Fried Rice Masala. Add 3 cups cold boiled rice (cooked without salt) and stir fry vigorously on high heat for 3-4 minutes until well coated and fragrant. Garnish with spring onion greens and coriander.",
+          "gu": "પેનમાં તેલ લઈ ઝીણા સમારેલા લીલા કાંદા, કેપ્સીકમ, ગાજર ૨-૩ મિનિટ ફ્રાય કરો. સ્વાદ મુજબ સોયા સોસ અને રીચ એન સ્પાઈસી ફ્રાઈડ રાઈસ મસાલો ઉમેરો. ૩ કપ બાફેલા ચોખા ઉમેરી તેજ આંચ પર બરાબર ટોસ કરો. કોથમીર અને લીલી ડુંગળીથી સજાવી સર્વ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-sp-khichdi-masala-50g",
+      "name": "Rich 'n' Spicy Special Khichdi Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Khichdi",
+        "Comfort Food",
+        "Dry Marinade",
+        "Gujarati"
+      ],
+      "regional_names": {
+        "gu": "સ્પે. ખીચડી મસાલો"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Lentils",
+          "Vegetables"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/khichdi masala.JPG",
+        "filename": "khichdi masala.JPG"
+      },
+      "recipe": {
+        "serves_portion": "1 Cup Rice + ½ Cup Moong Dal",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Pressure Cook",
+          "Tadka"
+        ],
+        "required_ingredients": [
+          "1 cup rice",
+          "½ cup yellow moong dal",
+          "2 tbsp desi ghee",
+          "1 tsp cumin seeds",
+          "Pinch of hing",
+          "1 chopped potato and green peas",
+          "2 tbsp Rich 'n' Spicy Special Khichdi Masala",
+          "Salt and turmeric"
+        ],
+        "instructions": {
+          "en": "Wash rice and dal together. In a pressure cooker, heat desi ghee, add cumin seeds and hing. Add vegetables, turmeric, and 2 tbsp Rich 'n' Spicy Special Khichdi Masala. Saute for 1 minute. Add soaked rice, dal, and 4.5 cups water with salt. Pressure cook for 3-4 whistles until soft and fragrant. Top with a spoonful of desi ghee and serve with curd, papad, and pickle.",
+          "gu": "ચોખા અને મગની દાળ ધોઈ લો. કૂકરમાં દેશી ઘી ગરમ કરી જીરૂ અને હીંગનો વઘાર કરો. તેમાં શાકભાજી અને ૨ ચમચી રીચ એન સ્પાઈસી સ્પે. ખીચડી મસાલો ઉમેરી સાંતળો. ચોખા, દાળ, સાડા ચાર કપ પાણી અને મીઠું ઉમેરી ૩-૪ સીટી વાગે ત્યાં સુધી બાફો. ઉપરથી ઘી રેડી દહીં, પાપડ અને અથાણાં સાથે ગરમ સર્વ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-kitchen-king-masala-50g",
+      "name": "Rich 'n' Spicy Special Kitchen King Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Kitchen King",
+        "All-in-One",
+        "Dry Marinade",
+        "Curry"
+      ],
+      "regional_names": {
+        "gu": "સ્પે. કિચનકીંગ મસાલો"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Mixed Vegetables",
+          "Paneer",
+          "Kofta"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/Kitchen king.JPG",
+        "filename": "Kitchen king.JPG"
+      },
+      "recipe": {
+        "serves_portion": "Multi-Purpose All-in-One Curry Seasoning",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Saute",
+          "Simmer"
+        ],
+        "required_ingredients": [
+          "Chopped mixed vegetables or paneer (300g)",
+          "2 pureed tomatoes",
+          "1 chopped onion",
+          "Ginger-garlic paste",
+          "2 tbsp Rich 'n' Spicy Special Kitchen King Masala",
+          "3 tbsp oil/butter",
+          "Cream and kasuri methi"
+        ],
+        "instructions": {
+          "en": "Heat oil or butter in a pan, saute chopped onions and ginger-garlic paste until aromatic. Add tomato puree and cook till oil separates. Add 2 tbsp Rich 'n' Spicy Kitchen King Masala along with mixed vegetables or paneer cubes. Add half a cup of water, cover and simmer for 10 minutes. Finish with crushed kasuri methi and fresh cream. The classic all-in-one king spice for everyday royal curries.",
+          "gu": "કડાઈમાં તેલ અથવા માખણ ગરમ કરી ડુંગળી અને આદુ લસણ સાંતળો. ટામેટાંની પ્યુરી ઉમેરી તેલ છૂટે ત્યાં સુધી સાંતળો. ૨ ચમચી રીચ એન સ્પાઈસી કિચન કિંગ મસાલો અને મનપસંદ શાકભાજી કે પનીર ઉમેરો. અડધો કપ પાણી નાખી ૧૦ મિનિટ ધીમી આંચે પકાવો. કસુરી મેથી અને ક્રીમ ઉમેરી ગરમા ગરમ રોટલી સાથે પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-paneer-tikka-30g",
+      "name": "Rich 'n' Spicy Paneer Tikka Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Paneer Tikka",
+        "Barbecue",
+        "Tandoor",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "પનીર ટીક્કા"
+      },
+      "net_weight": {
+        "value": 30,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Paneer"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/Paneer tikka.JPG",
+        "filename": "Paneer tikka.JPG"
+      },
+      "recipe": {
+        "serves_portion": "200g Paneer",
+        "marination_time": "1 hour",
+        "cooking_methods": [
+          "Pan Fry",
+          "Tandoor / Barbecue",
+          "Oven Grill"
+        ],
+        "required_ingredients": [
+          "200g Paneer cubes",
+          "50g thick hung curd",
+          "4 tbsp cooking oil",
+          "1 square diced onion & bell pepper",
+          "30g Rich 'n' Spicy Paneer Tikka Masala",
+          "Chaat masala & lemon wedges for garnish"
+        ],
+        "instructions": {
+          "en": "Mix 30g Rich 'n' Spicy Paneer Tikka Masala with 50g curd and 4 tablespoons oil to make a smooth marinade paste. Add 200g paneer cubes, square cut onions, and bell peppers. Coat evenly and allow to marinate for 1 hour. Thread onto skewers and pan fry with little oil, barbecue over glowing coals, or bake in an oven at 200°C for 10-12 minutes until charred at the edges. Sprinkle chaat masala and serve with mint chutney.",
+          "gu": "રીચ એન સ્પાઈસી પનીર ટીક્કા મસાલામાં ૫૦ ગ્રામ દહીં અને ૪ ચમચી તેલ નાખી પેસ્ટ બનાવો. તેમાં ૨૦૦ ગ્રામ પનીર, ચોરસ કાપેલી ડુંગળી અને કેપ્સીકમ નાખી બરાબર મિક્સ કરી ૧ કલાક મેરીનેટ કરો. સ્ટીક પર ભરાવી પેનમાં શેલો ફ્રાય અથવા તંદૂર/બાર્બેક્યુ કરો. ચાટ મસાલો છાંટી ફુદીનાની ચટણી સાથે પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-sp-punjabi-gravy-50g",
+      "name": "Rich 'n' Spicy Special Punjabi Gravy Instant Mix (No Onion No Garlic)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Instant Mix",
+      "tags": [
+        "Veg Main Course",
+        "Punjabi Gravy",
+        "Jain",
+        "No Onion No Garlic",
+        "Instant Mix"
+      ],
+      "regional_names": {
+        "gu": "પંજાબી ગ્રેવી (કાંદા અને લસણ વગરનું)"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Paneer",
+          "Vegetables",
+          "Kaju"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/punjabi gravy.JPG",
+        "filename": "punjabi gravy.JPG"
+      },
+      "recipe": {
+        "serves_portion": "250g Paneer / Veggies (Serves 4)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Simmer",
+          "Pan Fry"
+        ],
+        "required_ingredients": [
+          "250g Paneer or mixed vegetables",
+          "3 ripe tomatoes pureed",
+          "2 tbsp butter/ghee",
+          "50g Rich 'n' Spicy Sp. Punjabi Gravy Instant Mix",
+          "½ cup water or milk",
+          "Fresh cream and kasuri methi (Jain friendly - Contains NO onion NO garlic)"
+        ],
+        "instructions": {
+          "en": "Heat butter or ghee in a pan. Add fresh tomato puree and saute on medium heat for 3-4 minutes. Dissolve 50g Rich 'n' Spicy Punjabi Gravy Instant Mix in half a cup of milk or water and pour into the pan. Stir continuously until the gravy thickens and oil separates. Add 250g paneer cubes or boiled vegetables, simmer for 5 minutes, and finish with a swirl of cream. Specially formulated without onion and garlic for authentic pure-veg culinary occasions.",
+          "gu": "પેનમાં ઘી કે માખણ ગરમ કરી ટામેટાંની પ્યુરી ૩-૪ મિનિટ સાંતળો. ૫૦ ગ્રામ રીચ એન સ્પાઈસી પંજાબી ગ્રેવી ઇન્સ્ટન્ટ મિક્સને અડધા કપ દૂધ અથવા પાણીમાં ઘોળી પેનમાં ઉમેરો. ગ્રેવી ઘટ્ટ થાય અને ઘી છૂટું પડે ત્યાં સુધી પકાવો. ૨૫૦ ગ્રામ પનીર કે શાકભાજી ઉમેરી ૫ મિનિટ ઉકાળો. કાંદા અને લસણ વગર બનાવેલી સ્વાદિષ્ટ શુદ્ધ સાત્વિક પંજાબી ગ્રેવી."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-ravaiya-masala-30g",
+      "name": "Rich 'n' Spicy Ravaiya Masala (Stuffed Brinjal Mix)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Ravaiya",
+        "Baingan",
+        "Stuffed Vegetables",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "રવૈયા મસાલા"
+      },
+      "net_weight": {
+        "value": 30,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Brinjal",
+          "Potatoes"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/ravaiya masala.JPG",
+        "filename": "ravaiya masala.JPG"
+      },
+      "recipe": {
+        "serves_portion": "250g Small Brinjals & 1 Potato",
+        "marination_time": "15 minutes",
+        "cooking_methods": [
+          "Stuffed Simmer",
+          "Pan Fry"
+        ],
+        "required_ingredients": [
+          "250g small purple brinjals",
+          "1 bell pepper / capsicum",
+          "1 chopped potato",
+          "30g Rich 'n' Spicy Ravaiya Masala",
+          "1 tbsp chili, ginger, garlic paste",
+          "2 tbsp lime juice",
+          "3 tbsp oil",
+          "½ glass water"
+        ],
+        "instructions": {
+          "en": "Empty Rich 'n' Spicy Ravaiya Masala in a bowl. Add 1 tbsp chili ginger garlic paste and 2 tbsp lime juice; mix into a thick stuffing paste. Slit 250g brinjals and 1 bell pepper into 4 cross sections without cutting through. Stuff paste generously inside the vegetables. Heat oil in a pan, fry 1 chopped potato for 2 minutes, then add stuffed brinjals and capsicum. Add ½ glass of water, cover with lid, and slow-cook on low flame until tender and fragrant.",
+          "gu": "એક બાઉલમાં રીચ એન સ્પાઈસી રવૈયા મસાલો લઈ તેમાં ૧ ચમચી આદુ મરચાં લસણની પેસ્ટ અને ૨ ચમચી લીંબુનો રસ ઉમેરી પેસ્ટ બનાવો. ૨૫૦ ગ્રામ રીંગણ અને ૧ કેપ્સીકમમાં ૪ કાપા પાડી મસાલો ભરો. પેનમાં તેલ લઈ બટાકા સાંતળો, પછી ભરેલાં રીંગણ-કેપ્સીકમ અને અડધો ગ્લાસ પાણી નાખી ઢાંકીને ધીમી આંચે ચડી જાય ત્યાં સુધી પકાવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-sp-tava-fry-50g",
+      "name": "Rich 'n' Spicy Special Tava Fry Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Tava Fry",
+        "Sizzler",
+        "Dry Marinade",
+        "Spicy"
+      ],
+      "regional_names": {
+        "gu": "સ્પે. તવા ફ્રાય મસાલો"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Paneer",
+          "Bhindi",
+          "Baby Corn",
+          "Vegetables"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/tava fry.JPG",
+        "filename": "tava fry.JPG"
+      },
+      "recipe": {
+        "serves_portion": "300g Mixed Veggies / Paneer",
+        "marination_time": "15 minutes",
+        "cooking_methods": [
+          "Tawa Fry",
+          "Sizzle"
+        ],
+        "required_ingredients": [
+          "300g mixed veggies (bhindi, baby corn, capsicum, paneer)",
+          "2 tbsp mustard or cooking oil",
+          "2-3 tbsp Rich 'n' Spicy Special Tava Fry Masala",
+          "1 tbsp lemon juice",
+          "Fresh chopped coriander and ginger juliennes"
+        ],
+        "instructions": {
+          "en": "Coat parboiled or slit vegetables and paneer cubes with lemon juice and 2-3 tbsp Rich 'n' Spicy Tava Fry Masala. Heat oil or butter on a flat tawa (iron griddle). Place the seasoned vegetables on the hot tawa and fry on medium flame, flipping occasionally until charred, crisp, and aromatic. Garnish with ginger juliennes and fresh coriander. Serve sizzling hot.",
+          "gu": "શાકભાજી (ભીંડા, બેબી કોર્ન, કેપ્સીકમ) અને પનીર પર લીંબુનો રસ અને ૨-૩ ચમચી રીચ એન સ્પાઈસી તવા ફ્રાય મસાલો લગાવો. ગરમ તવા પર તેલ કે માખણ મૂકી શાકભાજીને ક્રિસ્પી અને સોનેરી થાય ત્યાં સુધી શેલો ફ્રાય કરો. આદુની કતરણ અને કોથમીરથી સજાવી સિઝલિંગ સર્વ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-paneer-65-30g",
+      "name": "Rich 'n' Spicy Veg / Paneer 65 Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Paneer 65",
+        "Veg 65",
+        "Crispy",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "વેજ. /પનીર ૬૫"
+      },
+      "net_weight": {
+        "value": 30,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Paneer",
+          "Potatoes"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/veg 65.JPG",
+        "filename": "veg 65.JPG"
+      },
+      "recipe": {
+        "serves_portion": "150g Paneer & 1 Potato",
+        "marination_time": "1 hour",
+        "cooking_methods": [
+          "Deep Fry"
+        ],
+        "required_ingredients": [
+          "150g paneer fingers",
+          "1 potato sliced into long chips",
+          "30g Rich 'n' Spicy 65 Masala",
+          "2 tbsp chili, ginger, garlic paste",
+          "2 tbsp thick curd",
+          "Oil for deep frying",
+          "Fresh curry leaves and green chillies"
+        ],
+        "instructions": {
+          "en": "Marinate 150g paneer cubes and sliced potato chips with 30g Rich 'n' Spicy 65 Masala, 2 tbsp chili ginger garlic paste, and 2 tbsp curd for 1 hour. Heat oil piping hot in a kadhai. Deep fry paneer and potato chips individually until crispy and crunchy. Toss in a pinch of curry leaves and slit green chillies during the last 30 seconds of frying. Drain on paper towels and serve piping hot.",
+          "gu": "૧૫૦ ગ્રામ પનીર અને લાંબા બટાકાની ચીપ્સમાં ૩૦ ગ્રામ ૬૫ મસાલો, ૨ ચમચી આદુ મરચાં લસણની પેસ્ટ અને ૨ ચમચી દહીં નાખી ૧ કલાક મેરીનેટ કરો. ગરમ તેલમાં પનીર અને ચીપ્સને કડકડતી થાય ત્યાં સુધી ડીપ ફ્રાય કરો. તળતી વખતે મીઠો લીમડો અને લીલાં મરચાં ઉમેરો. ગરમા ગરમ સર્વ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-paneer-handi-20g",
+      "name": "Rich 'n' Spicy Veg / Paneer Handi Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Paneer Handi",
+        "Royal Curry",
+        "Dry Marinade",
+        "Creamy"
+      ],
+      "regional_names": {
+        "gu": "વેજ./ પનીર હાંડી"
+      },
+      "net_weight": {
+        "value": 20,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Paneer",
+          "Vegetables"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/veg handi.JPG",
+        "filename": "veg handi.JPG"
+      },
+      "recipe": {
+        "serves_portion": "200g Paneer",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Handi Simmer",
+          "Saute"
+        ],
+        "required_ingredients": [
+          "200g paneer cubes",
+          "1 small chopped onion",
+          "1 tbsp chili ginger garlic paste",
+          "20g Rich 'n' Spicy Handi Masala",
+          "4 tbsp fresh malai / cream",
+          "2 tbsp oil or ghee",
+          "Chopped coriander"
+        ],
+        "instructions": {
+          "en": "Saute 1 small chopped onion with little oil in a pan until light pink. Add 200g paneer cubes, 1 tbsp chili ginger garlic paste, and allow to cook with a splash of water for 3 minutes. Blend 20g Rich 'n' Spicy Handi Masala with 4 tbsp fresh malai/cream and stir into the handi. Simmer gently until rich, glossy, and fragrant. Serve hot with buttery rotis or naan.",
+          "gu": "પેનમાં તેલ લઈ કાંદો ગુલાબી થાય ત્યાં સુધી સાંતળો. ૨૦૦ ગ્રામ પનીર અને ૧ ચમચી આદુ મરચાં લસણની પેસ્ટ ઉમેરી થોડું પાણી નાખી પકાવો. ૨૦ ગ્રામ રીચ એન સ્પાઈસી હાંડી મસાલાને ૪ ચમચી મલાઈ સાથે ફેંટી ગ્રેવીમાં ઉમેરો. ધીમી આંચે ઘટ્ટ થાય ત્યાં સુધી ઉકાળી ગરમ રોટલી સાથે પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-hyderabadi-biryani-20g",
+      "name": "Rich 'n' Spicy Veg Hyderabadi Biryani Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Hyderabadi Biryani",
+        "Rice",
+        "Dum Biryani",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "વેજ. હૈદરાબાદી બિરયાની"
+      },
+      "net_weight": {
+        "value": 20,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Mixed Vegetables",
+          "Paneer"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/veg hyderabadi biryani.JPG",
+        "filename": "veg hyderabadi biryani.JPG"
+      },
+      "recipe": {
+        "serves_portion": "3 Cups Basmati Rice & Vegetables",
+        "marination_time": "30 minutes",
+        "cooking_methods": [
+          "Dum / Slow Cook",
+          "Boil",
+          "Layer"
+        ],
+        "required_ingredients": [
+          "3 cups Basmati rice (soaked 2 hrs & half-boiled)",
+          "2 chopped fried potatoes",
+          "2 sliced fried onions",
+          "1 sliced bell pepper",
+          "50g boiled green peas",
+          "2 tbsp ginger chili garlic paste",
+          "2-3 tbsp curd",
+          "20g Rich 'n' Spicy Hyderabadi Biryani Masala",
+          "Ghee & mint"
+        ],
+        "instructions": {
+          "en": "Soak 3 cups Basmati rice for 2 hours and half-boil with salt. Fry potatoes till golden and set aside. In ghee, fry sliced onions till light pink, add bell peppers, boiled peas, and vegetables. Mix 20g Rich 'n' Spicy Hyderabadi Biryani Masala with 2-3 tbsp curd and ginger-garlic paste; stir into the vegetables with little water and fried potatoes. Layer half-boiled rice on top, seal and dum cook on very low flame for 30 minutes. Serve hot with raita.",
+          "gu": "૩ કપ બાસમતી ચોખા ૨ કલાક પલાળી અડધા બાફી લો. બટાકાને સોનેરી તળી બાજુ પર રાખો. ઘીમાં કાંદા સાંતળી કેપ્સીકમ, વટાણા અને શાકભાજી ઉમેરો. ૨૦ ગ્રામ રીચ એન સ્પાઈસી હૈદરાબાદી બિરયાની મસાલાને દહીં અને આદુ લસણ પેસ્ટ સાથે મિક્સ કરી શાકભાજીમાં ઉમેરી પકાવો. ઉપર બાફેલા ચોખા પાથરી ૩૦ મિનિટ ધીમી આંચે દમ આપો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-paneer-kolahpuri-30g",
+      "name": "Rich 'n' Spicy Veg / Paneer Kolahpuri Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Paneer Kolahpuri",
+        "Spicy Gravy",
+        "Dry Marinade",
+        "Maharashtrian"
+      ],
+      "regional_names": {
+        "gu": "વેજ./પનીર કોલાહપુરી"
+      },
+      "net_weight": {
+        "value": 30,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Paneer",
+          "Vegetables"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/veg kolahpuri.JPG",
+        "filename": "veg kolahpuri.JPG"
+      },
+      "recipe": {
+        "serves_portion": "200g Paneer / Veggies",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Saute",
+          "Simmer"
+        ],
+        "required_ingredients": [
+          "200g paneer or mixed vegetables",
+          "1 chopped onion",
+          "1 sliced bell pepper",
+          "2 tomatoes pureed",
+          "1 tbsp chili ginger garlic paste",
+          "30g Rich 'n' Spicy Kolahpuri Masala",
+          "3 tbsp oil",
+          "Coriander leaves"
+        ],
+        "instructions": {
+          "en": "Saute 1 chopped onion in oil until pink. Add bell pepper and pureed tomatoes, cooking until oil separates. Add 200g paneer cubes or mixed vegetables. Add 1 tbsp chili ginger garlic paste and 30g Rich 'n' Spicy Kolahpuri Masala with a little water. Cook well until thick, spicy, and the oil glistens on the surface. Garnish with fresh coriander leaves.",
+          "gu": "પેનમાં તેલ ગરમ કરી કાંદો સાંતળો. કેપ્સીકમ અને ટામેટાં ઉમેરી તેલ છૂટે ત્યાં સુધી સાંતળો. ૨૦૦ ગ્રામ પનીર અથવા શાકભાજી, આદુ લસણ પેસ્ટ અને ૩૦ ગ્રામ રીચ એન સ્પાઈસી કોલાહપુરી મસાલો થોડા પાણી સાથે ઉમેરી ઉકાળો. કોથમીરથી સજાવી સર્વ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-pulao-masala-50g",
+      "name": "Rich 'n' Spicy Veg Pulao Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Veg Pulao",
+        "Rice Dish",
+        "Dry Marinade",
+        "Aromatic"
+      ],
+      "regional_names": {
+        "gu": "વેજ પુલાવ"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Rice",
+          "Vegetables",
+          "Paneer"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/veg pulao.JPG",
+        "filename": "veg pulao.JPG"
+      },
+      "recipe": {
+        "serves_portion": "2 Cups Basmati Rice (4 Servings)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "One-Pot Cook",
+          "Saute"
+        ],
+        "required_ingredients": [
+          "2 cups Basmati rice (soaked 30 mins)",
+          "1 cup chopped mixed vegetables (carrots, beans, peas, potatoes)",
+          "1 sliced onion",
+          "2 tbsp desi ghee / oil",
+          "1 bay leaf and whole cinnamon",
+          "2 tbsp Rich 'n' Spicy Veg Pulao Masala",
+          "Salt as per taste",
+          "4 cups water"
+        ],
+        "instructions": {
+          "en": "Heat ghee in a pot, add bay leaf, sliced onions, and saute till translucent. Add mixed chopped vegetables and saute for 2 minutes. Stir in 2 tbsp Rich 'n' Spicy Veg Pulao Masala and salt. Add drained soaked Basmati rice and gently saute for 1 minute. Add 4 cups hot water, bring to a boil, cover tightly, and simmer on low heat for 12-15 minutes until rice is fluffy and fragrant. Fluff with a fork and serve with raita.",
+          "gu": "વાસણમાં ઘી ગરમ કરી તજ-તમાલપત્ર અને કાંદા સાંતળો. તેમાં સમારેલાં શાકભાજી ઉમેરી ૨ મિનિટ સાંતળો. ૨ ચમચી રીચ એન સ્પાઈસી વેજ પુલાવ મસાલો અને મીઠું ઉમેરો. પલાળેલા બાસમતી ચોખા અને ૪ કપ ગરમ પાણી નાખી ઢાંકીને ૧૨-૧૫ મિનિટ ધીમી આંચે પકાવો. રાયતા સાથે ગરમા ગરમ પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-shahi-biryani-20g",
+      "name": "Rich 'n' Spicy Veg Shahi Biryani Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Shahi Biryani",
+        "Rice",
+        "Dum Biryani",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "વેજ. શાહી બિરયાની"
+      },
+      "net_weight": {
+        "value": 20,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Mixed Vegetables",
+          "Paneer",
+          "Nuts"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/veg shahi biryani.JPG",
+        "filename": "veg shahi biryani.JPG"
+      },
+      "recipe": {
+        "serves_portion": "3 Cups Basmati Rice & Veggies",
+        "marination_time": "30 minutes",
+        "cooking_methods": [
+          "Dum / Slow Cook",
+          "Layer"
+        ],
+        "required_ingredients": [
+          "3 cups Basmati rice (soaked & half-boiled)",
+          "2 fried potatoes",
+          "2 sliced fried onions",
+          "1 bell pepper",
+          "50g boiled peas",
+          "2 tbsp ginger garlic chili paste",
+          "2-3 tbsp curd",
+          "2-3 tbsp tomato ketchup",
+          "20g Rich 'n' Spicy Shahi Biryani Masala",
+          "Saffron milk & ghee"
+        ],
+        "instructions": {
+          "en": "Soak 3 cups Basmati rice for 2 hours and half-boil with salt. Fry potatoes and onions till golden. Mix 20g Rich 'n' Spicy Shahi Biryani Masala with 2-3 tbsp curd, ginger-chili paste, and 2-3 tbsp tomato ketchup. Cook vegetables and fried potatoes in this shahi paste with a splash of water for 5 minutes. Layer half-boiled rice over the vegetables, drizzle saffron milk and ghee, cover tightly and dum cook on low heat for 30 minutes.",
+          "gu": "૩ કપ બાસમતી ચોખા ૨ કલાક પલાળી અડધા બાફી લો. ૨૦ ગ્રામ રીચ એન સ્પાઈસી શાહી બિરયાની મસાલામાં દહીં, આદુ લસણ પેસ્ટ અને ૨-૩ ચમચી ટામેટા કેચપ મેળવી મિશ્રણ બનાવો. શાકભાજી અને તળેલા બટાકા આ ગ્રેવીમાં ૫ મિનિટ પકાવો. ઉપર બાફેલા ચોખા પાથરી કેસર-દૂધ અને ઘી છાંટી ૩૦ મિનિટ ધીમી આંચે દમ આપો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-paneer-angare-30g",
+      "name": "Rich 'n' Spicy Veg / Paneer Angare Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Paneer Angare",
+        "Smoked Curry",
+        "Dhungar",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "વેજ.પનીર પનીર અંગારે"
+      },
+      "net_weight": {
+        "value": 30,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Paneer",
+          "Vegetables"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/veg. paneer angare.JPG",
+        "filename": "veg. paneer angare.JPG"
+      },
+      "recipe": {
+        "serves_portion": "200g Paneer",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Smoked Simmer (Dhungar)",
+          "Saute"
+        ],
+        "required_ingredients": [
+          "200g square paneer cubes",
+          "1 small onion pureed",
+          "1 tomato pureed",
+          "½ tbsp chili ginger garlic paste",
+          "4 tbsp curd",
+          "30g Rich 'n' Spicy Paneer Angare Masala",
+          "½ glass water",
+          "Charcoal piece for dhungar smoke",
+          "Cream & coriander"
+        ],
+        "instructions": {
+          "en": "Puree 1 small onion and 1 tomato, then saute in oil/ghee till oil separates. Add 200g square paneer cubes, ½ tbsp chili ginger garlic paste, 4 tbsp curd, and 30g Rich 'n' Spicy Paneer Angare Masala along with ½ glass of water. Cook well until gravy thickens. To infuse authentic smokiness, place a live red-hot charcoal piece in a small bowl over the gravy, pour a drop of ghee over it, and seal the lid tightly for 10 minutes. Garnish with cream and coriander.",
+          "gu": "૧ કાંદો અને ૧ ટામેટાની પ્યુરી તેલ/ઘીમાં સાંતળો. તેમાં ૨૦૦ ગ્રામ ચોરસ પનીર, અડધી ચમચી આદુ લસણ પેસ્ટ, ૪ ચમચી દહીં, ૩૦ ગ્રામ રીચ એન સ્પાઈસી પનીર અંગારે મસાલો અને અડધો ગ્લાસ પાણી નાખી પકાવો. ધુમાડાના સ્મોકી સ્વાદ માટે લાલ કોલસો વાટકીમાં મૂકી ઘી નાખી ૧૦ મિનિટ ઢાંકી રાખો. ક્રીમ અને કોથમીરથી સજાવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-paneer-butter-masala-30g",
+      "name": "Rich 'n' Spicy Paneer Butter Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Paneer Butter Masala",
+        "Makhani",
+        "Rich Curry",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "પનીર બટર મસાલા"
+      },
+      "net_weight": {
+        "value": 30,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Paneer"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/veg.paneer butter masala.JPG",
+        "filename": "veg.paneer butter masala.JPG"
+      },
+      "recipe": {
+        "serves_portion": "200g Paneer",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Saute",
+          "Simmer"
+        ],
+        "required_ingredients": [
+          "200g fresh paneer cubes",
+          "2 tbsp butter or desi ghee",
+          "1 tsp cumin seeds",
+          "Tomato-onion puree (2 onions, 2 tomatoes)",
+          "30g Rich 'n' Spicy Paneer Butter Masala",
+          "Little water",
+          "Charcoal for optional dhungar",
+          "Fresh cream and kasuri methi"
+        ],
+        "instructions": {
+          "en": "Heat 2 tbsp butter or ghee in a pan. Add 1 tsp cumin seeds and crackle. Add pureed tomatoes and onions and cook until rich and reduced. Add 200g paneer cubes and 30g Rich 'n' Spicy Paneer Butter Masala with a splash of water. Simmer until the sauce is velvety and butter glistens on top. For optional restaurant smokiness, place glowing charcoal on foil, drop ghee, and cover for 10 minutes. Finish with heavy cream and kasuri methi.",
+          "gu": "પેનમાં ૨ ચમચી માખણ કે ઘી ગરમ કરી જીરૂ કકડાવો. તેમાં ૨ કાંદા અને ૨ ટામેટાંની પ્યુરી સાંતળી તેલ છૂટે ત્યાં સુધી પકાવો. ૨૦૦ ગ્રામ પનીર અને ૩૦ ગ્રામ રીચ એન સ્પાઈસી પનીર બટર મસાલો થોડા પાણી સાથે ઉમેરી ઉકાળો. ક્રીમ અને કસુરી મેથી ઉમેરી રોટલી કે નાન સાથે ગરમા ગરમ પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "veg-paneer-kolahpuri-special-30g",
+      "name": "Rich 'n' Spicy Veg / Paneer Kolahpuri Masala (Special Reserve)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Veg Main Course",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Veg Main Course",
+        "Paneer Kolahpuri",
+        "Spicy Gravy",
+        "Dry Marinade",
+        "Maharashtrian"
+      ],
+      "regional_names": {
+        "gu": "વેજ./પનીર કોલાહપુરી (સ્પેશિયલ)"
+      },
+      "net_weight": {
+        "value": 30,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Paneer",
+          "Vegetables"
+        ]
+      },
+      "images": {
+        "primary": "product images/veg main course/veg.paneer kolahpuri.JPG",
+        "filename": "veg.paneer kolahpuri.JPG"
+      },
+      "recipe": {
+        "serves_portion": "200g Paneer / Veggies",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Saute",
+          "Simmer"
+        ],
+        "required_ingredients": [
+          "200g paneer cubes or mixed vegetables",
+          "1 chopped onion",
+          "1 sliced capsicum",
+          "2 pureed tomatoes",
+          "1 tbsp chili ginger garlic paste",
+          "30g Rich 'n' Spicy Kolahpuri Masala",
+          "3 tbsp cooking oil",
+          "Fresh coriander"
+        ],
+        "instructions": {
+          "en": "Saute 1 chopped onion with oil till pink. Add capsicum slices and fresh tomatoes, cooking until oil separates. Add 200g paneer cubes or vegetables. Add 1 tbsp chili ginger garlic paste and 30g Rich 'n' Spicy Kolahpuri Masala with a little water; simmer until rich and spicy. Garnish with chopped coriander and serve hot.",
+          "gu": "પેનમાં તેલ લઈ કાંદો સાંતળો. કેપ્સીકમ અને ટામેટાં ઉમેરી તેલ છૂટે ત્યાં સુધી સાંતળો. ૨૦૦ ગ્રામ પનીર અથવા શાકભાજી, આદુ લસણ પેસ્ટ અને ૩૦ ગ્રામ રીચ એન સ્પાઈસી કોલાહપુરી મસાલો ઉમેરી ઉકાળો. કોથમીરથી સજાવી પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "category": "Starters",
+  "total_products": 8,
+  "generated_at": "2026-11-21",
+  "brand": "Rich 'n' SP!CY",
+  "manufacturer": {
+    "name": "City Gruh Udhyog",
+    "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+    "contact": "9898155726"
+  },
+  "products": [
+    {
+      "id": "starters-bhuna-gosht-50g",
+      "name": "Rich 'n' Spicy Bhuna Gosht Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Starters",
+      "product_type": "Instant Mix",
+      "tags": [
+        "Starters",
+        "Mutton",
+        "Chicken",
+        "Bhuna Gosht",
+        "Instant Mix"
+      ],
+      "regional_names": {
+        "gu": "ભુના ગૌસ્ત"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Mutton",
+          "Chicken"
+        ]
+      },
+      "images": {
+        "primary": "product images/starters/bhuna gosht.JPG",
+        "filename": "bhuna gosht.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Boneless Mutton / Chicken",
+        "marination_time": "30 minutes",
+        "cooking_methods": [
+          "Pan Fry",
+          "Slow Cook"
+        ],
+        "required_ingredients": [
+          "500g boneless mutton or chicken",
+          "250g finely chopped onions",
+          "2-3 tbsp chili, ginger, garlic paste",
+          "1 lemon juice",
+          "1 tsp cumin seeds",
+          "2-3 sliced long green chillies",
+          "2 cups cooking oil or ghee",
+          "50g Rich 'n' Spicy Bhuna Gosht Instant Mix",
+          "Fresh coriander leaves for garnish"
+        ],
+        "instructions": {
+          "en": "Wash boneless mutton with water and pat dry. Add chili, ginger, garlic paste to the mutton and allow it to marinate for 30 minutes. Cook marinated mutton on low flame till tender. After cooling, add Rich 'n' Spicy Bhuna Gosht instant mix and churn with a grinder. Heat oil or ghee and saute chopped onions till light pink. Add mutton mixture and fry along with onions. Add lemon juice and fry for 5 minutes. Garnish with coriander and serve hot with fried naans.",
+          "gu": "બોનલેસ મટનને ધોઈ નિતારી લો. તેમાં આદું, મરચાં, લસણની પેસ્ટ ઉમેરી ૩૦ મિનિટ મેરીનેટ કરો. મટન નરમ થાય ત્યાં સુધી ધીમી આંચે પકાવો. ઠંડુ થયા પછી રીચ એન સ્પાઈસી ભુના ગૌસ્ત ઇન્સ્ટન્ટ મિક્સ ઉમેરી ગ્રાઇન્ડરમાં અધકચરું પીસી લો. ઘી અથવા તેલમાં ડુંગળી ગુલાબી થાય ત્યાં સુધી સાંતળો. તેમાં મટનનું મિશ્રણ ઉમેરી સાંતળો, છેલ્લે લીંબુનો રસ ઉમેરી ૫ મિનિટ ફ્રાય કરો. કોથમીરથી સજાવી ગરમ નાન કે પરાઠા સાથે પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "starters-chicken-seekh-40g",
+      "name": "Rich 'n' Spicy Chicken Seekh Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Starters",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Starters",
+        "Chicken",
+        "Chicken Seekh",
+        "Kabab",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "ચીકન શીક"
+      },
+      "net_weight": {
+        "value": 40,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Chicken"
+        ]
+      },
+      "images": {
+        "primary": "product images/starters/Chicken seekh.JPG",
+        "filename": "Chicken seekh.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Minced Chicken (Kheema)",
+        "marination_time": "1 hour",
+        "cooking_methods": [
+          "Pan Fry",
+          "Grill / Barbecue"
+        ],
+        "required_ingredients": [
+          "500g minced boneless chicken (kheema)",
+          "2-3 tbsp chili ginger garlic paste",
+          "Finely chopped coriander leaves",
+          "40g Rich 'n' Spicy Chicken Seekh Masala",
+          "Oil for pan frying",
+          "Wooden seekh skewers"
+        ],
+        "instructions": {
+          "en": "In 500g minced Chicken add 2-3 tbsp chili ginger garlic paste, chopped coriander leaves and Rich 'n' Spicy Chicken Seekh Masala and marinate for 1 hour. Using wooden seekh sticks, shape seekh from the marinated mixture. Pan fry with a little oil until golden and juicy. Serve hot with mint chutney and lemon wedges.",
+          "gu": "૫૦૦ ગ્રામ ચીકન બોનલેસ ખીમામાં ૨ થી ૩ ચમચી આદુ મરચાં લસણની પેસ્ટ, બારીક કાપેલી કોથમીર અને રીચ એન સ્પાઈસી ચીકન શીક મસાલો નાખી બરાબર મિક્સ કરી ૧ કલાક રહેવા દો. લાકડાની સળી (સ્ટીક) લઈ શીક બનાવી પેનમાં થોડું તેલ લઈ ફ્રાય કરો. ફુદીનાની ચટણી સાથે ગરમ પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "starters-cutlet-fry-50g",
+      "name": "Rich 'n' Spicy Cutlet Fry Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Starters",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Starters",
+        "Cutlet",
+        "Chicken",
+        "Mutton",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "કટલેટ ફ્રાય"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Mutton",
+          "Chicken"
+        ]
+      },
+      "images": {
+        "primary": "product images/starters/cutlet.JPG",
+        "filename": "cutlet.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Kheema (Chicken / Mutton)",
+        "marination_time": "1 hour",
+        "cooking_methods": [
+          "Shallow Fry",
+          "Pan Fry"
+        ],
+        "required_ingredients": [
+          "500g minced meat (kheema)",
+          "2-3 tbsp chili, ginger, garlic paste",
+          "50g Rich 'n' Spicy Cutlet Fry Masala",
+          "Ghee or oil for shallow frying",
+          "Tomato sauce, mint chutney, or lime for serving"
+        ],
+        "instructions": {
+          "en": "Wash 500g kheema properly and pat dry. Add 2-3 tbsp chili, ginger, garlic paste to kheema along with Rich 'n' Spicy Cutlet Fry Masala and mix well. Allow it to marinate for 1 hour. Shape into flat round cutlets with the palm of your hands. Shallow fry the cutlets with ghee in a pan until golden brown and crisp. Serve hot with sauce, chutney, or lime.",
+          "gu": "૫૦૦ ગ્રામ ખીમાને ધોઈ પાણી નિતારી નાખો. ખીમામાં ૨ થી ૩ ચમચી આદુ મરચાં લસણની પેસ્ટ અને રીચ એન સ્પાઈસી કટલેટ ફ્રાય મસાલો નાખી મિક્સ કરી ૧ કલાક રહેવા દો. ત્યારબાદ હથેળીથી ગોળ ચપટી કટલેટ વાળી ઓછા ઘીમાં શેલો ફ્રાય કરો. સોસ, ચટણી અથવા લીંબુ સાથે પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "starters-kheema-mutton-petis-50g",
+      "name": "Rich 'n' Spicy Kheema Mutton Petis Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Starters",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Starters",
+        "Mutton",
+        "Petis",
+        "Kheema",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "ખીમા મટન પેટીસ"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Mutton",
+          "Chicken"
+        ]
+      },
+      "images": {
+        "primary": "product images/starters/kheema mutton petis.JPG",
+        "filename": "kheema mutton petis.JPG"
+      },
+      "recipe": {
+        "serves_portion": "750g Kheema & 1kg Potatoes",
+        "marination_time": "15 minutes",
+        "cooking_methods": [
+          "Shallow Fry",
+          "Boil"
+        ],
+        "required_ingredients": [
+          "1kg potatoes (boiled and mashed)",
+          "750g mutton kheema",
+          "2-3 tbsp chili, ginger, garlic paste",
+          "50g Rich 'n' Spicy Kheema Mutton Petis Masala",
+          "Fresh coriander leaves",
+          "3 raw eggs",
+          "Ghee for shallow frying"
+        ],
+        "instructions": {
+          "en": "Boil 1kg potatoes and finely mash them. Wash 750g kheema and pat dry. Add 2-3 tbsp chili, ginger, garlic paste and cook on low flame for 10 minutes. Add Rich 'n' Spicy Kheema Mutton Petis Masala and cook well; garnish with coriander leaves. Take potato portions, stuff with kheema mixture and shape into round flat petis. Beat 3 raw eggs until frothy, dip petis into egg batter, and shallow fry in ghee till golden brown.",
+          "gu": "૧ કિલો બટાકા બાફી મેશ કરો. ૭૫૦ ગ્રામ ખીમાને ધોઈ સુકવી તેમાં ૨-૩ ચમચી આદુ મરચાં લસણની પેસ્ટ નાખી ધીમી આંચે ૧૦ મિનિટ પકાવો. ત્યારબાદ રીચ એન સ્પાઈસી ખીમા મટન પેટીસ મસાલો ઉમેરી પકાવો અને કોથમીરથી સજાવો. બાફેલા બટાકાના લુઆમાં ખીમાનું પૂરણ ભરી ગોળ ચપટી પેટીસ બનાવો. ૩ ઈંડાંને ફેંટી પેટીસ બોળી ઘીમાં સુનેહરી થાય ત્યાં સુધી ફ્રાય કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "starters-omlet-instant-mix-50g",
+      "name": "Rich 'n' Spicy Omlet Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Starters",
+      "product_type": "Instant Mix",
+      "tags": [
+        "Starters",
+        "Egg",
+        "Omlet",
+        "Breakfast",
+        "Instant Mix"
+      ],
+      "regional_names": {
+        "gu": "આમલેટ"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Egg"
+        ]
+      },
+      "images": {
+        "primary": "product images/starters/omlet.JPG",
+        "filename": "omlet.JPG"
+      },
+      "recipe": {
+        "serves_portion": "4-6 Eggs",
+        "marination_time": "Instant",
+        "cooking_methods": [
+          "Pan Fry"
+        ],
+        "required_ingredients": [
+          "4-6 raw eggs",
+          "1 finely chopped onion",
+          "1 chopped tomato",
+          "Chopped green chillies and coriander",
+          "1-2 tbsp Rich 'n' Spicy Omlet Instant Mix",
+          "2 tbsp butter or oil"
+        ],
+        "instructions": {
+          "en": "Break 4 eggs into a bowl. Add chopped onions, green chilies, coriander leaves, and 1-2 tbsp Rich 'n' Spicy Omlet Instant Mix. Whisk vigorously until frothy. Heat butter or oil in a pan, pour egg mixture and cook on medium flame until edges set. Flip gently and cook the other side until golden and fluffy. Serve hot with buttered toast or pav.",
+          "gu": "એક બાઉલમાં ૪ ઈંડાં ફોડી લો. તેમાં ઝીણી સમારેલી ડુંગળી, ટામેટાં, લીલાં મરચાં, કોથમીર અને ૧-૨ ચમચી રીચ એન સ્પાઈસી આમલેટ ઇન્સ્ટન્ટ મિક્સ ઉમેરો. બરાબર ફેંટી લો. પેનમાં માખણ અથવા તેલ ગરમ કરી મિશ્રણ રેડો અને ધીમી આંચે બંને બાજુ સોનેરી થાય ત્યાં સુધી શેકો. ગરમા ગરમ પાવ અથવા બ્રેડ સાથે સર્વ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "starters-sheekh-kabab-mamna-50g",
+      "name": "Rich 'n' Spicy Sheekh / Kabab / Mamna Instant Mix",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Starters",
+      "product_type": "Instant Mix",
+      "tags": [
+        "Starters",
+        "Mutton",
+        "Chicken",
+        "Kabab",
+        "Mamna",
+        "Instant Mix"
+      ],
+      "regional_names": {
+        "gu": "શીક/કબાબ/મામના"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Printed Instant Mix Pouch with Window",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Mutton",
+          "Chicken"
+        ]
+      },
+      "images": {
+        "primary": "product images/starters/seekh kabab mamna.JPG",
+        "filename": "seekh kabab mamna.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Minced Meat (Kheema)",
+        "marination_time": "1 hour",
+        "cooking_methods": [
+          "Pan Fry",
+          "Grill",
+          "Shallow Fry"
+        ],
+        "required_ingredients": [
+          "500g minced mutton or chicken",
+          "2 tbsp ginger-garlic paste",
+          "2 chopped green chillies",
+          "Chopped mint and coriander",
+          "50g Rich 'n' Spicy Sheekh / Kabab / Mamna Instant Mix",
+          "Ghee or oil for frying"
+        ],
+        "instructions": {
+          "en": "Combine 500g minced meat with ginger-garlic paste, fresh chopped herbs, and 50g Rich 'n' Spicy Sheekh/Kabab/Mamna Instant Mix. Mix and knead thoroughly for 5 minutes, then rest for 1 hour. Shape mixture onto skewers for Seekh kebabs, round patties for Kababs, or oblong meatballs for Mamna. Fry or grill with ghee until cooked through and nicely browned.",
+          "gu": "૫૦૦ ગ્રામ ઝીણા ખીમામાં આદુ-લસણની પેસ્ટ, લીલાં મરચાં, ફુદીનો, કોથમીર અને ૫૦ ગ્રામ રીચ એન સ્પાઈસી શીક/કબાબ/મામના ઇન્સ્ટન્ટ મિક્સ ઉમેરી ૫ મિનિટ મસળી ૧ કલાક મેરીનેટ થવા દો. શીક, કબાબ અથવા મામનાના આકારમાં વાળી ઘીમાં ગોલ્ડન બ્રાઉન શેલો ફ્રાય અથવા ગ્રિલ કરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "starters-shami-kabab-50g",
+      "name": "Rich 'n' Spicy Shami Kabab Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Starters",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Starters",
+        "Mutton",
+        "Kabab",
+        "Shami Kabab",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "શામી કબાબ"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": 40,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Mutton",
+          "Chicken"
+        ]
+      },
+      "images": {
+        "primary": "product images/starters/shami kabab.JPG",
+        "filename": "shami kabab.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Mutton Kheema",
+        "marination_time": "30 minutes",
+        "cooking_methods": [
+          "Boil",
+          "Shallow Fry"
+        ],
+        "required_ingredients": [
+          "500g mutton kheema",
+          "1 cup boiled chana dal",
+          "1 boiled potato",
+          "1 finely chopped onion",
+          "2 tbsp chili, ginger, garlic paste",
+          "50g Rich 'n' Spicy Shami Kabab Masala",
+          "Chopped mint leaves",
+          "1 raw egg",
+          "Ghee for frying"
+        ],
+        "instructions": {
+          "en": "Wash 500g mutton kheema and drain excess water. Add 1 cup boiled chana dal, 1 boiled potato, 1 finely chopped onion, 2 spoons chili, ginger, garlic paste and marinate for 30 minutes. Cook mixture on a slow flame until kheema is tender and dry. Allow to cool, then churn into a fine paste. Add Rich 'n' Spicy Shami Kabab Masala, chopped mint leaves and 1 raw egg. Make round and flat shaped kababs. Heat ghee in a pan and shallow fry till golden.",
+          "gu": "૫૦૦ ગ્રામ મટન ખીમાને ધોઈ પાણી નિતારી લો. તેમાં ૧ કપ બાફેલી ચણાદાળ, ૧ બાફેલો બટાકો, ૧ સમારેલી ડુંગળી, ૨ ચમચી આદુ મરચાં લસણની પેસ્ટ ઉમેરી ૩૦ મિનિટ મેરીનેટ કરો. ધીમી આંચે પાણી સુકાય ત્યાં સુધી બાફો. ઠંડુ કરી મિક્સરમાં પીસી લો. તેમાં રીચ એન સ્પાઈસી શામી કબાબ મસાલો, ફુદીનો અને ૧ ઈંડું ઉમેરી ગોળ ચપટા કબાબ બનાવો. ઘીમાં તળી ચટણી સાથે પીરસો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "starters-sp-bombay-kheema-40g",
+      "name": "Rich 'n' Spicy Special Bombay Kheema Masala",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Starters",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Starters",
+        "Mutton",
+        "Chicken",
+        "Bombay Kheema",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "બોમ્બે ખીમા"
+      },
+      "net_weight": {
+        "value": 40,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Transparent Pouch with Full-Label Sticker",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Mutton",
+          "Chicken",
+          "Egg"
+        ]
+      },
+      "images": {
+        "primary": "product images/starters/Sp.Bombay kheema.JPG",
+        "filename": "Sp.Bombay kheema.JPG"
+      },
+      "recipe": {
+        "serves_portion": "500g Mutton Kheema",
+        "marination_time": "15 minutes",
+        "cooking_methods": [
+          "Pan Fry",
+          "Saute"
+        ],
+        "required_ingredients": [
+          "500g mutton kheema",
+          "500g chopped onions",
+          "5-6 minced green chillies",
+          "2 cups cooking oil",
+          "40g Rich 'n' Spicy Bombay Kheema Masala",
+          "Chopped dill leaves (suva) for authentic aroma",
+          "Fresh coriander leaves"
+        ],
+        "instructions": {
+          "en": "Wash 500g mutton kheema and pat dry. Heat 2 cups oil in a pan, add kheema and fry till it turns white. Add 500g chopped onions and cook on low flame for 5-7 minutes. Add 5-6 minced green chillies along with Rich 'n' Spicy Bombay Kheema Masala and mix well. Cook till tender and oil separates. Add fresh dill leaves for unique flavor. Garnish with coriander leaves. (Also delicious for Egg Kheema and Bheja Fry).",
+          "gu": "૫૦૦ ગ્રામ મટન ખીમાને ધોઈ નિતારી લો. પેનમાં તેલ ગરમ કરી ખીમો ઉમેરી સફેદ થાય ત્યાં સુધી ફ્રાય કરો. તેમાં ૫૦૦ ગ્રામ કાંદા ઉમેરી ૫-૭ મિનિટ ધીમી આંચે પકાવો. ત્યારબાદ લીલાં મરચાં અને રીચ એન સ્પાઈસી બોમ્બે ખીમો મસાલો ઉમેરી પકાવો. સુવાની ભાજી અને કોથમીરથી સજાવો. ઈંડા ખીમા કે ભેજા ફ્રાય માટે પણ ઉત્તમ છે."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    }
+  ]
+}

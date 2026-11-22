@@ -1,10 +1,18 @@
 import json
+import os
 
 files = [
     'barbecue_products.json',
     'biryani_products.json',
     'deep_fry_products.json',
-    'gravy_products.json'
+    'gravy_products.json',
+    'starters_products.json',
+    'sweet_delight_products.json',
+    'veg_starters_products.json',
+    'veg_main_course_products.json',
+    'kitchen_special_products.json',
+    'whole_spices_products.json',
+    'others_products.json'
 ]
 
 all_products = []
@@ -22,7 +30,7 @@ bundle = {
     'brand': "Rich 'n' SP!CY",
     'category': 'All',
     'total_products': len(all_products),
-    'generated_at': '2026-11-20',
+    'generated_at': '2026-11-21',
     'categories': category_counts,
     'manufacturer': {
         'name': 'City Gruh Udhyog',

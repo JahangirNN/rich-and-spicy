@@ -1,0 +1,2026 @@
+{
+  "category": "Whole Spices",
+  "total_products": 33,
+  "generated_at": "2026-11-21",
+  "brand": "Rich 'n' SP!CY",
+  "manufacturer": {
+    "name": "City Gruh Udhyog",
+    "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+    "contact": "9898155726"
+  },
+  "products": [
+    {
+      "id": "ws-ajino-moto-100g",
+      "name": "Rich 'n' Spicy Ajinomoto (Monosodium Glutamate)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Ajinomoto",
+        "Umami",
+        "Indo-Chinese",
+        "Seasoning"
+      ],
+      "regional_names": {
+        "gu": "અજીનો મોટો"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/ajino moto.jpg",
+        "filename": "ajino moto.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Culinary Umami Seasoning (Pinch)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Ajinomoto (Monosodium Glutamate)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Crystalline seasoning for Indo-Chinese fried rice, soups, gravies, and marinades, providing intense savory umami depth.",
+          "gu": "ઈન્ડો-ચાઈનીઝ ફ્રાઈડ રાઈસ, સૂપ, મંચુરિયન અને મરીનેશનમાં ઉમામી સ્વાદ આપવા માટે ચપટી વાપરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-bay-leaves-tej-patta-50g",
+      "name": "Rich 'n' Spicy Bay Leaves (Tej Patta)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Tej Patta",
+        "Bay Leaves",
+        "Khada Masala",
+        "Aromatic"
+      ],
+      "regional_names": {
+        "gu": "તજ પત્તા"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/bay leaves.jpg",
+        "filename": "bay leaves.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Whole Spice Infusion (1-2 leaves)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Bay Leaves (Tej Patta)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Dried aromatic sweet laurel leaves. Lightly crackle in hot oil or ghee to infuse biryanis, pulaos, kormas, and gravies with herbal warmth.",
+          "gu": "બિરયાની, પુલાવ, કઢી અને દાળ-શાકના વઘારમાં ૧-૨ તમાલપત્ર સાંતળી મધુર સુગંધ મેળવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-black-cardamom-badi-elaichi-50g",
+      "name": "Rich 'n' Spicy Black Cardamom (Badi Elaichi)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Badi Elaichi",
+        "Black Cardamom",
+        "Smoky",
+        "Khada Masala"
+      ],
+      "regional_names": {
+        "gu": "મોટી ઈલાયચી"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/black cardamom.jpg",
+        "filename": "black cardamom.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Aromatic Pod Infusion (1-2 pods)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Black Cardamom (Badi Elaichi)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Whole pods dried over open flames to produce bold camphoraceous, smoky aroma. Essential for slow-cooked meat gravies, dal makhani, and biryani.",
+          "gu": "ધીમી આંચે પકવાતી મટન, ચીકન ગ્રેવી, દાલ મખની અને શાહી બિરયાનીમાં સ્મોકી અને ઘેરી સુગંધ આપવા માટે ૧-૨ મોટી એલચી ઉમેરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-black-cumin-kali-jeeri-50g",
+      "name": "Rich 'n' Spicy Black Cumin Seeds (Kali Jeeri)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Kali Jeeri",
+        "Black Cumin",
+        "Ayurvedic",
+        "Digestive"
+      ],
+      "regional_names": {
+        "gu": "કાળી જીરી"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/black cumin seeds kali jeera.jpg",
+        "filename": "black cumin seeds kali jeera.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Medicinal & Culinary Seeds",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Black Cumin Seeds (Kali Jeeri)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Rare pungent black cumin seeds known for their potent Ayurvedic healing, detoxifying, and digestive properties. Ideal in specialized curries and herbal decoctions.",
+          "gu": "પાચન અને વજન નિયંત્રણ માટે આયુર્વેદમાં જાણીતી કાળી જીરી. ઉકાળા, ચૂર્ણ અને ખાસ મસાલા માટે ઉત્તમ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-green-cardamom-elaichi-50g",
+      "name": "Rich 'n' Spicy Green Cardamom (Hari Elaichi)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Green Cardamom",
+        "Elaichi",
+        "Queen of Spices",
+        "Dessert"
+      ],
+      "regional_names": {
+        "gu": "લીલી ઈલાયચી"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/cardamom.jpg",
+        "filename": "cardamom.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Fragrant Pods & Seeds",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Green Cardamom (Hari Elaichi)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Plump aromatic green pods packed with essential oils. Crush pods into masala chai, royal curries, biryanis, halwa, kheer, and shrikhand.",
+          "gu": "મસાલા ચા, મીઠાઈ (શીરો, ખીર, શ્રીખંડ) અને શાહી ગ્રેવીમાં રાણી સમી અદ્ભુત સુગંધ આપતી પસંદગીની લીલી એલચી."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-cinnamon-sticks-taj-50g",
+      "name": "Rich 'n' Spicy Cinnamon Sticks (Taj)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Cinnamon",
+        "Taj",
+        "Sweet Bark",
+        "Khada Masala"
+      ],
+      "regional_names": {
+        "gu": "તજ"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/cinnamon stick.jpg",
+        "filename": "cinnamon stick.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Whole Bark Infusion (1-2 sticks)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Cinnamon Sticks (Taj)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Naturally sweet, aromatic rolled tree bark. Crackle whole in ghee for fragrant pulao and meat curries, or powder into desserts and spiced tea.",
+          "gu": "પુલાવ, બિરયાની, મસાલા ચા અને ગ્રેવીના વઘારમાં ૧-૨ તજના ટુકડા ઉમેરી મીઠી સુગંધિત સ્વાદિષ્ટ મહેક આપો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-citric-acid-limbu-phool-100g",
+      "name": "Rich 'n' Spicy Citric Acid (Limbu Phool)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Limbu Phool",
+        "Citric Acid",
+        "Khaman",
+        "Preservative"
+      ],
+      "regional_names": {
+        "gu": "લીંબુના ફૂલ"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/citric acid limbu phool.png",
+        "filename": "citric acid limbu phool.png"
+      },
+      "recipe": {
+        "serves_portion": "Pure Sour Crystals (¼ - ½ tsp)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Citric Acid (Limbu Phool)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Food-grade sour crystals essential for spongy Surati nylon khaman, dhokla, tart syrups, pickles, and beverages.",
+          "gu": "સુરતી નાયલોન ખમણ, ઢોકળાં, શરબત, અથાણાં અને ચટણીમાં સપ્રમાણ ખટાશ અને આથો લાવવા માટે લીંબુના ફૂલ વાપરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-cloves-laving-50g",
+      "name": "Rich 'n' Spicy Whole Cloves (Laving)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Cloves",
+        "Laving",
+        "Warm Spice",
+        "Khada Masala"
+      ],
+      "regional_names": {
+        "gu": "લવિંગ"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/Cloves.jpg",
+        "filename": "Cloves.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Whole Flower Buds (3-4 pieces)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Whole Cloves (Laving)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Intensely aromatic dried flower buds bursting with eugenol. Essential in biryani tadkas, garam masala, chai, and dental health remedies.",
+          "gu": "બિરયાની, પુલાવ, ગરમ મસાલા અને મસાલા ચા માટે ઉત્તમ તીવ્ર સુગંધિત આખા લવિંગ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-coriander-seeds-akha-dhana-100g",
+      "name": "Rich 'n' Spicy Whole Coriander Seeds (Akha Dhana)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Coriander Seeds",
+        "Akha Dhana",
+        "Kadhai",
+        "Samosa"
+      ],
+      "regional_names": {
+        "gu": "આખા ધાણા"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/coriander seeds.jpg",
+        "filename": "coriander seeds.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Whole & Crushed Spice",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Whole Coriander Seeds (Akha Dhana)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Crisp dried coriander seeds. Coarsely crush for kadhai paneer, samosa stuffings, kachori, and roasted spice masalas.",
+          "gu": "કડાઈ પનીર, સમોસા, કચોરીના મસાલા અને વઘાર માટે અધકચરા વાટીને વાપરવા માટે ઉત્તમ આખા ધાણા."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-cumin-seeds-akha-jeera-100g",
+      "name": "Rich 'n' Spicy Cumin Seeds (Akha Jeera)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Jeera",
+        "Cumin Seeds",
+        "Tadka Staple",
+        "Pantry Essential"
+      ],
+      "regional_names": {
+        "gu": "આખું જીરૂ"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/cumin-seed-jeera.jpg",
+        "filename": "cumin-seed-jeera.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Daily Tempering (1 tsp per dish)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Cumin Seeds (Akha Jeera)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Fragrant slender seeds that crackle in hot ghee to form the quintessential Indian culinary foundation. Essential for jeera rice, dals, and curries.",
+          "gu": "જીરા રાઈસ, દાળ-શાકના વઘાર અને રોજિંદી ભારતીય રસોઈનો સર્વોચ્ચ વઘાર મસાલો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-desiccated-coconut-kopra-chhin-100g",
+      "name": "Rich 'n' Spicy Desiccated Coconut (Kopra Chhin)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Desiccated Coconut",
+        "Kopra Chhin",
+        "Laddoo",
+        "Garnish"
+      ],
+      "regional_names": {
+        "gu": "કોપરા છીણ"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/desiccated coconut.jpg",
+        "filename": "desiccated coconut.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Baking, Sweets & Gravy Thickener",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Desiccated Coconut (Kopra Chhin)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Finely grated, dried pure coconut meat. Ideal for rolling laddoos, thickening rich gravies, kormas, and garnishing Gujarati snacks like khandvi and patra.",
+          "gu": "ખાંડવી, પાત્રાના ગાર્નિશિંગ, નારિયેળના લાડુ, મીઠાઈ અને ગ્રેવીને ઘટ્ટ કરવા માટે શુદ્ધ કોપરા છીણ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-dhana-dal-roasted-100g",
+      "name": "Rich 'n' Spicy Roasted Dhana Dal",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Dhana Dal",
+        "Mukhwas",
+        "Digestive",
+        "After-Meal"
+      ],
+      "regional_names": {
+        "gu": "ધાણાદાળ"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/dhana dal.jpg",
+        "filename": "dhana dal.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Traditional Mukhwas Mouth Freshener",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Roasted Dhana Dal",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Husked, roasted, and salted coriander seed kernels. The quintessential after-meal Indian digestive mouth freshener.",
+          "gu": "જમ્યા પછી મુખવાસ તરીકે મોં સાફ અને પાચન દુરસ્ત રાખતી પરંપરાગત શેકેલી ધાણાદાળ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-dry-boriya-red-chillies-100g",
+      "name": "Rich 'n' Spicy Dry Boriya Red Chillies",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Boriya Marcha",
+        "Round Chillies",
+        "Tadka",
+        "Sambhar"
+      ],
+      "regional_names": {
+        "gu": "ગોળ બોરીયા મરચાં"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/dry boriya red chillies.jpg",
+        "filename": "dry boriya red chillies.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Whole Chilli Tadka",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Dry Boriya Red Chillies",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Round, berry-shaped dry red chillies with bold pungent flavor. Drop whole into hot oil for sambhar, rasam, kadhi, and dal tadkas.",
+          "gu": "દાળ, કઢી, સંભાર અને રસમના વઘાર માટે વિશિષ્ટ ગોળ બોરીયા લાલ મરચાં."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-dry-red-chillies-akha-marcha-100g",
+      "name": "Rich 'n' Spicy Dry Red Chillies (Akha Lal Marcha)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Akha Marcha",
+        "Dry Chillies",
+        "Tadka",
+        "Pantry Essential"
+      ],
+      "regional_names": {
+        "gu": "આખા લાલ મરચાં"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/dry chillies.jpg",
+        "filename": "dry chillies.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Whole Chilli Tempering",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Dry Red Chillies (Akha Lal Marcha)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Sun-dried long red chillies with glossy red skin. Fry whole in ghee or oil for curries, dal tadka, chutneys, and homemade spice pastes.",
+          "gu": "દાળ-શાકના વઘાર, અથાણાં અને ચટણી બનાવવા માટે ઉત્તમ ગુણવત્તાવાળા આખા લાલ સૂકાં મરચાં."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-fennel-seeds-variyali-100g",
+      "name": "Rich 'n' Spicy Fennel Seeds (Variyali)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Fennel Seeds",
+        "Variyali",
+        "Saunf",
+        "Cooling"
+      ],
+      "regional_names": {
+        "gu": "વરિયાળી"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/fennel-seeds-variyali-500x500.png",
+        "filename": "fennel-seeds-variyali-500x500.png"
+      },
+      "recipe": {
+        "serves_portion": "Mukhwas & Spice Base",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Fennel Seeds (Variyali)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Sweet, cooling, anise-flavored green fennel seeds. Widely used in Gujarati pickle masalas, kashmiri gravies, cooling summer sharbats, and after-meal mukhwas.",
+          "gu": "મુખવાસ, વરિયાળી શરબત, અથાણાંના મસાલા અને કાશ્મીરી વાનગીઓ માટે સુગંધિત મીઠી વરિયાળી."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-grated-coconut-sukhu-kopru-100g",
+      "name": "Rich 'n' Spicy Grated Dry Coconut (Sukhu Kopru)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Sukhu Kopru",
+        "Grated Coconut",
+        "Undhiyu",
+        "Pantry Essential"
+      ],
+      "regional_names": {
+        "gu": "સૂકું કોપરું"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/grated coconut.jpg",
+        "filename": "grated coconut.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Traditional Cooking & Sweets",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Grated Dry Coconut (Sukhu Kopru)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Coarsely grated dry coconut kernel. Vital component in traditional Surati undhiyu masala, muthiya, coconut laddoos, and coastal curries.",
+          "gu": "સુરતી ઊંધિયું, મુઠીયા, કોપરા પાક અને વઘાર માટે વિશિષ્ટ સ્વાદ આપતું સૂકું છીણેલું કોપરું."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-kasuri-methi-50g",
+      "name": "Rich 'n' Spicy Kasuri Methi (Dried Fenugreek Leaves)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Kasuri Methi",
+        "Fenugreek Leaves",
+        "Restaurant Secret",
+        "Aromatic"
+      ],
+      "regional_names": {
+        "gu": "કસુરી મેથી"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/Kasuri-Methi.jpeg",
+        "filename": "Kasuri-Methi.jpeg"
+      },
+      "recipe": {
+        "serves_portion": "Crushed Finishing Herb (1 tbsp)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Kasuri Methi (Dried Fenugreek Leaves)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Sun-dried fragrant fenugreek leaves from Nagaur, Rajasthan. Rub between palms and sprinkle over butter chicken, paneer butter masala, and dal makhani for signature restaurant aroma.",
+          "gu": "પનીર બટર મસાલા, બટર ચીકન અને દાલ મખનીમાં રેસ્ટોરન્ટ જેવી અદ્ભુત સુગંધ લાવવા હથેળીથી મસળીને છેલ્લે કસુરી મેથી ઉમેરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-kokum-amsul-100g",
+      "name": "Rich 'n' Spicy Kokum (Amsul)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Kokum",
+        "Amsul",
+        "Solkadhi",
+        "Coastal Sour"
+      ],
+      "regional_names": {
+        "gu": "કોકમ"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/kokum.jpg",
+        "filename": "kokum.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Tangy Coastal Enhancer (3-4 pieces)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Kokum (Amsul)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Dark purple sun-dried rind of Garcinia indica. Infuses beautiful ruby-red color and pleasant fruity sourness into Gujarati dal, fish curries, and soothing solkadhi.",
+          "gu": "ગુજરાતી દાળ, ફિશ કરી અને સોલકઢીમાં કુદરતી ખટાશ અને ગુલાબી રંગ આપવા માટે ૩-૪ કોકમ ઉમેરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-lotus-seed-phool-makhana-100g",
+      "name": "Rich 'n' Spicy Lotus Seeds (Phool Makhana)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Phool Makhana",
+        "Fox Nuts",
+        "Fasting",
+        "Superfood"
+      ],
+      "regional_names": {
+        "gu": "ફૂલ મખાના"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/lotus seed-makhana.jpg",
+        "filename": "lotus seed-makhana.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Nutritious Roasted Snack & Curries",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Lotus Seeds (Phool Makhana)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Nutrient-dense popped lotus seeds (fox nuts). Roast in ghee with rock salt and black pepper for healthy snacks, or simmer in rich shahi makhana kaju curry and kheer.",
+          "gu": "ઘીમાં શેકીને વ્રત-ઉપવાસના પૌષ્ટિક નાસ્તા તરીકે તેમજ શાહી મખાના-કાજુની શાક અને ખીરમાં વાપરવા માટે ઉત્તમ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-mace-javantri-50g",
+      "name": "Rich 'n' Spicy Whole Mace (Javantri)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Mace",
+        "Javantri",
+        "Mughlai",
+        "Biryani Spice"
+      ],
+      "regional_names": {
+        "gu": "જાવંત્રી"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/mace.jpg",
+        "filename": "mace.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Royal Aromatic Blades",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Whole Mace (Javantri)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Lacy crimson-golden outer aril of nutmeg. Delivers refined, sweet, floral and peppery notes into Mughlai biryanis, nihari, and shahi gravies.",
+          "gu": "શાહી બિરયાની, નિહારી અને મુગલાઈ વાનગીઓમાં નાજુક સુગંધ અને સોનેરી સ્વાદ ઉમેરવા માટે જાવંત્રી વાપરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-fenugreek-seeds-methi-dana-100g",
+      "name": "Rich 'n' Spicy Fenugreek Seeds (Methi Dana)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Methi Dana",
+        "Fenugreek",
+        "Pickle Tadka",
+        "Digestive"
+      ],
+      "regional_names": {
+        "gu": "મેથી દાણા"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/Methi-Fenugreek-Seeds.jpg",
+        "filename": "Methi-Fenugreek-Seeds.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Tempering & Pickle Base",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Fenugreek Seeds (Methi Dana)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Golden bitter-sweet fenugreek seeds. Essential in South Indian sambhar tadkas, Gujarati kadhi, methi papad sabzi, and digestive winter remedies.",
+          "gu": "સંભાર, કઢી, મેથી-પાપડનું શાક અને અથાણાંના વઘાર માટે ગુણકારી પીળા મેથી દાણા."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-mustard-dal-rai-kuria-100g",
+      "name": "Rich 'n' Spicy Mustard Dal (Rai Kuria)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Rai Kuria",
+        "Mustard Dal",
+        "Pickle Staple",
+        "Gujarati"
+      ],
+      "regional_names": {
+        "gu": "રાઈના કુરિયા"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/mustard dal rai dal rai kuriya.jpeg",
+        "filename": "mustard dal rai dal rai kuriya.jpeg"
+      },
+      "recipe": {
+        "serves_portion": "Achar / Pickle Masala Base",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Mustard Dal (Rai Kuria)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Split and dehusked yellow mustard seeds. The non-negotiable core ingredient of authentic Gujarati mango, chili, and lemon sambharo pickles.",
+          "gu": "ગુજરાતી અથાણાં (મેથીયા કેરી, અથાણાં મરચાં, રાયતા મરચાં) બનાવવાનો મુખ્ય આધારસ્તંભ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-mustard-seeds-rai-100g",
+      "name": "Rich 'n' Spicy Whole Mustard Seeds (Rai)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Mustard Seeds",
+        "Rai",
+        "Tadka Essential",
+        "Pantry Staple"
+      ],
+      "regional_names": {
+        "gu": "રાઈ"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/mustard seeds rai.jpg",
+        "filename": "mustard seeds rai.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Daily Tempering (1 tsp per dish)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Whole Mustard Seeds (Rai)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Tiny pungent dark mustard seeds. Crackle in hot oil to unlock nutty, peppery aroma for vegetable curries, dals, chutneys, and sambhar.",
+          "gu": "દાળ, શાક, કઢી અને ચટણીના વઘાર માટે તેલમાં ફૂટતી સુગંધિત કાળી રાઈ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-nigella-seeds-kalonji-50g",
+      "name": "Rich 'n' Spicy Nigella Seeds (Kalonji)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Kalonji",
+        "Nigella Seeds",
+        "Naan",
+        "Pickle Spice"
+      ],
+      "regional_names": {
+        "gu": "કાલોંજી"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/nigella seeds kalonji.jpg",
+        "filename": "nigella seeds kalonji.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Baking & Pickle Seasoning",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Nigella Seeds (Kalonji)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Matte-black tear-drop seeds featuring an herbal, slightly bitter, onion-oregano profile. Top on garlic naan, samosa dough, or add into pickles.",
+          "gu": "ગાર્લિક નાન, સમોસાના પડ, કચોરી અને અથાણાંમાં વિશિષ્ટ કાંદા જેવો સ્વાદ ઉમેરતી કાલોંજી."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-whole-nutmeg-jaiphal-50g",
+      "name": "Rich 'n' Spicy Whole Nutmeg (Jaiphal)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Nutmeg",
+        "Jaiphal",
+        "Sweets",
+        "Ayurvedic"
+      ],
+      "regional_names": {
+        "gu": "જાયફળ"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/nutmeg.jpeg",
+        "filename": "nutmeg.jpeg"
+      },
+      "recipe": {
+        "serves_portion": "Grated Whole Nut (Pinch)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Whole Nutmeg (Jaiphal)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Whole aromatic nuts of Myristica fragrans. Grate freshly into basundi, shrikhand, biryani, and warm spiced milk for sweet calming comfort.",
+          "gu": "બાસુંદી, શ્રીખંડ, દૂધપાક, બિરયાની અને ગરમ દૂધમાં ચપટી છીણીને નાખવા માટે સુગંધિત આખું જાયફળ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-shah-jeera-black-cumin-50g",
+      "name": "Rich 'n' Spicy Shah Jeera (Black Cumin)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Shah Jeera",
+        "Royal Cumin",
+        "Biryani",
+        "Korma"
+      ],
+      "regional_names": {
+        "gu": "શાહ જીરૂ"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/shah jeera -black cumin.jpg",
+        "filename": "shah jeera -black cumin.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Royal Rice & Gravy Seasoning",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Shah Jeera (Black Cumin)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Slender dark seeds with a distinct sweet anise-like herbal aroma. The royal secret ingredient in Dum Biryanis, Khepsa rice, and Mutton Kormas.",
+          "gu": "શાહી દમ બિરયાની, ખેપ્સા રાઈસ અને મુગલાઈ કોરમામાં ખાસ સુગંધ ઉમેરતું શાહ જીરૂ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-peanuts-singdana-200g",
+      "name": "Rich 'n' Spicy Raw Peanuts (Singdana)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Singdana",
+        "Peanuts",
+        "Poha",
+        "Fasting"
+      ],
+      "regional_names": {
+        "gu": "સીંગદાણા"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/singh dana peanuts.jpg",
+        "filename": "singh dana peanuts.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Nutty Crunch & Gravy Base",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Raw Peanuts (Singdana)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Premium raw groundnuts with red skin. Fry for crunchy poha, sabudana khichdi, Gujarati sweet-and-sour dal, or grind into rich nutty curries.",
+          "gu": "બટાકા પૌંઆ, સાબુદાણા ખીચડી, ગુજરાતી દાળ અને ગ્રેવી માટે પસંદગીના સ્વાદિષ્ટ કાચા સીંગદાણા."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-star-anise-chakraphool-50g",
+      "name": "Rich 'n' Spicy Star Anise (Chakraphool)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Star Anise",
+        "Chakraphool",
+        "Biryani",
+        "Khada Masala"
+      ],
+      "regional_names": {
+        "gu": "ચક્રફૂલ"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/star ainse.jpg",
+        "filename": "star ainse.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Star Pod Infusion (1-2 stars)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Star Anise (Chakraphool)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Eight-pointed star pods with sweet licorice-like aroma. Essential in boiling water for basmati biryani rice, Chinese master stocks, and nihari.",
+          "gu": "બિરયાનીના ચોખા ઉકાળતી વખતે અને મટન નિહારીમાં મીઠી લિકોરીસ સુગંધ આપવા માટે ૧-૨ ચક્રફૂલ ઉમેરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-stone-flower-dagadphool-50g",
+      "name": "Rich 'n' Spicy Stone Flower (Dagad Phool / Kalpasi)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Dagad Phool",
+        "Stone Flower",
+        "Kalpasi",
+        "Maharashtrian"
+      ],
+      "regional_names": {
+        "gu": "પથ્થર ફૂલ"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/stone flower-dagadphool.jpg",
+        "filename": "stone flower-dagadphool.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Earthy Secret Spice",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Stone Flower (Dagad Phool / Kalpasi)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Dried lichen species used in Maharashtrian Goda masala, Chettinad curries, and meat gravies to impart an intense earthy, woody musk.",
+          "gu": "ગોડા મસાલા, ચેટીનાડ કરી અને મટન ગ્રેવીમાં અનોખી જંગલી સોડમ અને સ્વાદ ઉમેરતું પથ્થર ફૂલ (દગડ ફૂલ)."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-suva-seeds-dill-100g",
+      "name": "Rich 'n' Spicy Dill Seeds (Suva Dana)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Suva Dana",
+        "Dill Seeds",
+        "Mukhwas",
+        "Post-Natal"
+      ],
+      "regional_names": {
+        "gu": "સુવા દાણા"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/suva seeds.jpg",
+        "filename": "suva seeds.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Digestive Mukhwas & Herb",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Dill Seeds (Suva Dana)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Crisp aromatic dill seeds renowned in Gujarati households for post-meal digestion, postnatal tonic foods, and roasted mukhwas blends.",
+          "gu": "જમ્યા પછી મુખવાસ માટે શેકીને ખાવા તેમજ સુવાવડી સ્ત્રીઓ માટે આયુર્વેદિક ગુણોથી ભરપૂર સુવા દાણા."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-sesame-seeds-safed-tal-100g",
+      "name": "Rich 'n' Spicy White Sesame Seeds (Safed Tal)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Sesame Seeds",
+        "Safed Tal",
+        "Makar Sankranti",
+        "Tadka"
+      ],
+      "regional_names": {
+        "gu": "સફેદ તલ"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/tal sesame-seeds.jpg",
+        "filename": "tal sesame-seeds.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Toasted Garnish & Tadka",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy White Sesame Seeds (Safed Tal)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Clean white sesame seeds rich in healthy oils and calcium. Crackle in tadka for dhokla, muthiya, thepla, or make festive til chikki and laddoos.",
+          "gu": "ઢોકળાં, હાંડવો, થેપલાના વઘારમાં અને ઉત્તરાયણની તલસાંકળી-ચીક્કી માટે કેલ્શિયમથી ભરપૂર સફેદ તલ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-watermelon-seeds-magajtari-100g",
+      "name": "Rich 'n' Spicy Watermelon Seeds (Magajtari)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "Magajtari",
+        "Watermelon Seeds",
+        "Shahi Gravy",
+        "Thickener"
+      ],
+      "regional_names": {
+        "gu": "મગજતરી બી"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/water melon seeds magajtari.jpg",
+        "filename": "water melon seeds magajtari.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Puree for Creamy Gravies",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy Watermelon Seeds (Magajtari)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Peeled white watermelon melon kernels. Soak and blend with cashews to form the silky, sweet, rich white foundation of Shahi Mughlai curries.",
+          "gu": "કાજુ સાથે પલાળીને પીસી શાહી પનીર, મલાઈ કોફતા અને મુગલાઈ ગ્રેવીને ક્રીમી ઘટ્ટ બનાવવા માટે મગજતરી બી."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "ws-white-pepper-safed-mari-50g",
+      "name": "Rich 'n' Spicy White Pepper (Safed Mari)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Whole Spices",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Whole Spices",
+        "White Pepper",
+        "Safed Mari",
+        "White Sauce",
+        "Subtle Heat"
+      ],
+      "regional_names": {
+        "gu": "સફેદ મરી"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "All Indian Curries",
+          "Vegetables",
+          "Rice",
+          "Biryani"
+        ]
+      },
+      "images": {
+        "primary": "product images/whole spices/white pepper safed mari.jpg",
+        "filename": "white pepper safed mari.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Subtle Pungent Seasoning",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Tadka / Tempering",
+          "Roast & Grind",
+          "Infusion"
+        ],
+        "required_ingredients": [
+          "Whole Rich 'n' Spicy White Pepper (Safed Mari)",
+          "Hot cooking oil or desi ghee for tempering"
+        ],
+        "instructions": {
+          "en": "Dehusked ripe peppercorns delivering clean heat and earthy bite without dark specks. Essential for white gravies, cream soups, and mayonnaise.",
+          "gu": "વ્હાઈટ ચીકન/મટન ગ્રેવી, ક્રીમ સૂપ અને સફેદ સોસમાં કાળા ડાઘા વગર તીખાશ આપવા માટે સફેદ મરી વાપરો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    }
+  ]
+}

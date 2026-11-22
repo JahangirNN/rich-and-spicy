@@ -1,0 +1,3099 @@
+{
+  "category": "Others",
+  "total_products": 49,
+  "generated_at": "2026-11-21",
+  "brand": "Rich 'n' SP!CY",
+  "manufacturer": {
+    "name": "City Gruh Udhyog",
+    "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+    "contact": "9898155726"
+  },
+  "products": [
+    {
+      "id": "others-tendercook-meat-tenderizer-100g",
+      "name": "Tendercook Meat Tenderizer Powder",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Pantry",
+        "Meat Tenderizer",
+        "Barbecue",
+        "Dry Marinade"
+      ],
+      "regional_names": {
+        "gu": "ટેન્ડરકૂક મીટ ટેન્ડરાઈઝર"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/TendercookTenderizer.jpg",
+        "filename": "TendercookTenderizer.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Meat Marinade Prep (1 tbsp per 1kg meat)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Tendercook Meat Tenderizer Powder",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Natural enzyme meat tenderizer. Rub over tough cuts of mutton or beef 30-45 minutes before cooking for melt-in-mouth succulent textures.",
+          "gu": "મટન કે બીફને નરમ અને રસદાર બનાવવા માટે રાંધવાના ૩૦-૪૫ મિનિટ પહેલાં લગાવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-black-soya-sauce-200g",
+      "name": "Rich 'n' Spicy Black Soya Sauce",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Sauces",
+        "Soya Sauce",
+        "Indo-Chinese",
+        "Pantry"
+      ],
+      "regional_names": {
+        "gu": "બ્લેક સોયા સોસ"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/black soya sauce.JPG",
+        "filename": "black soya sauce.JPG"
+      },
+      "recipe": {
+        "serves_portion": "Indo-Chinese Cooking (1-2 tbsp)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Black Soya Sauce",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Rich fermented dark soya sauce. Perfect for authentic Indo-Chinese noodles, Manchurian, fried rice, and dipping sauces.",
+          "gu": "ચાઈનીઝ નુડલ્સ, મંચુરિયન, ફ્રાઈડ રાઈસ અને ચટણીમાં રંગ અને સ્વાદ આપતો ડાર્ક સોયા સોસ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-cheese-popcorn-powder-50g",
+      "name": "Rich 'n' Spicy Cheese Popcorn Seasoning Powder",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Seasoning",
+        "Cheese Powder",
+        "Popcorn",
+        "Snacks"
+      ],
+      "regional_names": {
+        "gu": "ચીઝ પોપકોર્ન પાવડર"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/cheese popcorn powder.jpg",
+        "filename": "cheese popcorn powder.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Snack Dusting (1 tbsp per bowl)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Cheese Popcorn Seasoning Powder",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Savory cheese seasoning powder. Toss generously over fresh hot buttered popcorn, french fries, nachos, or potato crisps.",
+          "gu": "ગરમા ગરમ પોપકોર્ન, ફ્રેન્ચ ફ્રાઈસ અને નાચોસ પર છાંટીને સિનેમા હોલ જેવો ચીઝી સ્વાદ માણો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-chilli-flakes-50g",
+      "name": "Rich 'n' Spicy Red Chilli Flakes",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Seasoning",
+        "Chilli Flakes",
+        "Pizza",
+        "Pasta"
+      ],
+      "regional_names": {
+        "gu": "ચીલી ફ્લેક્સ"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/chilli flakes.jpg",
+        "filename": "chilli flakes.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Tabletop Seasoning",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Red Chilli Flakes",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Crushed sun-ripened red pepper flakes with seeds. Sprinkle over pizzas, pasta, garlic bread, soups, and avocado toast.",
+          "gu": "પીત્ઝા, પાસ્તા, ગાર્લિક બ્રેડ અને સૂપ પર તીખાશ માટે છાંટવામાં આવતા લાલ મરચાંના ફ્લેક્સ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-ef-kolahs-black-vinegar-500g",
+      "name": "E.F. Kolah's Brewed Black Vinegar",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Parsi Cuisine",
+        "Navsari Vinegar",
+        "Cane Vinegar",
+        "Pantry"
+      ],
+      "regional_names": {
+        "gu": "ઈ.એફ. કોલાહ બ્લેક વિનેગર"
+      },
+      "net_weight": {
+        "value": 500,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/ef kolah's black vinegar.jpg",
+        "filename": "ef kolah's black vinegar.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Navsari Brewed Sugarcane Vinegar",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "E.F. Kolah's Brewed Black Vinegar",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Authentic naturally fermented barrel-aged black sugarcane vinegar from Navsari. Essential for Parsi sali boti, vindaloo, and traditional pickling.",
+          "gu": "નવસારીનો અસલ કુદરતી શેરડીમાંથી આથેલો કાળો સરકો (વિનેગાર). પારસી સાલી બોટી, વિંદાલુ અને અથાણાં માટે પ્રખ્યાત."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-fried-onions-birista-100g",
+      "name": "Rich 'n' Spicy Golden Fried Onions (Birista)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Birista",
+        "Fried Onions",
+        "Biryani Garnish",
+        "Pantry"
+      ],
+      "regional_names": {
+        "gu": "તળેલી ડુંગળી / બિરિસ્તા"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/fried onions birista.jpg",
+        "filename": "fried onions birista.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Biryani Layering & Gravy Garnish",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Golden Fried Onions (Birista)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Crispy sweet golden fried sliced onions. Essential crunchy layer for dum biryanis, haleem, khichda, and Mughlai kormas.",
+          "gu": "બિરયાનીના થર, હલીમ, ખીચડા અને કોરમા માટે તૈયાર ક્રિસ્પી ગોલ્ડન તળેલી ડુંગળી (બિરિસ્તા)."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-gaay-chaap-besan-500g",
+      "name": "Gaay Chaap Premium Besan (Gram Flour)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Besan",
+        "Gram Flour",
+        "Farsan",
+        "Pantry Staple"
+      ],
+      "regional_names": {
+        "gu": "ગાય છાપ ચણાનો લોટ"
+      },
+      "net_weight": {
+        "value": 500,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/gaay chaap besan.jpg",
+        "filename": "gaay chaap besan.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Traditional Farsan & Sweets Base",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Gaay Chaap Premium Besan (Gram Flour)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Finely milled pure chana dal gram flour. Ideal for authentic Gujarati kadhi, pakodas, dhokla, fafda, khandvi, and mohanthal.",
+          "gu": "કઢી, ભજીયાં, ખમણ, ખાંડવી, ફાફડા અને મોહનથાળ બનાવવા માટે શુદ્ધ ચણાદાળનો ગાય છાપ બેસન."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-garlic-powder-50g",
+      "name": "Rich 'n' Spicy Dehydrated Garlic Powder",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Seasoning",
+        "Garlic Powder",
+        "Dehydrated",
+        "Pantry"
+      ],
+      "regional_names": {
+        "gu": "લસણ પાવડર"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/garlic powder.jpg",
+        "filename": "garlic powder.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Instant Garlic Aromatics (1 tsp)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Dehydrated Garlic Powder",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Dehydrated premium garlic powder. Instant punchy savory garlic flavor for dry rubs, garlic bread, pasta sauces, dips, and marinades.",
+          "gu": "ગાર્લિક બ્રેડ, ડીપ્સ, સૂપ અને મરીનેશનમાં તાજા લસણ જેવો જ સ્વાદ અને સુગંધ આપતો શુદ્ધ લસણ પાવડર."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-green-chilli-sauce-200g",
+      "name": "Rich 'n' Spicy Green Chilli Sauce",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Sauces",
+        "Green Chilli Sauce",
+        "Indo-Chinese",
+        "Street Food"
+      ],
+      "regional_names": {
+        "gu": "ગ્રીન ચીલી સોસ"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/green chilli sauce.JPG",
+        "filename": "green chilli sauce.JPG"
+      },
+      "recipe": {
+        "serves_portion": "Zesty Hot Condiment",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Green Chilli Sauce",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Zesty, spicy green chilli sauce. Perfect dipping and cooking condiment for samosas, noodles, rolls, frankies, and Indo-Chinese gravies.",
+          "gu": "સમોસા, ફ્રેન્કી, ચાઈનીઝ ભેલ અને નુડલ્સ માટે તીખો અને ચટપટો ગ્રીન ચીલી સોસ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-kewra-water-600g",
+      "name": "Pure Kewra Water 600ml",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Aromatics",
+        "Kewra Water",
+        "Biryani Essence",
+        "Mughlai"
+      ],
+      "regional_names": {
+        "gu": "કેવડા જળ ૬૦૦ મિલી"
+      },
+      "net_weight": {
+        "value": 600,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/kewra 600 ml.jpeg",
+        "filename": "kewra 600 ml.jpeg"
+      },
+      "recipe": {
+        "serves_portion": "Mughlai Aromatic Floral Water",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Pure Kewra Water 600ml",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Distilled fragrant pandanus flower water. Drizzle over dum biryani, shahi korma, rasgullas, and rabdi for unmatched royal festive aroma.",
+          "gu": "દમ બિરયાની, મુગલાઈ કોરમા, મીઠાઈ અને શરબતમાં રાજવી સુગંધ આપવા માટે શુદ્ધ કેવડા જળ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-kewra-water-200g",
+      "name": "Pure Kewra Water 200ml",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Aromatics",
+        "Kewra Water",
+        "Biryani Essence",
+        "Pantry"
+      ],
+      "regional_names": {
+        "gu": "કેવડા જળ ૨૦૦ મિલી"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/kewra water 200 ml.jpg",
+        "filename": "kewra water 200 ml.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Mughlai Floral Water (Small)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Pure Kewra Water 200ml",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Convenient 200ml pack of distilled kewra water for everyday home biryanis, kebabs, kheer, and traditional desserts.",
+          "gu": "ઘરેલુ બિરયાની, કબાબ, ખીર અને મુગલાઈ વાનગીઓ માટે સુગંધિત કેવડા જળ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-keybrand-rose-water-200g",
+      "name": "Key Brand Pure Rose Water 200ml",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Aromatics",
+        "Rose Water",
+        "Key Brand",
+        "Desserts"
+      ],
+      "regional_names": {
+        "gu": "ગુલાબ જળ ૨૦૦ મિલી"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/keybrand_rosewater_200ml.jpg",
+        "filename": "keybrand_rosewater_200ml.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Culinary Rose Distillate",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Key Brand Pure Rose Water 200ml",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Pure culinary distilled rose petal water. Enhances gulab jamun syrup, falooda, lassi, kheer, and festive milk sweets.",
+          "gu": "ગુલાબ જાંબુની ચાસણી, ફાલુદા, લસ્સી અને દૂધની વાનગીઓમાં ગુલાબી મહેક ઉમેરતું ગુલાબ જળ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-onion-powder-50g",
+      "name": "Rich 'n' Spicy Dehydrated Onion Powder",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Seasoning",
+        "Onion Powder",
+        "Dehydrated",
+        "Pantry"
+      ],
+      "regional_names": {
+        "gu": "ડુંગળી પાવડર"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/onion powder.jpg",
+        "filename": "onion powder.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Instant Sweet-Savory Allium Flavor",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Dehydrated Onion Powder",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Dehydrated golden onion powder. Essential for instant soup powders, burger patties, dips, seasoning blends, and smooth gravies.",
+          "gu": "સૂપ, બર્ગર, ડીપ્સ અને ગ્રેવીમાં ડુંગળીનો સ્વાદ અને મીઠાશ આપવા માટે શુદ્ધ ડુંગળી પાવડર."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-oregano-seasoning-30g",
+      "name": "Rich 'n' Spicy Oregano Herb Seasoning",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Seasoning",
+        "Oregano",
+        "Italian Herb",
+        "Pizza"
+      ],
+      "regional_names": {
+        "gu": "ઓરેગાનો"
+      },
+      "net_weight": {
+        "value": 30,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/oregano.jpg",
+        "filename": "oregano.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Mediterranean Table Seasoning",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Oregano Herb Seasoning",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Dried Mediterranean wild oregano leaves. Essential for seasoning pizzas, pasta sauces, bruschetta, and roasted vegetables.",
+          "gu": "પીત્ઝા, પાસ્તા, ગાર્લિક બ્રેડ અને ઈટાલિયન વાનગીઓ માટે સુગંધિત ડ્રાય ઓરેગાનો પાંદડાં."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-red-chilli-sauce-200g",
+      "name": "Rich 'n' Spicy Red Chilli Sauce",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Sauces",
+        "Red Chilli Sauce",
+        "Indo-Chinese",
+        "Condiment"
+      ],
+      "regional_names": {
+        "gu": "રેડ ચીલી સોસ"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/red chilli sauce.JPG",
+        "filename": "red chilli sauce.JPG"
+      },
+      "recipe": {
+        "serves_portion": "Spicy Tangy Condiment",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Red Chilli Sauce",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Fiery red chilli sauce with tangy notes. Essential for stir-frying Chinese Manchurian, schezwan rice, spring rolls, and noodles.",
+          "gu": "ચાઈનીઝ મંચુરિયન, શેઝવાન નુડલ્સ અને સ્પ્રિંગ રોલ માટે તીખો લાલ મરચાંનો સોસ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-rose-water-600g",
+      "name": "Pure Rose Water 600ml",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Aromatics",
+        "Rose Water",
+        "Culinary Water",
+        "Desserts"
+      ],
+      "regional_names": {
+        "gu": "ગુલાબ જળ ૬૦૦ મિલી"
+      },
+      "net_weight": {
+        "value": 600,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/rose water 600 ml.jpg",
+        "filename": "rose water 600 ml.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Pure Distilled Rose Essence (Large)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Pure Rose Water 600ml",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Large 600ml bottle of pure distilled rose petal water. For sweet makers, catering, falooda, halwa, and refreshing sherbets.",
+          "gu": "મીઠાઈ, ફાલુદા, શરબત અને કેટરિંગ માટે મોટા પેકમાં શુદ્ધ સુગંધિત ગુલાબ જળ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-sabudana-sago-500g",
+      "name": "Rich 'n' Spicy Premium Sabudana (Tapioca Sago)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Sabudana",
+        "Sago",
+        "Fasting",
+        "Farali Staple"
+      ],
+      "regional_names": {
+        "gu": "સાબુદાણા"
+      },
+      "net_weight": {
+        "value": 500,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/sabudana.jpg",
+        "filename": "sabudana.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Farali Fasting Staple (Serves 4-6)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Premium Sabudana (Tapioca Sago)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Pristine white, non-sticky tapioca pearls. Soaks evenly to create fluffy sabudana khichdi, crispy sabudana vadas, and creamy kheer.",
+          "gu": "એકદમ મોતી જેવા સફેદ સાબુદાણા. વ્રત-ઉપવાસ માટે ખીલેલી સાબુદાણા ખીચડી, વડા અને ખીર બનાવવા માટે બેસ્ટ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-tomato-powder-50g",
+      "name": "Rich 'n' Spicy Dehydrated Tomato Powder",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Seasoning",
+        "Tomato Powder",
+        "Dehydrated",
+        "Tangy"
+      ],
+      "regional_names": {
+        "gu": "ટામેટા પાવડર"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/tomato powder.jpg",
+        "filename": "tomato powder.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Instant Tomato Flavor & Color",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Dehydrated Tomato Powder",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Dehydrated pure ripe red tomato powder. Imparts instant tangy sweetness and color to instant soup blends, gravies, pasta, and snack dustings.",
+          "gu": "સૂપ, ગ્રેવી, પાસ્તા અને નાસ્તાના મસાલામાં ટામેટાંની કુદરતી ખટાશ અને લાલ રંગ આપતો પાવડર."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-uttam-maida-500g",
+      "name": "Uttam Premium Maida (All Purpose Flour)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Flour",
+        "Maida",
+        "Baking",
+        "Samosa Dough"
+      ],
+      "regional_names": {
+        "gu": "ઉત્તમ મેંદો"
+      },
+      "net_weight": {
+        "value": 500,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/uttam maida.jpg",
+        "filename": "uttam maida.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Pastry, Bhature & Naan Flour",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Uttam Premium Maida (All Purpose Flour)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Super-refined wheat flour with ideal gluten stretch. Perfect for fluffy bhature, tandoori naan, samosa pastry crusts, and delicate cakes.",
+          "gu": "ભટુરે, નાન, સમોસાના પડ અને બેકિંગ માટે એકદમ ઝીણો ઉત્તમ ગુણવત્તાવાળો મેંદો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-uttam-rava-sooji-500g",
+      "name": "Uttam Premium Rava (Sooji / Semolina)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Rava",
+        "Sooji",
+        "Semolina",
+        "Halwa / Upma"
+      ],
+      "regional_names": {
+        "gu": "ઉત્તમ સોજી / રવો"
+      },
+      "net_weight": {
+        "value": 500,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/uttam-rava.jpg",
+        "filename": "uttam-rava.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Halwa, Upma & Idli Batter",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Uttam Premium Rava (Sooji / Semolina)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Granular durum wheat semolina. Roasts to a fragrant golden aroma for comforting sooji halwa, vegetable upma, and rava dosa batter.",
+          "gu": "શીરો, રવા ઉપમા, રવા ઢોંસા અને ઈડલી માટે દાણાદાર અને સ્વાદિષ્ટ ઉત્તમ રવો/સોજી."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-white-cheddar-cheese-powder-50g",
+      "name": "White Cheddar Cheese Seasoning Powder",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Cheese Powder",
+        "White Cheddar",
+        "Seasoning",
+        "Snacks"
+      ],
+      "regional_names": {
+        "gu": "વ્હાઈટ ચેડર ચીઝ પાવડર"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/white cheddar cheese powder.jpg",
+        "filename": "white cheddar cheese powder.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Gourmet Cheese Dusting",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "White Cheddar Cheese Seasoning Powder",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Premium sharp white cheddar cheese powder. Perfect gourmet dusting for makhana, chips, pasta, baked potatoes, and popcorn.",
+          "gu": "મખાના, પોપકોર્ન, પાસ્તા અને ચિપ્સ પર પ્રીમિયમ શાર્પ ચીઝનો સ્વાદ આપતો વ્હાઈટ ચેડર ચીઝ પાવડર."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-anuja-lemon-yellow-10g",
+      "name": "Anuja Lemon Yellow Food Colour",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Food Color",
+        "Lemon Yellow",
+        "Mithai",
+        "Baking"
+      ],
+      "regional_names": {
+        "gu": "અનુજા લેમન યલો કલર"
+      },
+      "net_weight": {
+        "value": 10,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/colors/anuja lemon yellow color.jpg",
+        "filename": "anuja lemon yellow color.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Food Color Powder (Pinch)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Anuja Lemon Yellow Food Colour",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Brilliant lemon yellow food color powder. For jalebi, motichoor laddoos, biryani rice, and bakery icings.",
+          "gu": "જલેબી, મોતીચૂર લાડુ, બિરયાની ચોખા અને આઈસિંગ માટે બ્રાઈટ લેમન યલો ફૂડ કલર."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-anuja-orange-red-10g",
+      "name": "Anuja Orange Red Food Colour",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Food Color",
+        "Orange Red",
+        "Tandoori",
+        "Biryani"
+      ],
+      "regional_names": {
+        "gu": "અનુજા ઓરેન્જ રેડ કલર"
+      },
+      "net_weight": {
+        "value": 10,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/colors/anuja orange red.gif",
+        "filename": "anuja orange red.gif"
+      },
+      "recipe": {
+        "serves_portion": "Food Color Powder (Pinch)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Anuja Orange Red Food Colour",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Classic vibrant orange-red shade for tandoori marinades, chicken 65, and biryani rice garnish.",
+          "gu": "તંદૂરી ચિકન, ચિકન ૬૫ અને બિરયાની ગાર્નિશ માટે ક્લાસિક ઓરેન્જ રેડ રંગ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-anuja-raspberry-red-10g",
+      "name": "Anuja Raspberry Red Food Colour",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Food Color",
+        "Raspberry Red",
+        "Syrups",
+        "Beverages"
+      ],
+      "regional_names": {
+        "gu": "અનુજા રાસબેરી રેડ કલર"
+      },
+      "net_weight": {
+        "value": 10,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/colors/anuja-food-color- raspberry red.jpg",
+        "filename": "anuja-food-color- raspberry red.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Food Color Powder (Pinch)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Anuja Raspberry Red Food Colour",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Deep berry red color for rose sharbat, ice candies, cakes, and mocktails.",
+          "gu": "ગુલાબ શરબત, આઈસ્ક્રીમ અને કેક માટે ઘેરો રાસબેરી રેડ રંગ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-anuja-green-10g",
+      "name": "Anuja Green Food Colour",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Food Color",
+        "Green",
+        "Pista Kulfi",
+        "Paan"
+      ],
+      "regional_names": {
+        "gu": "અનુજા ગ્રીન કલર"
+      },
+      "net_weight": {
+        "value": 10,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/colors/Anuja-Green-Colour-10gm-50pcs-.jpg",
+        "filename": "Anuja-Green-Colour-10gm-50pcs-.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Food Color Powder (Pinch)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Anuja Green Food Colour",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Lush green edible food coloring for pista kulfi, paan candies, and confectioneries.",
+          "gu": "પિસ્તા કુલ્ફી, પાન મિઠાઈ અને કન્ફેક્શનરી માટે સુંદર ગ્રીન કલર."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-apple-green-10g",
+      "name": "Apple Green Food Colour",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Food Color",
+        "Apple Green",
+        "Desserts",
+        "Bakery"
+      ],
+      "regional_names": {
+        "gu": "એપલ ગ્રીન કલર"
+      },
+      "net_weight": {
+        "value": 10,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/colors/apple green.jpg",
+        "filename": "apple green.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Food Color Powder (Pinch)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Apple Green Food Colour",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Refreshing light apple-green hue for beverages, syrups, and bakery decorations.",
+          "gu": "શરબત, બેકિંગ અને મીઠાઈ માટે આકર્ષક એપલ ગ્રીન કલર."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-bush-orange-red-10g",
+      "name": "Bush Orange Red Food Colour",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Food Color",
+        "Bush Brand",
+        "Tandoori",
+        "Restaurant Color"
+      ],
+      "regional_names": {
+        "gu": "બુશ ઓરેન્જ રેડ પાવડર"
+      },
+      "net_weight": {
+        "value": 10,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/colors/bush orange red.jpg",
+        "filename": "bush orange red.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Food Color Powder (Pinch)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Bush Orange Red Food Colour",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Professional-grade food color preferred by commercial kitchens for consistent vivid orange-red tint.",
+          "gu": "રેસ્ટોરન્ટ અને કેટરિંગ માટે જાણીતી બુશ બ્રાન્ડનો ઓરેન્જ રેડ ફૂડ કલર."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-bush-kesari-powder-10g",
+      "name": "Bush Kesari Food Colour Powder",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Food Color",
+        "Kesari",
+        "Saffron Yellow",
+        "Halwa"
+      ],
+      "regional_names": {
+        "gu": "બુશ કેસરી પાવડર"
+      },
+      "net_weight": {
+        "value": 10,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/colors/bush-kesari-powder-500x500.jpg",
+        "filename": "bush-kesari-powder-500x500.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Food Color Powder (Pinch)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Bush Kesari Food Colour Powder",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Warm saffron-kesari yellow food coloring for kesari halwa, biryanis, and traditional Indian sweets.",
+          "gu": "કેસરી ભાત, શીરો અને મીઠાઈ માટે સુંદર કેસરી પીળો રંગ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-lemon-yellow-color-10g",
+      "name": "Premium Lemon Yellow Food Colour",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Food Color",
+        "Lemon Yellow",
+        "Confectionery"
+      ],
+      "regional_names": {
+        "gu": "લેમન યલો કલર"
+      },
+      "net_weight": {
+        "value": 10,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/colors/Lemon-Yellow color.jpg",
+        "filename": "Lemon-Yellow color.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Food Color Powder (Pinch)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Premium Lemon Yellow Food Colour",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "High solubility lemon yellow food dye for clear syrups, ice pops, and sweets.",
+          "gu": "શરબત અને મીઠાઈ માટે ઝડપથી ઓગળતો લેમન યલો કલર."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-almonds-badam-100g",
+      "name": "Rich 'n' Spicy Premium Almonds (Badam)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Dry Fruits",
+        "Badam",
+        "Almonds",
+        "Healthy Snacks"
+      ],
+      "regional_names": {
+        "gu": "બદામ"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/dry fruits/almonds.jpg",
+        "filename": "almonds.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Healthy Snacking & Sweet Garnish",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Premium Almonds (Badam)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Crisp sweet California almonds. Slice for kheer, sheera, biryani garnish, or enjoy soaked in the morning.",
+          "gu": "રોજિંદા સ્વાસ્થ્ય માટે તેમજ શીરો, ખીર અને બિરયાનીમાં ગાર્નિશ કરવા માટે પ્રીમિયમ બદામ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-anjeer-figs-100g",
+      "name": "Rich 'n' Spicy Dried Figs (Anjeer)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Dry Fruits",
+        "Anjeer",
+        "Dried Figs",
+        "Fiber Rich"
+      ],
+      "regional_names": {
+        "gu": "અંજીર"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/dry fruits/anjeer.jpg",
+        "filename": "anjeer.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Nutritious Dry Fruit Snack",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Dried Figs (Anjeer)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Plump sun-dried figs packed with fiber and natural sweetness. Enjoy direct, blend into anjeer halwa, or add to rich milkshakes.",
+          "gu": "ફાઈબર અને કેલ્શિયમથી ભરપૂર મીઠા સૂકા અંજીર. અંજીર હલવો, મિલ્કશેક અને ડ્રાયફ્રૂટ બાઈટ્સ માટે શ્રેષ્ઠ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-black-raisins-kali-draksh-100g",
+      "name": "Rich 'n' Spicy Black Raisins (Kali Draksh)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Dry Fruits",
+        "Kali Draksh",
+        "Black Raisins",
+        "Iron Rich"
+      ],
+      "regional_names": {
+        "gu": "કાળી દ્રાક્ષ"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/dry fruits/black rasins.jpg",
+        "filename": "black rasins.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Iron-Rich Sweetness",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Black Raisins (Kali Draksh)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Naturally sweet seedless black raisins. Excellent for iron-boosting morning water, rich curries, and spiced rice pulao.",
+          "gu": "હિમોગ્લોબિન વધારવા માટે અને પુલાવ કે મીઠાઈમાં વાપરવા માટે મીઠી બી વગરની કાળી દ્રાક્ષ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-broken-cashewnuts-kaju-tukda-100g",
+      "name": "Rich 'n' Spicy Broken Cashewnuts (Kaju Tukda)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Dry Fruits",
+        "Kaju Tukda",
+        "Cashew Pieces",
+        "Gravy Base"
+      ],
+      "regional_names": {
+        "gu": "કાજુ ટુકડા"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/dry fruits/broken cashewnuts.jpg",
+        "filename": "broken cashewnuts.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Gravy Thickener & Baking",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Broken Cashewnuts (Kaju Tukda)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Creamy broken cashew pieces. Cost-effective and ideal for blending smooth restaurant shahi gravies, korma pastes, and halwa.",
+          "gu": "શાહી ગ્રેવીને ઘટ્ટ કરવા પીસવા માટે અને શીરો-લાડુમાં વાપરવા માટે શ્રેષ્ઠ કાજુ ટુકડા."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-whole-cashewnuts-akha-kaju-100g",
+      "name": "Rich 'n' Spicy Whole Cashewnuts (Akha Kaju)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Dry Fruits",
+        "Akha Kaju",
+        "Whole Cashews",
+        "Kaju Curry"
+      ],
+      "regional_names": {
+        "gu": "આખા કાજુ"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/dry fruits/cashewnuts.jpg",
+        "filename": "cashewnuts.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Whole Nut Sauté & Snacking",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Whole Cashewnuts (Akha Kaju)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Jumbo whole white cashew nuts. Fry in golden ghee for kaju curry, biryani topping, and roasted salted cocktail snacks.",
+          "gu": "કાજુ કરી, બિરયાનીના ગાર્નિશિંગ અને ઘીમાં શેકીને ખાવા માટે પ્રીમિયમ આખા કાજુ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-charoli-chironji-50g",
+      "name": "Rich 'n' Spicy Charoli (Chironji Nuts)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Dry Fruits",
+        "Charoli",
+        "Chironji",
+        "Basundi Garnish"
+      ],
+      "regional_names": {
+        "gu": "ચારોળી"
+      },
+      "net_weight": {
+        "value": 50,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/dry fruits/charoli.jpg",
+        "filename": "charoli.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Traditional Sweet Nut Garnish",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Charoli (Chironji Nuts)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Tiny nutty seeds with an almond-like delicate crunch. The indispensable classic topping for Gujarati basundi, kheer, and halwa.",
+          "gu": "બાસુંદી, ખીર અને શીરાના પરંપરાગત ગાર્નિશિંગ માટે અનિવાર્ય ચારોળી."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-jardalu-apricots-100g",
+      "name": "Rich 'n' Spicy Dried Apricots (Jardalu)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Dry Fruits",
+        "Jardalu",
+        "Apricots",
+        "Parsi Cuisine"
+      ],
+      "regional_names": {
+        "gu": "જરદાળુ"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/dry fruits/jardaalu.jpg",
+        "filename": "jardaalu.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Sweet & Tart Dried Fruit",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Dried Apricots (Jardalu)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Sun-dried golden apricots. Key ingredient in authentic Parsi Jardalu Ma Gosht / Chicken, fruit jams, and luxury dessert platters.",
+          "gu": "પારસી જરદાળુ મા ગોસ્ત તેમજ મીઠાઈ અને ડેઝર્ટ માટે સ્વાદિષ્ટ સૂકા જરદાળુ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-kharek-dry-dates-200g",
+      "name": "Rich 'n' Spicy Dry Dates (Kharek)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Dry Fruits",
+        "Kharek",
+        "Dry Dates",
+        "Winter Pak"
+      ],
+      "regional_names": {
+        "gu": "ખારેક"
+      },
+      "net_weight": {
+        "value": 200,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/dry fruits/kharek.jpg",
+        "filename": "kharek.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Nutritious Sweet Energy",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Dry Dates (Kharek)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Hard dried dates packed with minerals. Ground or soaked for traditional winter health tonics (pak), milk infusions, and energy bites.",
+          "gu": "શિયાળાના પૌષ્ટિક પાક (અડદિયા, ખારેક પાક) અને દૂધ સાથે ઉકાળીને પીવા માટે શુદ્ધ ખારેક."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-pista-pistachios-100g",
+      "name": "Rich 'n' Spicy Premium Pistachios (Pista)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Dry Fruits",
+        "Pista",
+        "Pistachios",
+        "Royal Garnish"
+      ],
+      "regional_names": {
+        "gu": "પિસ્તા"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/dry fruits/pista.jpg",
+        "filename": "pista.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Emerald Nut Slivers for Sweets",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Premium Pistachios (Pista)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Vibrant green nutty pistachios. Sliver thinly to crown royal Indian sweets, kulfi, rabdi, and saffron biryanis.",
+          "gu": "મીઠાઈ, કુલ્ફી, રબડી અને બિરયાની પર સુંદર લીલો રંગ અને ક્રંચ આપવા માટે પ્રીમિયમ પિસ્તા."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-raisins-kismis-100g",
+      "name": "Rich 'n' Spicy Golden Raisins (Kismis)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Dry Fruits",
+        "Kismis",
+        "Raisins",
+        "Sweet Garnish"
+      ],
+      "regional_names": {
+        "gu": "કિસમિસ"
+      },
+      "net_weight": {
+        "value": 100,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/dry fruits/raisins.jpg",
+        "filename": "raisins.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Golden Sweet Pops",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Golden Raisins (Kismis)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Juicy golden dried grapes. Add delightful sweet bursts into rice pulaos, kheer, halwa, and homemade tea cakes.",
+          "gu": "પુલાવ, ખીર, શીરો અને બેકિંગમાં કુદરતી મીઠાશ આપતી સોનેરી કિસમિસ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-hajoori-kesar-kom-big-20g",
+      "name": "Hajoori Kesar Kom Essence (Large)",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Essence",
+        "Kesar",
+        "Hajoori",
+        "Saffron Aroma"
+      ],
+      "regional_names": {
+        "gu": "હજુરી કેસર કોમ એસેન્સ"
+      },
+      "net_weight": {
+        "value": 20,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/essence/hajoori kesar kom big.jpg",
+        "filename": "hajoori kesar kom big.jpg"
+      },
+      "recipe": {
+        "serves_portion": "High-Concentrate Kesar Aroma (Drops)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Hajoori Kesar Kom Essence (Large)",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Famous Surat Hajoori brand saffron essence. A few drops infuse unforgettable royal saffron aroma into sweets, milkshakes, and biryani.",
+          "gu": "સુરતની વિખ્યાત હજુરી બ્રાન્ડનું કેસર એસેન્સ. માત્ર બે ટીપાં મીઠાઈ, શરબત અને બિરયાનીમાં કેસરની મહેક ફેલાવે છે."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-hajoori-kesar-essence-20g",
+      "name": "Hajoori Premium Kesar Essence",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Essence",
+        "Kesar",
+        "Hajoori",
+        "Flavours"
+      ],
+      "regional_names": {
+        "gu": "હજુરી કેસર એસેન્સ"
+      },
+      "net_weight": {
+        "value": 20,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/essence/hajoori-flavours-and-fragrancs-kesar-essence-500x500 (1).jpg",
+        "filename": "hajoori-flavours-and-fragrancs-kesar-essence-500x500 (1).jpg"
+      },
+      "recipe": {
+        "serves_portion": "Culinary Kesar Flavor (Drops)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Hajoori Premium Kesar Essence",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Authentic liquid kesar flavoring for milk, shrikhand, basundi, ice cream, and traditional confectionery.",
+          "gu": "શ્રીખંડ, બાસુંદી, આઈસ્ક્રીમ અને દૂધની બનાવટો માટે અધિકૃત હજુરી કેસર ફ્લેવર."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-mixed-fruit-essence-20g",
+      "name": "Rich 'n' Spicy Mixed Fruit Culinary Essence",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Essence",
+        "Mixed Fruit",
+        "Baking",
+        "Mocktails"
+      ],
+      "regional_names": {
+        "gu": "મિક્સ્ડ ફ્રુટ એસેન્સ"
+      },
+      "net_weight": {
+        "value": 20,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/essence/mixed fruit.png",
+        "filename": "mixed fruit.png"
+      },
+      "recipe": {
+        "serves_portion": "Tutti Frutti / Tutti Fruit Flavor",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Mixed Fruit Culinary Essence",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Tropical fruit blend essence for bakery cakes, jellies, ice creams, candies, and fruit mocktails.",
+          "gu": "કેક, પેસ્ટ્રી, જેલી, આઈસ્ક્રીમ અને મોકટેલ માટે મિક્સ ફ્રૂટની મીઠી સુગંધ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-pineapple-essence-20g",
+      "name": "Rich 'n' Spicy Pineapple Culinary Essence",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Essence",
+        "Pineapple",
+        "Halwa",
+        "Baking"
+      ],
+      "regional_names": {
+        "gu": "પાઈનેપલ એસેન્સ"
+      },
+      "net_weight": {
+        "value": 20,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/essence/pineapple.jpg",
+        "filename": "pineapple.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Zesty Tropical Pineapple Aroma",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Pineapple Culinary Essence",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Bright tangy pineapple flavor drops for pineapple sheera, cakes, pastries, fruit punch, and shaved ice golas.",
+          "gu": "પાઈનેપલ શીરો, કેક, આઈસ ગોલા અને શરબત માટે પાઈનેપલ એસેન્સ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-shahi-biryani-essence-20g",
+      "name": "Rich 'n' Spicy Shahi Biryani Aromatic Essence",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Essence",
+        "Biryani Essence",
+        "Mughlai",
+        "Dum Cooking"
+      ],
+      "regional_names": {
+        "gu": "શાહી બિરયાની એસેન્સ"
+      },
+      "net_weight": {
+        "value": 20,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/essence/shahi biryani.jpg",
+        "filename": "shahi biryani.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Royal Biryani Finishing Drops",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Shahi Biryani Aromatic Essence",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Secret master blend of kewra, saffron, and sweet aromatic notes. Sprinkle 2-3 drops over layered dum biryani before sealing the handi.",
+          "gu": "દમ બિરયાનીની હાંડી સીલ કરતાં પહેલાં ૨-૩ ટીપાં છાંટી લગ્નપ્રસંગ જેવી શાહી મહેક લાવો."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-vanilla-essence-20g",
+      "name": "Rich 'n' Spicy Pure Vanilla Essence",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Essence",
+        "Vanilla",
+        "Baking",
+        "Custard"
+      ],
+      "regional_names": {
+        "gu": "વેનીલા એસેન્સ"
+      },
+      "net_weight": {
+        "value": 20,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/essence/vanilla essence.jpg",
+        "filename": "vanilla essence.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Baking & Dessert Staple",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Pure Vanilla Essence",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Warm, creamy vanilla flavor. Essential for homemade cakes, cookies, custards, pancakes, and ice creams.",
+          "gu": "કેક, બિસ્કિટ, કસ્ટર્ડ અને આઈસ્ક્રીમ બનાવવા માટે અનિવાર્ય વેનીલા એસેન્સ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-white-rose-essence-20g",
+      "name": "Rich 'n' Spicy White Rose Culinary Essence",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Essence",
+        "White Rose",
+        "Aromatics",
+        "Mithai"
+      ],
+      "regional_names": {
+        "gu": "વ્હાઈટ રોઝ એસેન્સ"
+      },
+      "net_weight": {
+        "value": 20,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/essence/white rose.jpg",
+        "filename": "white rose.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Delicate Floral Essence",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy White Rose Culinary Essence",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Concentrated white rose petal aroma. Enhances rasmalai, sandesh, chilled lassi, and aristocratic sweet recipes.",
+          "gu": "રસમલાઈ, સંદેશ, લસ્સી અને બંગાળી મીઠાઈઓ માટે નાજુક ગુલાબી સુગંધ આપતું વ્હાઈટ રોઝ એસેન્સ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-fusilli-pasta-500g",
+      "name": "Rich 'n' Spicy Durum Wheat Fusilli Pasta",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Pasta",
+        "Fusilli",
+        "Durum Wheat",
+        "Italian"
+      ],
+      "regional_names": {
+        "gu": "ફ્યુસિલી પાસ્તા"
+      },
+      "net_weight": {
+        "value": 500,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/pasta/fusilli-pasta.jpg",
+        "filename": "fusilli-pasta.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Spiral Pasta (4-5 Servings)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Durum Wheat Fusilli Pasta",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "100% durum wheat semolina spiral pasta. Deep grooves capture thick tomato, cheese, or pesto sauces perfectly.",
+          "gu": "૧૦૦% ડુરમ ઘઉંની સોજીમાંથી બનેલા સ્પ્રિંગ આકારના ફ્યુસિલી પાસ્તા. ક્રીમી કે રેડ સોસ સાથે પકાવવા માટે શ્રેષ્ઠ."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-penne-pasta-500g",
+      "name": "Rich 'n' Spicy Durum Wheat Penne Rigate Pasta",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Pasta",
+        "Penne",
+        "Arrabbiata",
+        "Durum Wheat"
+      ],
+      "regional_names": {
+        "gu": "પેને પાસ્તા"
+      },
+      "net_weight": {
+        "value": 500,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/pasta/penne pasta.jpg",
+        "filename": "penne pasta.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Ridged Penne Pasta (4-5 Servings)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Durum Wheat Penne Rigate Pasta",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Tubular diagonally-cut ridged penne pasta. Holds rich spicy arrabbiata, alfredo, and baked cheese sauces wonderfully.",
+          "gu": "ચીઝી વાઈટ સોસ અથવા તીખા રેડ એરાબિયાટા સોસ સાથે બનાવવા માટે રીજ્ડ પેને પાસ્તા."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    },
+    {
+      "id": "others-pipe-rigate-pasta-500g",
+      "name": "Rich 'n' Spicy Durum Wheat Pipe Rigate Pasta",
+      "brand": "Rich 'n' SP!CY",
+      "category": "Others",
+      "product_type": "Dry Marinade / Spice Mix",
+      "tags": [
+        "Others",
+        "Pasta",
+        "Pipe Rigate",
+        "Macaroni",
+        "Durum Wheat"
+      ],
+      "regional_names": {
+        "gu": "પાઈપ રીગાટે પાસ્તા"
+      },
+      "net_weight": {
+        "value": 500,
+        "unit": "g"
+      },
+      "pricing": {
+        "mrp": null,
+        "currency": "INR"
+      },
+      "packaging_type": "Standard Retail Sealed Pack",
+      "dietary": {
+        "is_vegetarian_mix": true,
+        "suggested_protein": [
+          "Snacks",
+          "Bakery",
+          "Desserts",
+          "Italian",
+          "Mughlai"
+        ]
+      },
+      "images": {
+        "primary": "product images/others/pasta/pipe rigate pasta.jpg",
+        "filename": "pipe rigate pasta.jpg"
+      },
+      "recipe": {
+        "serves_portion": "Curved Elbow Pasta (4-5 Servings)",
+        "marination_time": "None",
+        "cooking_methods": [
+          "Seasoning",
+          "Baking",
+          "Boil",
+          "Blend"
+        ],
+        "required_ingredients": [
+          "Rich 'n' Spicy Durum Wheat Pipe Rigate Pasta",
+          "Use as instructed for culinary dishes"
+        ],
+        "instructions": {
+          "en": "Snailshell curved pipe rigate pasta. The hollow shape fills delightfully with melted cheese sauces, soups, and pasta salads.",
+          "gu": "મેક એન્ડ ચીઝ, પાસ્તા સલાડ અને સૂપ માટે અંદર સોસ ભરાઈ જાય તેવા પાઈપ રીગાટે પાસ્તા."
+        }
+      },
+      "manufacturer": {
+        "name": "City Gruh Udhyog",
+        "address": "10/2573 City Masala Bhagatalao, opposite Hafiz Brothers, Surat-395003",
+        "contact": "9898155726"
+      }
+    }
+  ]
+}
